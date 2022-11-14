@@ -6,7 +6,7 @@ Whois
 [Definition](../../definitions/definitions_W.md#whois)
 
 ## DNS Footprinting
-DNS (Domain name system)
+Domain name system (DNS)
 
 [Definition](../../definitions/definitions_D.md#domain-name-system)
 

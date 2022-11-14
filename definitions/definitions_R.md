@@ -7,6 +7,12 @@ It has so many modules, database interaction, built-in convenience functions, in
 Links
 - [https://github.com/lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng)
 
+## Remote Procedure Call
+Microsoft RPC (Microsoft Remote Procedure Call) is a modified version of DCE/RPC. Additions include partial support for UCS-2 (but not Unicode) strings, implicit handles, and complex calculations in the variable-length string and structure paradigms already present in DCE/RPC.
+
+Links
+- [https://en.wikipedia.org/wiki/Microsoft_RPC](https://en.wikipedia.org/wiki/Microsoft_RPC)
+
 ## Risk Management
 Risk management is the identification, evaluation, and prioritization of risks (defined in ISO 31000 as the effect of uncertainty on objectives) followed by coordinated and economical application of resources to minimize, monitor, and control the probability or impact of unfortunate events or to maximize the realization of opportunities.
 

@@ -6,6 +6,9 @@ Eavesdropping is the act of secretly or stealthily listening to the private conv
 Links
 - [https://en.wikipedia.org/wiki/Eavesdropping](https://en.wikipedia.org/wiki/Eavesdropping)
 
+## Enumeration
+Enumeration is defined as the process of extracting user names, machine names, network resources, shares and services from a system.
+
 ## Exiftool
 ExifTool is a free and open-source software program for reading, writing, and manipulating image, audio, video, and PDF metadata.
 It is platform independent, available as both a Perl library (Image::ExifTool) and command-line application.

@@ -1,5 +1,18 @@
 # Definitions T
 
+## Tactics, Techniques and Procedures
+Tactics, Techniques, and Procedures (TTPs) is an essential concept in terrorism and cyber security studies.
+The role of TTPs in terrorism analysis is to identify individual patterns of behavior of a particular terrorist activity, or a particular terrorist organisation, and to examine and categorize more general tactics and weapons used by a particular terrorist activity, or a particular terrorist organisation.
+
+Links
+- [https://en.wikipedia.org/wiki/Terrorist_Tactics,_Techniques,_and_Procedures](https://en.wikipedia.org/wiki/Terrorist_Tactics,_Techniques,_and_Procedures)
+ 
+## Telnet
+Telnet is an application protocol used on the Internet or local area network to provide a bidirectional interactive text-oriented communication facility using a virtual terminal connection.[1] User data is interspersed in-band with Telnet control information in an 8-bit byte oriented data connection over the Transmission Control Protocol (TCP).
+
+Links
+- [https://en.wikipedia.org/wiki/Telnet](https://en.wikipedia.org/wiki/Telnet)
+
 ## The Dark Web
 The dark web is the World Wide Web content that exists on darknets: overlay networks that use the Internet but require specific software, configurations, or authorization to access.
 Through the dark web, private computer networks can communicate and conduct business anonymously without divulging identifying information, such as a user's location.
@@ -62,11 +75,10 @@ Three-way handshake (active open), retransmission, and error detection adds to r
 Links
 - [https://en.wikipedia.org/wiki/Transmission_Control_Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 
-
-## Tactics, Techniques and Procedures
-Tactics, Techniques, and Procedures (TTPs) is an essential concept in terrorism and cyber security studies.
-The role of TTPs in terrorism analysis is to identify individual patterns of behavior of a particular terrorist activity, or a particular terrorist organisation, and to examine and categorize more general tactics and weapons used by a particular terrorist activity, or a particular terrorist organisation.
+## Trivial File Transfer Protocol
+Trivial File Transfer Protocol (TFTP) is a simple lockstep File Transfer Protocol which allows a client to get a file from or put a file onto a remote host. One of its primary uses is in the early stages of nodes booting from a local area network.
 
 Links
-- [https://en.wikipedia.org/wiki/Terrorist_Tactics,_Techniques,_and_Procedures](https://en.wikipedia.org/wiki/Terrorist_Tactics,_Techniques,_and_Procedures)
- 
+- [https://en.wikipedia.org/wiki/Trivial_File_Transfer_Protocol](https://en.wikipedia.org/wiki/Trivial_File_Transfer_Protocol)
+
+

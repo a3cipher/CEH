@@ -38,6 +38,13 @@ The Domain Name System (DNS) is the hierarchical and distributed naming system u
 Links
 - [https://en.wikipedia.org/wiki/Domain_Name_System](https://en.wikipedia.org/wiki/Domain_Name_System)
 
+## Domain Name System Security Extensions
+The Domain Name System Security Extensions (DNSSEC) is a suite of extension specifications by the Internet Engineering Task Force (IETF) for securing data exchanged in the Domain Name System (DNS) in Internet Protocol (IP) networks.
+
+Links
+- [https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions)
+
+
 ## Dumpster Diving
 Dumpster diving (also totting, skipping, skip diving or skip salvage) is salvaging from large commercial, residential, industrial and construction containers for unused items discarded by their owners but deemed useful to the picker.
 

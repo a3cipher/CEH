@@ -27,6 +27,13 @@ Start a full pentest in minutes with powerful cloud-based tools, plus flexible r
 Links
 - [https://pentest-tools.com](https://pentest-tools.com)
 
+## Post Office Protocol
+In computing, the Post Office Protocol (POP) is an application-layer Internet standard protocol used by e-mail clients to retrieve e-mail from a mail server.
+POP version 3 (POP3) is the version in common use, and along with IMAP the most common protocols for email retrieval.
+
+Links
+- [https://en.wikipedia.org/wiki/Post_Office_Protocol](https://en.wikipedia.org/wiki/Post_Office_Protocol)
+
 ## Proxy Server
 In computer networking, a proxy server is a server application that acts as an intermediary between a client requesting a resource and the server providing that resource.
 

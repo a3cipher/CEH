@@ -1,7 +1,7 @@
 # Section 05: Scanning Beyond IDS and Firewall
 
 ## Evasion Techniques (Routing)
-IDS (Intrusion detection system)
+Intrusion detection system (IDS)
 
 [Definition](../../definitions/definitions_I.md#intrusion-detection-system)
 

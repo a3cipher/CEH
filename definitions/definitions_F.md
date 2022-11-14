@@ -20,3 +20,9 @@ The Federal Information Security Modernization Act of 2014 (FISMA 2014) updates 
 
 Links
 - [https://www.cisa.gov/federal-information-security-modernization-act](https://www.cisa.gov/federal-information-security-modernization-act)
+
+## File Transfer Protocol
+The File Transfer Protocol (FTP) is a standard communication protocol used for the transfer of computer files from a server to a client on a computer network. FTP is built on a client–server model architecture using separate control and data connections between the client and the server.
+
+Links
+- [https://en.wikipedia.org/wiki/File_Transfer_Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol)

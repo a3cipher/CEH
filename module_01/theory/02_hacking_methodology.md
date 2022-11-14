@@ -38,12 +38,12 @@ Cyber kill chain
 [Definition](../../definitions/definitions_C.md#cyber-kill-chain)
 
 ## Tactics, Techniques and Procedures (TTPs)
-TTPs (Tactics, techniques and procedures)
+Tactics, techniques and procedures (TTPs)
 
 [Definition](../../definitions/definitions_T.md#tactics-techniques-and-procedures)
 
-## Indicators of Compromise
-Indicator of compromise
+## Indicators of Compromise (IoC)
+Indicator of compromise (IoC)
 
 [Definition](../../definitions/definitions_I.md#indicator-of-compromise)
 

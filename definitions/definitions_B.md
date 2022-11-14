@@ -6,6 +6,12 @@ Banner grabbing is a technique used to gain information about a computer system 
 Links
 - [https://en.wikipedia.org/wiki/Banner_grabbing](https://en.wikipedia.org/wiki/Banner_grabbing)
 
+## Border Gateway Protocol
+Border Gateway Protocol (BGP) is a standardized exterior gateway protocol designed to exchange routing and reachability information among autonomous systems (AS) on the Internet.[1] BGP is classified as a path-vector routing protocol,[2] and it makes routing decisions based on paths, network policies, or rule-sets configured by a network administrator.
+
+Links
+- [https://en.wikipedia.org/wiki/Border_Gateway_Protocol](https://en.wikipedia.org/wiki/Border_Gateway_Protocol)
+
 ## Burp Suite
 Burp Suite is an integrated platform/graphical tool for performing security testing of web applications.
 
