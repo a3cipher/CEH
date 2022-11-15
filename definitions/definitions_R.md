@@ -7,6 +7,13 @@ It becomes a bug when one or more of the possible behaviors is undesirable.
 Links
 - [https://en.wikipedia.org/wiki/Race_condition](https://en.wikipedia.org/wiki/Race_condition)
 
+## Rainbow Table
+A rainbow table is an efficient way to store data that has been computed in advance to facilitate cracking passwords.
+To protect stored passwords from compromise in case of a data breach, organizations avoid storing them directly, instead transforming them using a scrambling function – typically a cryptographic hash.
+
+Links
+- [https://en.wikipedia.org/wiki/Rainbow_table](https://en.wikipedia.org/wiki/Rainbow_table)
+
 ## Recon-ng
 Recon-ng is a Web Reconnaissance tool written in Python.
 It has so many modules, database interaction, built-in convenience functions, interactive help, and command completion, Recon-ng provides a powerful environment in which open source web-based reconnaissance can be conducted, and we can gather all information.
@@ -19,6 +26,12 @@ Microsoft RPC (Microsoft Remote Procedure Call) is a modified version of DCE/RPC
 
 Links
 - [https://en.wikipedia.org/wiki/Microsoft_RPC](https://en.wikipedia.org/wiki/Microsoft_RPC)
+
+## Return Oriented Programming
+Return-oriented programming (ROP) is a computer security exploit technique that allows an attacker to execute code in the presence of security defenses such as executable space protection and code signing.
+
+Links
+- [https://en.wikipedia.org/wiki/Return-oriented_programming](https://en.wikipedia.org/wiki/Return-oriented_programming)
 
 ## Risk Management
 Risk management is the identification, evaluation, and prioritization of risks (defined in ISO 31000 as the effect of uncertainty on objectives) followed by coordinated and economical application of resources to minimize, monitor, and control the probability or impact of unfortunate events or to maximize the realization of opportunities.

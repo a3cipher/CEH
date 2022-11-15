@@ -14,6 +14,13 @@ A common approach (brute-force attack) is to repeatedly try guesses for the pass
 Links
 - [https://en.wikipedia.org/wiki/Password_cracking](https://en.wikipedia.org/wiki/Password_cracking)
 
+## Password Spraying Attack
+Password spraying is a type of brute force attack.
+In this attack, an attacker will brute force logins based on list of usernames with default passwords on the application.
+
+Links
+- [https://owasp.org/www-community/attacks/Password_Spraying_Attack](https://owasp.org/www-community/attacks/Password_Spraying_Attack)
+
 ## The Payment Card Industry Data Security Standard
 The Payment Card Industry Data Security Standard (PCI DSS) is an information security standard for organizations that handle branded credit cards from the major card schemes.
 

@@ -16,6 +16,12 @@ Links
 - [https://www.tenable.com/products/nessus](https://www.tenable.com/products/nessus)
 - [https://en.wikipedia.org/wiki/Nessus_(software)](https://en.wikipedia.org/wiki/Nessus_(software))
 
+## Net Technology Lan Manager
+In a Windows network, NT (New Technology) LAN Manager (NTLM) is a suite of Microsoft security protocols intended to provide authentication, integrity, and confidentiality to users.
+
+Links
+- [https://en.wikipedia.org/wiki/NT_LAN_Manager](https://en.wikipedia.org/wiki/NT_LAN_Manager)
+
 ## NetBIOS
 NetBIOS (/ˈnɛtbaɪɒs/) is an acronym for Network Basic Input/Output System.
 It provides services related to the session layer of the OSI model allowing applications on separate computers to communicate over a local area network.

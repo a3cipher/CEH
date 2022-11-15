@@ -81,4 +81,9 @@ Trivial File Transfer Protocol (TFTP) is a simple lockstep File Transfer Protoco
 Links
 - [https://en.wikipedia.org/wiki/Trivial_File_Transfer_Protocol](https://en.wikipedia.org/wiki/Trivial_File_Transfer_Protocol)
 
+## Trojan Horse
+In computing, a Trojan horse is any malware that misleads users of its true intent.
+The term is derived from the Ancient Greek story of the deceptive Trojan Horse that led to the fall of the city of Troy.
 
+Links
+- [https://en.wikipedia.org/wiki/Trojan_horse_(computing)](https://en.wikipedia.org/wiki/Trojan_horse_(computing))

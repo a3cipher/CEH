@@ -6,6 +6,12 @@
 Links
 - [https://en.wikipedia.org/wiki/Machine_learning](https://en.wikipedia.org/wiki/Machine_learning)
 
+## Man in The Middle Attack
+In cryptography and computer security, a man-in-the-middle, monster-in-the-middle, machine-in-the-middle, monkey-in-the-middle, meddler-in-the-middle, manipulator-in-the-middle (MITM), person-in-the-middle (PITM) or adversary-in-the-middle (AiTM) attack is a cyberattack where the attacker secretly relays and possibly alters the communications between two parties who believe that they are directly communicating with each other, as the attacker has inserted themselves between the two parties.
+
+Links
+- [https://en.wikipedia.org/wiki/Man-in-the-middle_attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
+
 ## Media Access Control Address Spoofing
 MAC spoofing is a technique for changing a factory-assigned Media Access Control (MAC) address of a network interface on a networked device.
 The MAC address that is hard-coded on a network interface controller (NIC) cannot be changed.

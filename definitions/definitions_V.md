@@ -1,5 +1,11 @@
 # Definitions V
 
+## VulDB
+Number one vulnerability management and threat intelligence platform documenting and explaining vulnerabilities since 1970.
+
+Links
+- [https://vuldb.com](https://vuldb.com)
+
 ## Vulnerability
 Vulnerabilities are flaws in a computer system that weaken the overall security of the device/system.
 Vulnerabilities can be weaknesses in either the hardware itself, or the software that runs on the hardware.

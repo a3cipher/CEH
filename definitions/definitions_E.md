@@ -23,3 +23,9 @@ An exploit (from the English verb to exploit, meaning "to use something to oneâ€
 Links
 - [https://en.wikipedia.org/wiki/Exploit_(computer_security)](https://en.wikipedia.org/wiki/Exploit_(computer_security))
 
+## Exploit DB
+The Exploit Database is an archive of public exploits and corresponding vulnerable software, developed for use by penetration testers and vulnerability researchers.
+
+Links
+- [https://github.com/offensive-security/exploitdb](https://github.com/offensive-security/exploitdb)
+- [https://www.exploit-db.com](https://www.exploit-db.com)

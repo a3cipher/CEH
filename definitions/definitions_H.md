@@ -16,6 +16,13 @@ In Internet activism, hacktivism, or hactivism (a portmanteau of hack and activi
 Links
 - [https://en.wikipedia.org/wiki/Hacktivism](https://en.wikipedia.org/wiki/Hacktivism)
 
+## Hashcat
+Hashcat is a password recovery tool.
+It had a proprietary code base until 2015, but was then released as open source software.
+
+Links
+- [https://hashcat.net/hashcat](https://hashcat.net/hashcat)
+
 ## Health Insurance Portability and Accountability Act
 The Health Insurance Portability and Accountability Act of 1996 (HIPAA or the Kennedy–Kassebaum Act) is a United States Act of Congress enacted by the 104th United States Congress and signed into law by President Bill Clinton on August 21, 1996.
 It modernized the flow of healthcare information, stipulates how personally identifiable information maintained by the healthcare and healthcare insurance industries should be protected from fraud and theft, and addressed some limitations on healthcare insurance coverage.
