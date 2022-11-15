@@ -1,5 +1,11 @@
 # Definitions B
 
+## Backdoor
+A backdoor is a typically covert method of bypassing normal authentication or encryption in a computer, product, embedded device (e.g. a home router), or its embodiment (e.g. part of a cryptosystem, algorithm, chipset, or even a "homunculus computer" —a tiny computer-within-a-computer such as that found in Intel's AMT technology).
+
+Links
+- [https://en.wikipedia.org/wiki/Backdoor_(computing)](https://en.wikipedia.org/wiki/Backdoor_(computing))
+
 ## Banner Grabbing
 Banner grabbing is a technique used to gain information about a computer system on a network and the services running on its open ports. Administrators can use this to take inventory of the systems and services on their network. However, an intruder can use banner grabbing in order to find network hosts that are running versions of applications and operating systems with known exploits.
 

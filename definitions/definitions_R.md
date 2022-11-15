@@ -62,3 +62,8 @@ A risk matrix is a matrix that is used during risk assessment to define the leve
 Links
 - [https://en.wikipedia.org/wiki/Risk_matrix](https://en.wikipedia.org/wiki/Risk_matrix)
 
+## Rootkit
+A rootkit is a collection of computer software, typically malicious, designed to enable access to a computer or an area of its software that is not otherwise allowed (for example, to an unauthorized user) and often masks its existence or the existence of other software.
+
+Links
+- [https://en.wikipedia.org/wiki/Rootkit](https://en.wikipedia.org/wiki/Rootkit)

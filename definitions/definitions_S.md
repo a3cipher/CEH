@@ -77,6 +77,18 @@ Splunk is the data platform that powers enterprise observability, unified securi
 Links
 - [https://www.splunk.com](https://www.splunk.com)
 
+## Spyware
+Spyware (a portmanteau for spying software) is software with malicious behaviour that aims to gather information about a person or organization and send it to another entity in a way that harms the user—for example, by violating their privacy or endangering their device's security.
+
+Links
+- [https://en.wikipedia.org/wiki/Spyware](https://en.wikipedia.org/wiki/Spyware)
+
+## Steganography
+Steganography (/ˌstɛɡəˈnɒɡrəfi/ (listen) STEG-ə-NOG-rə-fee) is the practice of representing information within another message or physical object, in such a manner that the presence of the information is not evident to human inspection.
+
+Links
+- [https://en.wikipedia.org/wiki/Steganography](https://en.wikipedia.org/wiki/Steganography)
+
 ## Sublist3r
 Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT.
 

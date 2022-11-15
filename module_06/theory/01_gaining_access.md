@@ -56,6 +56,8 @@ Password salt
 ## Exploitation
 Exploit DB
 
+[Definition](../../definitions/definitions_E.md#exploit-db)
+
 VulDB
 
 [Definition](../../definitions/definitions_V.md#vuldb)
