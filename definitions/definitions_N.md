@@ -8,6 +8,14 @@ The NVD includes databases of security checklist references, security-related so
 Links
 - [https://nvd.nist.gov](https://nvd.nist.gov)
 
+## Nessus
+Take advantage of the industry's most trusted vulnerability assessment solution to assess the modern attack surface.
+Extend beyond your traditional IT assets -- secure cloud infrastructure and gain visibility into your internet-connected attack surface.
+
+Links
+- [https://www.tenable.com/products/nessus](https://www.tenable.com/products/nessus)
+- [https://en.wikipedia.org/wiki/Nessus_(software)](https://en.wikipedia.org/wiki/Nessus_(software))
+
 ## NetBIOS
 NetBIOS (/ˈnɛtbaɪɒs/) is an acronym for Network Basic Input/Output System.
 It provides services related to the session layer of the OSI model allowing applications on separate computers to communicate over a local area network.
@@ -34,6 +42,13 @@ The Network Time Protocol (NTP) is a networking protocol for clock synchronizati
 
 Links
 - [https://en.wikipedia.org/wiki/Network_Time_Protocol](https://en.wikipedia.org/wiki/Network_Time_Protocol)
+
+## Nikto
+Nikto is a pluggable web server and CGI scanner written in Perl, using rfp’s LibWhisker to perform fast security or informational checks.
+
+Links
+- [https://cirt.net/Nikto2](https://cirt.net/Nikto2)
+- [https://www.kali.org/tools/nikto](https://www.kali.org/tools/nikto)
 
 ## nmap
 Nmap is a network scanner created by Gordon Lyon.
