@@ -28,6 +28,13 @@ Links
 - [https://www.metasploit.com](https://www.metasploit.com)
 
 
+## Microsoft Security Response Center
+The Microsoft Security Response Center is part of the defender community and on the front line of security response evolution.
+For over twenty years, we have been engaged with security researchers working to protect customers and the broader ecosystem.
+
+Links
+- [https://www.microsoft.com/en-us/msrc](https://www.microsoft.com/en-us/msrc)
+
 ## MITRE ATT&CK Framework
 MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
 The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.

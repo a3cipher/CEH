@@ -1,5 +1,13 @@
 # Defintions N
 
+## National Vulnerability Database (NVD)
+The NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP).
+This data enables automation of vulnerability management, security measurement, and compliance.
+The NVD includes databases of security checklist references, security-related software flaws, misconfigurations, product names, and impact metrics.
+
+Links
+- [https://nvd.nist.gov](https://nvd.nist.gov)
+
 ## NetBIOS
 NetBIOS (/ˈnɛtbaɪɒs/) is an acronym for Network Basic Input/Output System.
 It provides services related to the session layer of the OSI model allowing applications on separate computers to communicate over a local area network.

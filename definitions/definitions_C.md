@@ -15,6 +15,24 @@ For any information system to serve its purpose, the information must be availab
 Links
 - [https://en.wikipedia.org/wiki/Confidentiality](https://en.wikipedia.org/wiki/Confidentiality)
 
+## Common Vulnerabilities and Exposures
+The Common Vulnerabilities and Exposures (CVE) system provides a reference-method for publicly known information-security vulnerabilities and exposures.
+
+Links
+- [https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures)
+
+## Common Vulnerability Scoring System
+The Common Vulnerability Scoring System (CVSS) is a free and open industry standard for assessing the severity of computer system security vulnerabilities.
+
+Links
+- [https://en.wikipedia.org/wiki/Common_Vulnerability_Scoring_System](https://en.wikipedia.org/wiki/Common_Vulnerability_Scoring_System)
+
+## Common Weakness Enumeration
+The Common Weakness Enumeration (CWE) is a category system for hardware and software weaknesses and vulnerabilities.
+
+Links
+- [https://en.wikipedia.org/wiki/Common_Weakness_Enumeration](https://en.wikipedia.org/wiki/Common_Weakness_Enumeration)
+
 ## Competitive Intelligence
 Competitive intelligence (CI) is the process and forward-looking practices used in producing knowledge about the competitive environment to improve organizational performance.
 
