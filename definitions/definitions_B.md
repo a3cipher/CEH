@@ -12,6 +12,12 @@ Border Gateway Protocol (BGP) is a standardized exterior gateway protocol design
 Links
 - [https://en.wikipedia.org/wiki/Border_Gateway_Protocol](https://en.wikipedia.org/wiki/Border_Gateway_Protocol)
 
+## Buffer Overflow
+In information security and programming, a buffer overflow, or buffer overrun, is an anomaly whereby a program, while writing data to a buffer, overruns the buffer's boundary and overwrites adjacent memory locations.
+
+Links
+- [https://en.wikipedia.org/wiki/Buffer_overflow](https://en.wikipedia.org/wiki/Buffer_overflow)
+
 ## Burp Suite
 Burp Suite is an integrated platform/graphical tool for performing security testing of web applications.
 

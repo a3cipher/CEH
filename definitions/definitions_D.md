@@ -44,6 +44,11 @@ The Domain Name System Security Extensions (DNSSEC) is a suite of extension spec
 Links
 - [https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions)
 
+## Dynamic Link Library
+Dynamic-link library (DLL) is Microsoft's implementation of the shared library concept in the Microsoft Windows and OS/2 operating systems
+
+Links
+- [https://en.wikipedia.org/wiki/Dynamic-link_library](https://en.wikipedia.org/wiki/Dynamic-link_library)
 
 ## Dumpster Diving
 Dumpster diving (also totting, skipping, skip diving or skip salvage) is salvaging from large commercial, residential, industrial and construction containers for unused items discarded by their owners but deemed useful to the picker.
