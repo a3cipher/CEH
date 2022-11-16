@@ -146,3 +146,10 @@ A network switch (also called switching hub, bridging hub, and, by the IEEE, MAC
 
 Links
 - [https://en.wikipedia.org/wiki/Network_switch](https://en.wikipedia.org/wiki/Network_switch)
+
+## SYN Flood Attack
+A SYN flood is a form of denial-of-service attack in which an attacker rapidly initiates a connection to a server without finalizing the connection.
+The server has to spend resources waiting for half-opened connections, which can consume enough resources to make the system unresponsive to legitimate traffic.
+
+Links
+- [https://en.wikipedia.org/wiki/SYN_flood](https://en.wikipedia.org/wiki/SYN_flood)

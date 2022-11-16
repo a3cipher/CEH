@@ -105,12 +105,18 @@ In computing, Internet Protocol Security (IPsec) is a secure network protocol su
 Links
 - [https://en.wikipedia.org/wiki/IPsec](https://en.wikipedia.org/wiki/IPsec)
 
+## Internet Relay Chat
+Internet Relay Chat (IRC) is a text-based chat system for instant messaging.
+IRC is designed for group communication in discussion forums, called channels, but also allows one-on-one communication via private messages as well as chat and data transfer, including file sharing.
+
+Links
+- [https://en.wikipedia.org/wiki/Internet_Relay_Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
+
 ## Intrusion Detection System
 An intrusion detection system (IDS; also intrusion prevention system or IPS) is a device or software application that monitors a network or systems for malicious activity or policy violations.
 
 Links
 - [https://en.wikipedia.org/wiki/Intrusion_detection_system](https://en.wikipedia.org/wiki/Intrusion_detection_system)
-
 
 ## ISO 27001
 ISO/IEC 27001 is an international standard on how to manage information security.

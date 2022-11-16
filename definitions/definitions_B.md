@@ -12,6 +12,9 @@ A background check is a process a person or company uses to verify that an indiv
 Links
 - [https://en.wikipedia.org/wiki/Background_check](https://en.wikipedia.org/wiki/Background_check)
 
+## Bandwith Throttling
+Bandwidth throttling consists in the intentional limitation of the communication speed (bytes or kilobytes per second) of the ingoing (received) data and/or in the limitation of the speed of outgoing (sent) data in a network node or in a network device.
+
 ## Banner Grabbing
 Banner grabbing is a technique used to gain information about a computer system on a network and the services running on its open ports. Administrators can use this to take inventory of the systems and services on their network. However, an intruder can use banner grabbing in order to find network hosts that are running versions of applications and operating systems with known exploits.
 

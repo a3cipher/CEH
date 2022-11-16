@@ -20,6 +20,13 @@ Ransomware is a type of malware from cryptovirology that threatens to publish th
 Links
 - [https://en.wikipedia.org/wiki/Ransomware](https://en.wikipedia.org/wiki/Ransomware)
 
+## Rate Limiting
+In computer networks, rate limiting is used to control the rate of requests sent or received by a network interface controller.
+It can be used to prevent DoS attacks and limit web scraping.
+
+Links
+- [https://en.wikipedia.org/wiki/Rate_limiting](https://en.wikipedia.org/wiki/Rate_limiting)
+
 ## Recon-ng
 Recon-ng is a Web Reconnaissance tool written in Python.
 It has so many modules, database interaction, built-in convenience functions, interactive help, and command completion, Recon-ng provides a powerful environment in which open source web-based reconnaissance can be conducted, and we can gather all information.

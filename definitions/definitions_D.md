@@ -19,6 +19,12 @@ Its intent is to provide redundancy in the event a security control fails or a v
 Links
 - [https://en.wikipedia.org/wiki/Defense_in_depth_(computing)](https://en.wikipedia.org/wiki/Defense_in_depth_(computing))
 
+## Denial of Service Attack
+In computing, a denial-of-service attack (DoS attack) is a cyber-attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to a network. Denial of service is typically accomplished by flooding the targeted machine or resource with superfluous requests in an attempt to overload systems and prevent some or all legitimate requests from being fulfilled.
+
+Links
+- [https://en.wikipedia.org/wiki/Denial-of-service_attack](https://en.wikipedia.org/wiki/Denial-of-service_attack)
+
 ## Diamond Model of Intrusion Analysis
 The diamond model of intrusion analysis is a model used by information security professionals to authenticate and track cyber threats.
 
@@ -37,6 +43,13 @@ It criminalizes production and dissemination of technology, devices, or services
 
 Links
 - [https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)
+
+## Distributed Denial of Service Attack
+A distributed denial-of-service (DDoS) attack occurs when multiple systems flood the bandwidth or resources of a targeted system, usually one or more web servers.
+A DDoS attack uses more than one unique IP address or machines, often from thousands of hosts infected with malware.
+
+Links
+- [https://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_DoS](https://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_DoS)
 
 ## DNSRecon
 DNSRecon is a Python script that provides the ability to perform: Check all NS Records for Zone Transfers.

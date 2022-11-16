@@ -33,6 +33,12 @@ Links
 ## Living off the Land
 Living off the land refers to the use of dual-use tools, which are either already installed in the victims' environment, or are admin, forensic or system tools used maliciously.
 
+## Load Balancing
+In computing, load balancing is the process of distributing a set of tasks over a set of resources (computing units), with the aim of making their overall processing more efficient.
+
+Links
+- [https://en.wikipedia.org/wiki/Load_balancing_(computing)](https://en.wikipedia.org/wiki/Load_balancing_(computing))
+
 ## Logic Bomb
 A logic bomb is a piece of code intentionally inserted into a software system that will set off a malicious function when specified conditions are met.
 For example, a programmer may hide a piece of code that starts deleting files (such as a salary database trigger), should they ever be terminated from the company.
