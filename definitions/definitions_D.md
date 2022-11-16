@@ -50,6 +50,24 @@ The Domain Name System Security Extensions (DNSSEC) is a suite of extension spec
 Links
 - [https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions)
 
+## Domain Name System Spoofing
+DNS spoofing, also referred to as DNS cache poisoning, is a form of computer security hacking in which corrupt Domain Name System data is introduced into the DNS resolver's cache, causing the name server to return an incorrect result record, e.g. an IP address.
+This results in traffic being diverted to the attacker's computer (or any other computer).
+
+Links
+- [https://en.wikipedia.org/wiki/Domain_Name_System](https://en.wikipedia.org/wiki/Domain_Name_System)
+
+## Dynamic Host Configuration Protocol
+The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on Internet Protocol (IP) networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client–server architecture.
+
+### Rogue DHCP server
+A rogue DHCP server is a DHCP server on a network which is not under the administrative control of the network staff.
+It is a network device such as a modem or a router connected to the network by a user who may be either unaware of the consequences of their actions or may be knowingly using it for network attacks such as man in the middle.
+
+Links
+- [https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
+- [https://en.wikipedia.org/wiki/Rogue_DHCP](https://en.wikipedia.org/wiki/Rogue_DHCP)
+
 ## Dynamic Link Library
 Dynamic-link library (DLL) is Microsoft's implementation of the shared library concept in the Microsoft Windows and OS/2 operating systems
 

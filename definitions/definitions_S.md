@@ -71,6 +71,13 @@ In computer networking, source routing, also called path addressing, allows a se
 Links
 - [https://en.wikipedia.org/wiki/Source_routing](https://en.wikipedia.org/wiki/Source_routing)
 
+## Spanning Tree Protocol
+The Spanning Tree Protocol (STP) is a network protocol that builds a loop-free logical topology for Ethernet networks.
+The basic function of STP is to prevent bridge loops and the broadcast radiation that results from them.
+
+Links
+- [https://en.wikipedia.org/wiki/Spanning_Tree_Protocol](https://en.wikipedia.org/wiki/Spanning_Tree_Protocol)
+
 ## Split DNS
 In computer networking, split-horizon DNS (also known as split-view DNS, split-brain DNS, or split DNS) is the facility of a Domain Name System (DNS) implementation to provide different sets of DNS information, usually selected by the source address of the DNS request.
 

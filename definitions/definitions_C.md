@@ -39,6 +39,12 @@ Competitive intelligence (CI) is the process and forward-looking practices used 
 Links
 - [https://en.wikipedia.org/wiki/Competitive_intelligence](https://en.wikipedia.org/wiki/Competitive_intelligence)
 
+## Content Addressable Memory Table
+Content Addressable Memory (CAM) table is a system memory construct used by Ethernet switch logic which stores information such as MAC addresses available on physical ports with their associated VLAN Parameters.
+
+Links
+- [https://en.wikipedia.org/wiki/MAC_address](https://en.wikipedia.org/wiki/MAC_address)
+
 ## Cyber Kill Chain
 Developed by Lockheed Martin, the Cyber Kill Chain® framework is part of the Intelligence Driven Defense® model for identification and prevention of cyber intrusions activity.
 The model identifies what the adversaries must complete in order to achieve their objective.
