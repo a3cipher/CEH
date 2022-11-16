@@ -31,6 +31,12 @@ Server Message Block (SMB) is a communication protocol[1] originally developed i
 Links
 - [https://en.wikipedia.org/wiki/Server_Message_Block](https://en.wikipedia.org/wiki/Server_Message_Block)
 
+## Sheep Dip
+In data security, a sheep-dip is the process of using a dedicated computer to test files on removable media for viruses before they are allowed to be used with other computers.
+
+Links
+- [https://en.wikipedia.org/wiki/Sheep_dip_(computing)](https://en.wikipedia.org/wiki/Sheep_dip_(computing))
+
 ## Shodan
 Shodan is the world's first search engine for Internet-connected devices.
 Discover how Internet intelligence can help you make better decisions.

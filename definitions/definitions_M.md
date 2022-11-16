@@ -12,6 +12,19 @@ Malware (a portmanteau for malicious software) is any software intentionally des
 Links
 - [https://en.wikipedia.org/wiki/Malware](https://en.wikipedia.org/wiki/Malware)
 
+## Malware Analysis
+Malware analysis is the study or process of determining the functionality, origin and potential impact of a given malware sample such as a virus, worm, trojan horse, rootkit, or backdoor.
+ 
+### Static malware analysis
+Static malware analysis: Static or Code Analysis is usually performed by dissecting the different resources of the binary file without executing it and studying each component.
+The binary file can also be disassembled (or reverse engineered) using a disassembler such as IDA or Ghidra.
+
+### Dynamic malware analysis
+Dynamic malware analysis: Dynamic or Behavioral analysis is performed by observing the behavior of the malware while it is actually running on a host system.
+This form of analysis is often performed in a sandbox environment to prevent the malware from actually infecting production systems; many such sandboxes are virtual systems that can easily be rolled back to a clean state after the analysis is complete.
+
+- [https://en.wikipedia.org/wiki/Malware_analysis](https://en.wikipedia.org/wiki/Malware_analysis)
+
 ## Man in The Middle Attack
 In cryptography and computer security, a man-in-the-middle, monster-in-the-middle, machine-in-the-middle, monkey-in-the-middle, meddler-in-the-middle, manipulator-in-the-middle (MITM), person-in-the-middle (PITM) or adversary-in-the-middle (AiTM) attack is a cyberattack where the attacker secretly relays and possibly alters the communications between two parties who believe that they are directly communicating with each other, as the attacker has inserted themselves between the two parties.
 

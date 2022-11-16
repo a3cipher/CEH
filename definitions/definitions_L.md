@@ -17,3 +17,13 @@ LinPEAS is a script that search for possible paths to escalate privileges on Lin
 
 Links
 - [https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS)
+
+## Living off the Land
+Living off the land refers to the use of dual-use tools, which are either already installed in the victims' environment, or are admin, forensic or system tools used maliciously.
+
+## Logic Bomb
+A logic bomb is a piece of code intentionally inserted into a software system that will set off a malicious function when specified conditions are met.
+For example, a programmer may hide a piece of code that starts deleting files (such as a salary database trigger), should they ever be terminated from the company.
+
+Links
+- [https://en.wikipedia.org/wiki/Logic_bomb](https://en.wikipedia.org/wiki/Logic_bomb)

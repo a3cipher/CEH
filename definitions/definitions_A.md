@@ -8,11 +8,24 @@ ARP was defined in 1982 by RFC 826, which is Internet Standard STD 37.
 Links
 - [https://en.wikipedia.org/wiki/Address_Resolution_Protocol](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)
 
+## Advanced Persistent Threat
+An advanced persistent threat (APT) is a stealthy threat actor, typically a nation state or state-sponsored group, which gains unauthorized access to a computer network and remains undetected for an extended period.
+In recent times, the term may also refer to non-state-sponsored groups conducting large-scale targeted intrusions for specific goals.
+
+Links
+- [https://en.wikipedia.org/wiki/Advanced_persistent_threat](https://en.wikipedia.org/wiki/Advanced_persistent_threat)
+
 ## Adware
 Adware, often called advertising-supported software by its developers, is software that generates revenue for its developer by automatically generating online advertisements in the user interface of the software or on a screen presented to the user during the installation process.
 
 Links
 - [https://en.wikipedia.org/wiki/Adware](https://en.wikipedia.org/wiki/Adware)
+
+## Antivvirus
+Antivirus software (abbreviated to AV software), also known as anti-malware, is a computer program used to prevent, detect, and remove malware.
+
+Links
+- [https://en.wikipedia.org/wiki/Antivirus_software](https://en.wikipedia.org/wiki/Antivirus_software)
 
 ## Archive Org
 The Internet Archive is an American digital library with the stated mission of "universal access to all knowledge".

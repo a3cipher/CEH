@@ -26,3 +26,10 @@ The File Transfer Protocol (FTP) is a standard communication protocol used for t
 
 Links
 - [https://en.wikipedia.org/wiki/File_Transfer_Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
+
+## Fileless Malware
+Fileless malware is a variant of computer related malicious software that exists exclusively as a computer memory-based artifact i.e. in RAM.
+It does not write any part of its activity to the computer's hard drive, thus increasing its ability to evade antivirus software that incorporate file-based whitelisting, signature detection, hardware verification, pattern-analysis, time-stamping, etc., and leaving very little evidence that could be used by digital forensic investigators to identify illegitimate activity.
+
+Links
+- [https://en.wikipedia.org/wiki/Fileless_malware](https://en.wikipedia.org/wiki/Fileless_malware)
