@@ -21,6 +21,12 @@ Clickjacking (classified as a user interface redress attack or UI redressing) is
 Links
 - [https://en.wikipedia.org/wiki/Clickjacking](https://en.wikipedia.org/wiki/Clickjacking)
 
+## Code Review
+Code review (sometimes referred to as peer review) is a software quality assurance activity in which one or several people check a program mainly by viewing and reading parts of its source code, and they do so after implementation or as an interruption of implementation.
+
+Links
+- [https://en.wikipedia.org/wiki/Code_review](https://en.wikipedia.org/wiki/Code_review)
+
 ## Common Vulnerabilities and Exposures
 The Common Vulnerabilities and Exposures (CVE) system provides a reference-method for publicly known information-security vulnerabilities and exposures.
 

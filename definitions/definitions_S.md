@@ -164,6 +164,13 @@ Spyware (a portmanteau for spying software) is software with malicious behaviour
 Links
 - [https://en.wikipedia.org/wiki/Spyware](https://en.wikipedia.org/wiki/Spyware)
 
+## Static Application Security Testing
+Static application security testing (SAST) is used to secure software by reviewing the source code of the software to identify sources of vulnerabilities.
+Although the process of statically analyzing the source code has existed as long as computers have existed, the technique spread to security in the late 90s and the first public discussion of SQL injection in 1998 when Web applications integrated new technologies like JavaScript and Flash.
+
+Links
+- [https://en.wikipedia.org/wiki/Static_application_security_testing](https://en.wikipedia.org/wiki/Static_application_security_testing)
+
 ## Steganography
 Steganography (/ˌstɛɡəˈnɒɡrəfi/ (listen) STEG-ə-NOG-rə-fee) is the practice of representing information within another message or physical object, in such a manner that the presence of the information is not evident to human inspection.
 

@@ -21,6 +21,19 @@ Banner grabbing is a technique used to gain information about a computer system 
 Links
 - [https://en.wikipedia.org/wiki/Banner_grabbing](https://en.wikipedia.org/wiki/Banner_grabbing)
 
+## Base64
+In computer programming, Base64 is a group of binary-to-text encoding schemes that represent binary data (more specifically, a sequence of 8-bit bytes) in sequences of 24 bits that can be represented by four 6-bit Base64 digits.
+
+Links
+- [https://en.wikipedia.org/wiki/Base64](https://en.wikipedia.org/wiki/Base64)
+
+## BeEF
+BeEF is short for The Browser Exploitation Framework.
+It is a penetration testing tool that focuses on the web browser.
+
+Links
+- [https://beefproject.com](https://beefproject.com)
+
 ## Border Gateway Protocol
 Border Gateway Protocol (BGP) is a standardized exterior gateway protocol designed to exchange routing and reachability information among autonomous systems (AS) on the Internet.[1] BGP is classified as a path-vector routing protocol,[2] and it makes routing decisions based on paths, network policies, or rule-sets configured by a network administrator.
 
@@ -45,6 +58,12 @@ In information security and programming, a buffer overflow, or buffer overrun, i
 
 Links
 - [https://en.wikipedia.org/wiki/Buffer_overflow](https://en.wikipedia.org/wiki/Buffer_overflow)
+
+## Bug Bounty Program
+A bug bounty program is a deal offered by many websites, organizations and software developers by which individuals can receive recognition and compensation[1][2] for reporting bugs, especially those pertaining to security exploits and vulnerabilities.
+
+Links
+- [https://en.wikipedia.org/wiki/Bug_bounty_program](https://en.wikipedia.org/wiki/Bug_bounty_program)
 
 ## Burp Suite
 Burp Suite is an integrated platform/graphical tool for performing security testing of web applications.

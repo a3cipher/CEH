@@ -31,11 +31,17 @@ Links
 Anonymous surfing allows you to wander the Internet without leaving any track of your computer's IP (Internet Protocol) address.
 This is accomplished via a proxy service.
 
-## Antivvirus
+## Antivirus
 Antivirus software (abbreviated to AV software), also known as anti-malware, is a computer program used to prevent, detect, and remove malware.
 
 Links
 - [https://en.wikipedia.org/wiki/Antivirus_software](https://en.wikipedia.org/wiki/Antivirus_software)
+
+## Application Blacklisting
+In computing, a blacklist, disallowlist, blocklist, or denylist is a basic access control mechanism that allows through all elements (email addresses, users, passwords, URLs, IP addresses, domain names, file hashes, etc.), except those explicitly mentioned.
+
+Links
+- [https://en.wikipedia.org/wiki/Blacklist_(computing)](https://en.wikipedia.org/wiki/Blacklist_(computing))
 
 ## Application Programming Interface
 An application programming interface (API) is a way for two or more computer programs to communicate with each other.

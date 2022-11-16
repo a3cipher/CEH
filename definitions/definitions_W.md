@@ -28,6 +28,13 @@ Web applications are delivered on the World Wide Web to users with an active net
 Links
 - [https://en.wikipedia.org/wiki/Web_application](https://en.wikipedia.org/wiki/Web_application)
 
+## Web Application Firewall
+A web application firewall (WAF) is a specific form of application firewall that filters, monitors, and blocks HTTP traffic to and from a web service.
+By inspecting HTTP traffic, it can prevent attacks exploiting a web application's known vulnerabilities, such as SQL injection, cross-site scripting (XSS), file inclusion, and improper system configuration.
+
+Links
+- [https://en.wikipedia.org/wiki/Web_application_firewall](https://en.wikipedia.org/wiki/Web_application_firewall)
+
 ## Web Cache Poisoning
 In a vulnerable application, threat actors inject specially crafted data into cache memory, causing the webserver to respond with a malicious HTTP response to the user.
 

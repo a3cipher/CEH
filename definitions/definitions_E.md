@@ -1,4 +1,4 @@
-# Defintions E
+# Definitions E
 
 ## Eavesdropping
 Eavesdropping is the act of secretly or stealthily listening to the private conversation or communications of others without their consent in order to gather information.
@@ -8,6 +8,12 @@ Links
 
 ## Elicitation
 An elicitation technique is any of a number of data collection techniques used in anthropology, cognitive science, counseling, education, knowledge engineering, linguistics, management, philosophy, psychology, or other fields to gather knowledge or information from people.
+
+## Encoding
+Character encoding is the process of assigning numbers to graphical characters, especially the written characters of human language, allowing them to be stored, transmitted, and transformed using digital computers.
+
+Links
+- [https://en.wikipedia.org/wiki/Character_encoding](https://en.wikipedia.org/wiki/Character_encoding)
 
 ## Encryption
 In cryptography, encryption is the process of encoding information.

@@ -121,6 +121,12 @@ Links
 - [https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
 - [https://en.wikipedia.org/wiki/Rogue_DHCP](https://en.wikipedia.org/wiki/Rogue_DHCP)
 
+## Dynamic Application Security Testing
+A dynamic application security testing (DAST) is a non functional testing process where one can assess an application using certain techniques and the end result of such testing process covers security weaknesses and vulnerabilities present in an application.
+
+Links
+- [https://en.wikipedia.org/wiki/Dynamic_application_security_testing](https://en.wikipedia.org/wiki/Dynamic_application_security_testing)
+
 ## Dynamic Link Library
 Dynamic-link library (DLL) is Microsoft's implementation of the shared library concept in the Microsoft Windows and OS/2 operating systems
 
