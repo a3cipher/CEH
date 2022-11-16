@@ -57,7 +57,6 @@ Tcptraceroute
 Links
 - [https://en.wikipedia.org/wiki/Traceroute](https://en.wikipedia.org/wiki/Traceroute)
 
-
 ## Transmission Control Protocol
 The Transmission Control Protocol (TCP) is one of the main protocols of the Internet protocol suite.
 It originated in the initial network implementation in which it complemented the Internet Protocol (IP).
@@ -72,8 +71,13 @@ TCP is connection-oriented, and a connection between client and server is establ
 The server must be listening (passive open) for connection requests from clients before a connection is established.
 Three-way handshake (active open), retransmission, and error detection adds to reliability but lengthens latency. 
  
+### Transmission Control Protocol Handshake
+In computing, a handshake is a signal between two devices or programs, used to, e.g., authenticate, coordinate.
+An example is the handshaking between a hypervisor and an application in a guest virtual machine.
+
 Links
 - [https://en.wikipedia.org/wiki/Transmission_Control_Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+- [https://en.wikipedia.org/wiki/Handshake_(computing)](https://en.wikipedia.org/wiki/Handshake_(computing))
 
 ## Trivial File Transfer Protocol
 Trivial File Transfer Protocol (TFTP) is a simple lockstep File Transfer Protocol which allows a client to get a file from or put a file onto a remote host. One of its primary uses is in the early stages of nodes booting from a local area network.

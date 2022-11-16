@@ -45,6 +45,20 @@ Server Message Block (SMB) is a communication protocol[1] originally developed i
 Links
 - [https://en.wikipedia.org/wiki/Server_Message_Block](https://en.wikipedia.org/wiki/Server_Message_Block)
 
+## Session Hijacking
+In computer science, session hijacking, sometimes also known as cookie hijacking, is the exploitation of a valid computer session—sometimes also called a session key—to gain unauthorized access to information or services in a computer system.
+In particular, it is used to refer to the theft of a magic cookie used to authenticate a user to a remote server.
+
+Links
+- [https://en.wikipedia.org/wiki/Session_hijacking](https://en.wikipedia.org/wiki/Session_hijacking)
+
+## Session Identifier
+In computer science, a session identifier, session ID or session token is a piece of data that is used in network communications (often over HTTP) to identify a session, a series of related message exchanges.
+Session identifiers become necessary in cases where the communications infrastructure uses a stateless protocol such as HTTP.
+
+Links
+- [https://en.wikipedia.org/wiki/Session_ID](https://en.wikipedia.org/wiki/Session_ID)
+
 ## Sheep Dip
 In data security, a sheep-dip is the process of using a dedicated computer to test files on removable media for viruses before they are allowed to be used with other computers.
 
