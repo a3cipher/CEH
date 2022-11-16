@@ -91,3 +91,9 @@ The ATT&CK knowledge base is used as a foundation for the development of specifi
 
 Links
 - [https://attack.mitre.org/](https://attack.mitre.org/)
+
+## Multi Factor Authentication
+Multi-factor authentication (MFA; encompassing two-factor authentication, or 2FA, along with similar terms) is an electronic authentication method in which a user is granted access to a website or application only after successfully presenting two or more pieces of evidence (or factors) to an authentication mechanism: knowledge (something only the user knows), possession (something only the user has), and inherence (something only the user is).
+
+Links
+- [https://en.wikipedia.org/wiki/Multi-factor_authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)

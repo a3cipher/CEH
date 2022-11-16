@@ -64,35 +64,32 @@ Cross site request forgery
 [Definition](../definitions/definitions_C.md#cross-site-request-forgery)
 
 Reverse engineering
-> Reverse engineering (also known as backwards engineering or back engineering) is a process or method through which one attempts to understand through deductive reasoning how a previously made device, process, system, or piece of software accomplishes a task with very little (if any) insight into exactly how it does so.
+
+[Definition](../definitions/definitions_R.md#reverse-engineering)
 
 Replay attack
 
 [Definition](../definitions/definitions_R.md#replay-attack)
 
 Web shell
-> A web shell is a shell-like interface that enables a web server to be remotely accessed, often for the purposes of cyberattacks.
-> A web shell is unique in that a web browser is used to interact with it.
 
-CMS (Content management system)
-> A content management system (CMS) is computer software used to manage the creation and modification of digital content (content management).
-> A CMS is typically used for enterprise content management (ECM) and web content management (WCM).
+[Definition](../definitions/definitions_W.md#web-shell)
+
+Content management system (CMS)
+
+[Definition](../definitions/definitions_C.md#content-management-system)
 
 File inclusion vulnerability
-> A file inclusion vulnerability is a type of web vulnerability that is most commonly found to affect web applications that rely on a scripting run time.
-> This issue is caused when an application builds a path to executable code using an attacker-controlled variable in a way that allows the attacker to control which file is executed at run time.
+
+[Definition](../definitions/definitions_F.md#file-inclusion-vulnerability)
 
 Remote file inclusion
-> Remote file inclusion (RFI) occurs when the web application downloads and executes a remote file.
-> These remote files are usually obtained in the form of an HTTP or FTP URI as a user-supplied parameter to the web application.
 
-MFA (Multi factor authentication)
-> Multi-factor authentication (MFA; encompassing two-factor authentication, or 2FA, along with similar terms) is an electronic authentication method in which a user is granted access to a website or application only after successfully presenting two or more pieces of evidence (or factors) to an authentication mechanism: knowledge (something only the user knows), possession (something only the user has), and inherence (something only the user is).
+[Definition](../definitions/definitions_R.md#remote-file-inclusion)
+
+Multi factor authentication (MFA)
  
+[Definition](../definitions/definitions_M.md#multi-factor-authentication)
+
 Links
 - [https://owasp.org/www-project-api-security](https://owasp.org/www-project-api-security)
-- [https://en.wikipedia.org/wiki/Reverse_engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
-- [https://en.wikipedia.org/wiki/Web_shell](https://en.wikipedia.org/wiki/Web_shell)
-- [https://en.wikipedia.org/wiki/Content_management_system](https://en.wikipedia.org/wiki/Content_management_system)
-- [https://en.wikipedia.org/wiki/File_inclusion_vulnerability](https://en.wikipedia.org/wiki/File_inclusion_vulnerability)
-- [https://en.wikipedia.org/wiki/Multi-factor_authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)

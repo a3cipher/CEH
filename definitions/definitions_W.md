@@ -38,6 +38,13 @@ A user agent, commonly a web browser or web crawler, initiates communication by 
 Links
 - [https://en.wikipedia.org/wiki/Web_server](https://en.wikipedia.org/wiki/Web_server)
 
+## Web Shell
+A web shell is a shell-like interface that enables a web server to be remotely accessed, often for the purposes of cyberattacks.
+A web shell is unique in that a web browser is used to interact with it.
+
+Links
+- [https://en.wikipedia.org/wiki/Web_shell](https://en.wikipedia.org/wiki/Web_shell)
+
 ## Web Spider
 A Web crawler, sometimes called a spider or spiderbot and often shortened to crawler, is an Internet bot that systematically browses the World Wide Web and that is typically operated by search engines for the purpose of Web indexing (web spidering).
 

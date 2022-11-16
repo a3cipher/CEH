@@ -52,6 +52,12 @@ A replay attack (also known as a repeat attack or playback attack) is a form of 
 Links
 - [https://en.wikipedia.org/wiki/Replay_attack](https://en.wikipedia.org/wiki/Replay_attack)
 
+## Remote File Inclusion
+Remote file inclusion (RFI) occurs when the web application downloads and executes a remote file. These remote files are usually obtained in the form of an HTTP or FTP URI as a user-supplied parameter to the web application.
+
+Link
+- [https://en.wikipedia.org/wiki/File_inclusion_vulnerability](https://en.wikipedia.org/wiki/File_inclusion_vulnerability)
+ 
 ## Representational State Transfer
 Representational state transfer (REST) is a software architectural style that describes a uniform interface between physically separate components, often across the Internet in a client-server architecture.
 
@@ -63,6 +69,12 @@ Return-oriented programming (ROP) is a computer security exploit technique that 
 
 Links
 - [https://en.wikipedia.org/wiki/Return-oriented_programming](https://en.wikipedia.org/wiki/Return-oriented_programming)
+
+## Reverse Engineering
+Reverse engineering (also known as backwards engineering or back engineering) is a process or method through which one attempts to understand through deductive reasoning how a previously made device, process, system, or piece of software accomplishes a task with very little (if any) insight into exactly how it does so.
+
+Links
+- [https://en.wikipedia.org/wiki/Reverse_engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
 
 ## Risk Management
 Risk management is the identification, evaluation, and prioritization of risks (defined in ISO 31000 as the effect of uncertainty on objectives) followed by coordinated and economical application of resources to minimize, monitor, and control the probability or impact of unfortunate events or to maximize the realization of opportunities.
