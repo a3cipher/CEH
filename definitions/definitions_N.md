@@ -37,6 +37,13 @@ Links
 - [https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/nbtstat](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/nbtstat)
 - [https://learn.microsoft.com/en-us/sysinternals/downloads/psexec](https://learn.microsoft.com/en-us/sysinternals/downloads/psexec)
 
+## Netcat
+netcat (often abbreviated to nc) is a computer networking utility for reading from and writing to network connections using TCP or UDP.
+The command is designed to be a dependable back-end that can be used directly or easily driven by other programs and scripts. 
+
+Links
+- [https://en.wikipedia.org/wiki/Netcat](https://en.wikipedia.org/wiki/Netcat)
+
 ## Network Access Control
 Network access control (NAC) is an approach to computer security that attempts to unify endpoint security technology (such as antivirus, host intrusion prevention, and vulnerability assessment), user or system authentication and network security enforcement.
 

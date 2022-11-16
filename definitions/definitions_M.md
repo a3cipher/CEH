@@ -78,7 +78,6 @@ A collaboration between the open source community and Rapid7, Metasploit helps s
 Links
 - [https://www.metasploit.com](https://www.metasploit.com)
 
-
 ## Microsoft Security Response Center
 The Microsoft Security Response Center is part of the defender community and on the front line of security response evolution.
 For over twenty years, we have been engaged with security researchers working to protect customers and the broader ecosystem.

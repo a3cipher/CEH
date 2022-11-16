@@ -26,6 +26,12 @@ An impersonator is someone who imitates or copies the behavior or actions of ano
 Links
 - [https://en.wikipedia.org/wiki/Impersonator](https://en.wikipedia.org/wiki/Impersonator)
 
+## Improper Input Validation
+Improper input validation or unchecked user input is a type of vulnerability in computer software that may be used for security exploits.
+
+Links
+- [https://en.wikipedia.org/wiki/Improper_input_validation](https://en.wikipedia.org/wiki/Improper_input_validation)
+
 ## Incident Management
 An incident is an event that could lead to loss of, or disruption to, an organization's operations, services or functions.
 Incident management (IcM) is a term describing the activities of an organization to identify, analyze, and correct hazards to prevent a future re-occurrence.

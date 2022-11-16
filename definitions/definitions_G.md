@@ -9,6 +9,12 @@ The GDPR will levy harsh fines against those who violate its privacy and securit
 Links
 - [https://gdpr.eu](https://gdpr.eu)
 
+## Gobuster
+Gobuster is a tool used to brute-force URIs including directories and files as well as DNS subdomains.
+
+Links
+- [https://www.kali.org/tools/gobuster](https://www.kali.org/tools/gobuster)
+
 ## Google Earth
 > Google Earth is a computer program that renders a 3D representation of Earth based primarily on satellite imagery.
 

@@ -12,6 +12,13 @@ The Data Protection Act 2018 is the UK’s implementation of the General Data Pr
 Links
 - [https://www.gov.uk/data-protection](https://www.gov.uk/data-protection)
 
+## Database Connection
+A database connection is a facility in computer science that allows client software to talk to database server software, whether on the same machine or not.
+A connection is required to send commands and receive answers, usually in the form of a result set.
+
+Links
+- [https://en.wikipedia.org/wiki/Database_connection](https://en.wikipedia.org/wiki/Database_connection)
+
 ## Default Credentials
 A Default Credential vulnerability is a type of vulnerability in a computing device that most commonly affects devices having some pre-set (default) administrative credentials to access all configuration settings.
 The vendor or manufacturer of such devices uses a single pre-defined set of admin credentials to access the device configurations, and any potential hacker can misuse this fact to hack such devices, if those credentials are not changed by consumers.
