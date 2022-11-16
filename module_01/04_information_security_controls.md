@@ -4,6 +4,8 @@
 
 ## Defense-in-depth
 
+[Definition](../definitions/definitions_D.md#defense-in-depth)
+
 ## Risk
 Information security risk
 

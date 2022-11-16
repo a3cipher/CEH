@@ -1,5 +1,11 @@
 # Definitions D
 
+## Data Loss Prevention
+Data loss prevention (DLP) software detects potential data breaches/data ex-filtration transmissions and prevents them by monitoring, detecting and blocking sensitive data while in use (endpoint actions), in motion (network traffic), and at rest (data storage).
+
+Links
+- [https://en.wikipedia.org/wiki/Data_loss_prevention_software](https://en.wikipedia.org/wiki/Data_loss_prevention_software)
+
 ## Data Protection Act 2018
 The Data Protection Act 2018 is the UK’s implementation of the General Data Protection Regulation (GDPR).
 

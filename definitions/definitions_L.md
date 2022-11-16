@@ -12,6 +12,12 @@ The Lightweight Directory Access Protocol (LDAP /ˈɛldæp/) is an open, vendor-
 Links
 - [https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)
 
+## Least Privilege
+In information security, computer science, and other fields, the principle of least privilege (PoLP), also known as the principle of minimal privilege (PoMP) or the principle of least authority (PoLA), requires that in a particular abstraction layer of a computing environment, every module (such as a process, a user, or a program, depending on the subject) must be able to access only the information and resources that are necessary for its legitimate purpose.
+
+Links
+- [https://en.wikipedia.org/wiki/Principle_of_least_privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege)
+
 ## LinEnum
 Linux privilege escalation script.
 
