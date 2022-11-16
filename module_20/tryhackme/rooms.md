@@ -1,4 +1,4 @@
-# Rooms
+# TryHackMe
 
 Links
 - [https://tryhackme.com/room/encryptioncrypto101](https://tryhackme.com/room/encryptioncrypto101)

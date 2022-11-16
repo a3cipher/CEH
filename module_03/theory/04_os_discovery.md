@@ -3,12 +3,12 @@
 ## Banner Grabbing
 Branner grabbing
 
-[Definition](../../definitions/definitions_B.md#banner-grabbing)
+[Definition](../definitions/definitions_B.md#banner-grabbing)
 
 ## Identifying Target OS
 Wireshark
 
-[Definition](../../definitions/definitions_W.md#wireshark)
+[Definition](../definitions/definitions_W.md#wireshark)
 
 Discovery using `nmap`
 

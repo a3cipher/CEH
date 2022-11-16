@@ -101,3 +101,8 @@ Sublist3r is a python tool designed to enumerate subdomains of websites using OS
 Links
 - [https://github.com/aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r)
 
+## Switch
+A network switch (also called switching hub, bridging hub, and, by the IEEE, MAC bridge) is networking hardware that connects devices on a computer network by using packet switching to receive and forward data to the destination device.
+
+Links
+- [https://en.wikipedia.org/wiki/Network_switch](https://en.wikipedia.org/wiki/Network_switch)

@@ -3,7 +3,7 @@
 ## LDAP
 Lightweight directory access protocol (LDAP)
 
-[Definition](../../definitions/definitions_L.md#lightweight-directory-access-protocol)
+[Definition](../definitions/definitions_L.md#lightweight-directory-access-protocol)
 
 ## LDAP Enumeration
 `ldap3` (Python)

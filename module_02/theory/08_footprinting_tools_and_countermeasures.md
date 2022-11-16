@@ -3,12 +3,12 @@
 ## Tools
 Recon-ng
 
-[Definition](../../definitions/definitions_R.md#recon-ng)
+[Definition](../definitions/definitions_R.md#recon-ng)
 
 ## Countermeasures
 Split DNS
 
-[Definition](../../definitions/definitions_S.md#split-dns)
+[Definition](../definitions/definitions_S.md#split-dns)
 
 Some countermeasures are listed below.
 

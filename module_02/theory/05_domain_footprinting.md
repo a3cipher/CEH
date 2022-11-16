@@ -3,20 +3,20 @@
 ## Whois Footprinting
 Whois
 
-[Definition](../../definitions/definitions_W.md#whois)
+[Definition](../definitions/definitions_W.md#whois)
 
 ## DNS Footprinting
 Domain name system (DNS)
 
-[Definition](../../definitions/definitions_D.md#domain-name-system)
+[Definition](../definitions/definitions_D.md#domain-name-system)
 
 Dig
-[Definition](../../definitions/definitions_D.md#dig)
+[Definition](../definitions/definitions_D.md#dig)
 
 Nslookup
 
-[Definition](../../definitions/definitions_N.md#nslookup)
+[Definition](../definitions/definitions_N.md#nslookup)
 
 Reverse DNS lookup, dnsrecon
 
-[Definition](../../definitions/definitions_D.md#dnsrecon)
+[Definition](../definitions/definitions_D.md#dnsrecon)

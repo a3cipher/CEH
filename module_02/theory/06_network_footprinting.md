@@ -3,4 +3,4 @@
 ## Traceroute
 Traceroute
 
-[Definition](../../definitions/definitions_T.md#traceroute)
+[Definition](../definitions/definitions_T.md#traceroute)

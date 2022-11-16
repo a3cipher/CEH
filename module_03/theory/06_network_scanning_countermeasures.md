@@ -21,7 +21,7 @@
 ## IP Spoofing Countermeasures
 Internet protocol security (IPSec)
 
-[Definition](../../definitions/definitions_I.md#internet-protocol-security)
+[Definition](../definitions/definitions_I.md#internet-protocol-security)
 
 - Avoid authentication based on IP address
 - Use firewalls and ACLs
@@ -31,4 +31,4 @@ Internet protocol security (IPSec)
 ## Scanning Detection Tools
 Splunk
 
-[Definition](../../definitions/definitions_S.md#splunk)
+[Definition](../definitions/definitions_S.md#splunk)

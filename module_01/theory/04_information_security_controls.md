@@ -7,40 +7,40 @@
 ## Risk
 Information security risk
 
-[Definition](../../definitions/definitions_I.md#information-security-risk)
+[Definition](../definitions/definitions_I.md#information-security-risk)
 
 Risk matrix
 
-[Definition](../../definitions/definitions_R.md#risk-matrix)
+[Definition](../definitions/definitions_R.md#risk-matrix)
 
 Risk management
 
-[Definition](../../definitions/definitions_R.md#risk-management)
+[Definition](../definitions/definitions_R.md#risk-management)
 
 ## Cyber Threat Intelligence
 Cyber threat intelligence
 
-[Definition](../../definitions/definitions_C.md#cyber-threat-intelligence)
+[Definition](../definitions/definitions_C.md#cyber-threat-intelligence)
 
 ## Threat Modelling
 Threat modelling
 
-[Definition](../../definitions/definitions_T.md#threat-modelling)
+[Definition](../definitions/definitions_T.md#threat-modelling)
 
 ## Incident Management
 Incident management
 
-[Definition](../../definitions/definitions_I.md#incident-management)
+[Definition](../definitions/definitions_I.md#incident-management)
 
 Incident response team
 
-[Definition](../../definitions/definitions_I.md#incident-response-team)
+[Definition](../definitions/definitions_I.md#incident-response-team)
 
 ## AI and ML
 Artificial intelligence
 
-[Definition](../../definitions/definitions_A.md#artificial-intelligence)
+[Definition](../definitions/definitions_A.md#artificial-intelligence)
 
 Machine learning
 
-[Definition](../../definitions/definitions_M.md#machine-learning)
+[Definition](../definitions/definitions_M.md#machine-learning)

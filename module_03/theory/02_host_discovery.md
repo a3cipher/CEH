@@ -3,4 +3,4 @@
 ## Address Resolution Protocol (ARP)
 Address resolution protocol (ARP)
 
-[Definition](../../definitions/definitions_A.md#address-resolution-protocol)
+[Definition](../definitions/definitions_A.md#address-resolution-protocol)

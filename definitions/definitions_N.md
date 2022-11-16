@@ -43,6 +43,18 @@ Network File System (NFS) is a distributed file system protocol originally devel
 Links
 - [https://en.wikipedia.org/wiki/Network_File_System](https://en.wikipedia.org/wiki/Network_File_System)
 
+## Network Interface Card
+A network interface controller (NIC, also known as a network interface card, network adapter, LAN adapter or physical network interface, and by similar terms) is a computer hardware component that connects a computer to a computer network.
+
+Links
+- [https://en.wikipedia.org/wiki/Network_interface_controller](https://en.wikipedia.org/wiki/Network_interface_controller)
+
+## Network Sniffing Attack
+Sniffing attack in context of network security, corresponds to theft or interception of data by capturing the network traffic using a packet sniffer (an application aimed at capturing network packets). When data is transmitted across networks, if the data packets are not encrypted, the data within the network packet can be read using a sniffer.
+
+Links
+- [https://en.wikipedia.org/wiki/Sniffing_attack](https://en.wikipedia.org/wiki/Sniffing_attack)
+
 ## Network Time Protocol
 The Network Time Protocol (NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks. In operation since before 1985, NTP is one of the oldest Internet protocols in current use. NTP was designed by David L. Mills of the University of Delaware.
 

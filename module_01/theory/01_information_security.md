@@ -3,16 +3,16 @@
 ## Information Security
 Information security
 
-[Definition](../../definitions/definitions_I.md#information-security)
+[Definition](../definitions/definitions_I.md#information-security)
 
 ## CIA Triad
 CIA triad
 
-[Definition](../../definitions/definitions_C.md#cia-triad)
+[Definition](../definitions/definitions_C.md#cia-triad)
 
 Non-repudiation
 
-[Definition](../../definitions/definitions_N.md#non-repudiation)
+[Definition](../definitions/definitions_N.md#non-repudiation)
 
 ## Attack Classification
 ### Passive attack
@@ -40,4 +40,4 @@ Examples:
 ## Information Warfare
 Information warfare
 
-[Definition](../../definitions/definitions_I.md#information-warfare)
+[Definition](../definitions/definitions_I.md#information-warfare)

@@ -3,15 +3,15 @@
 ## SMTP
 Simple mail transfer protocol (SMTP)
 
-[Definition](../../definitions/definitions_S.md#simple-mail-transfer-protocol)
+[Definition](../definitions/definitions_S.md#simple-mail-transfer-protocol)
 
 Post office protocol (POP)
 
-[Definition](../../definitions/definitions_P.md#post-office-protocol)
+[Definition](../definitions/definitions_P.md#post-office-protocol)
 
 nmap
 
-[Definition](../../definitions/definitions_N.md#nmap)
+[Definition](../definitions/definitions_N.md#nmap)
 
 `smtp-enum-users` (nmap)
 
@@ -20,15 +20,15 @@ The goal of this script is to discover all the user accounts in the remote syste
 
 Dig
 
-[Definition](../../definitions/definitions_D.md#dig)
+[Definition](../definitions/definitions_D.md#dig)
 
 Nslookup
 
-[Definition](../../definitions/definitions_N.md#nslookup)
+[Definition](../definitions/definitions_N.md#nslookup)
 
 DNS security extensions (DNSSEC)
 
-[Definition](../../definitions/definitions_D.md#domain-name-system-security-extensions)
+[Definition](../definitions/definitions_D.md#domain-name-system-security-extensions)
 
 `broadcast-dns-service-discovery` (nmap)
 

@@ -31,6 +31,20 @@ In cryptography and computer security, a man-in-the-middle, monster-in-the-middl
 Links
 - [https://en.wikipedia.org/wiki/Man-in-the-middle_attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
 
+## Media Access Control Address
+A media access control address (MAC address) is a unique identifier assigned to a network interface controller (NIC) for use as a network address in communications within a network segment.
+This use is common in most IEEE 802 networking technologies, including Ethernet, Wi-Fi, and Bluetooth.
+Within the Open Systems Interconnection (OSI) network model, MAC addresses are used in the medium access control protocol sublayer of the data link layer.
+
+Links
+- [https://en.wikipedia.org/wiki/MAC_address](https://en.wikipedia.org/wiki/MAC_address)
+ 
+## Media Access Control Address Flooding
+In computer networking, a media access control attack or MAC flooding is a technique employed to compromise the security of network switches.
+
+Links
+- [https://en.wikipedia.org/wiki/MAC_flooding](https://en.wikipedia.org/wiki/MAC_flooding)
+
 ## Media Access Control Address Spoofing
 MAC spoofing is a technique for changing a factory-assigned Media Access Control (MAC) address of a network interface on a networked device.
 The MAC address that is hard-coded on a network interface controller (NIC) cannot be changed.

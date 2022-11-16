@@ -20,6 +20,12 @@ Wireshark development thrives thanks to the volunteer contributions of networkin
 Links
 - [https://www.wireshark.org](https://www.wireshark.org)
 
+## Wiretapping
+Telephone tapping (also wire tapping or wiretapping in American English) is the monitoring of telephone and Internet-based conversations by a third party, often by covert means.
+
+Links
+- [https://en.wikipedia.org/wiki/Telephone_tapping](https://en.wikipedia.org/wiki/Telephone_tapping)
+
 ## Worm
 A computer worm is a standalone malware computer program that replicates itself in order to spread to other computers.
 It often uses a computer network to spread itself, relying on security failures on the target computer to access it.

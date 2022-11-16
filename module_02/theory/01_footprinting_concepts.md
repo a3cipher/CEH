@@ -3,4 +3,4 @@
 ## Footprinting
 Footprinting
 
-[Definition](../../definitions/definitions_F.md#footprinting)
+[Definition](../definitions/definitions_F.md#footprinting)

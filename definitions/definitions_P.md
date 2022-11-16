@@ -48,6 +48,13 @@ It is used as a subjective tagging criterion by security and parental control pr
 Links
 - [https://en.wikipedia.org/wiki/Potentially_unwanted_program](https://en.wikipedia.org/wiki/Potentially_unwanted_program)
 
+## Protocol Analyzer
+A protocol analyzer is a tool (hardware or software) used to capture and analyze signals and data traffic over a communication channel.
+Such a channel varies from a local computer bus to a satellite link, that provides a means of communication using a standard communication protocol (networked or point-to-point).
+
+Links
+- [https://en.wikipedia.org/wiki/Protocol_analyzer](https://en.wikipedia.org/wiki/Protocol_analyzer)
+
 ## Proxy Server
 In computer networking, a proxy server is a server application that acts as an intermediary between a client requesting a resource and the server providing that resource.
 

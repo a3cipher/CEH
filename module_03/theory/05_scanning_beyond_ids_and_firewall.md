@@ -3,7 +3,7 @@
 ## Evasion Techniques (Routing)
 Intrusion detection system (IDS)
 
-[Definition](../../definitions/definitions_I.md#intrusion-detection-system)
+[Definition](../definitions/definitions_I.md#intrusion-detection-system)
 
 Techniques to evade IDS/firewalls are
 - Proxy servers
@@ -13,20 +13,20 @@ Techniques to evade IDS/firewalls are
 
 Packet fragmentation
 
-[Definition](../../definitions/definitions_P.md#packet-fragmentation)
+[Definition](../definitions/definitions_P.md#packet-fragmentation)
 
 Source routing
 
-[Definition](../../definitions/definitions_S.md#source-routing)
+[Definition](../definitions/definitions_S.md#source-routing)
 
 ## Evasion Techniques (Spoofing)
 Internet protocol (IP) address spoofing
 
-[Definition](../../definitions/definitions_I.md#internet-protocol-address-spoofing)
+[Definition](../definitions/definitions_I.md#internet-protocol-address-spoofing)
 
 Media access control (MAC) address spoofing
 
-[Definition](../../definitions/definitions_M.md#media-access-control-address-spoofing)
+[Definition](../definitions/definitions_M.md#media-access-control-address-spoofing)
 
 ## Evasion Techniques (Other)
 Randomizing host order. The `nmap` option `--randomize-hosts` man pages is
@@ -39,4 +39,4 @@ Randomizing host order. The `nmap` option `--randomize-hosts` man pages is
 
 Proxy server
 
-[Definition](../../definitions/definitions_P.md#proxy-server)
+[Definition](../definitions/definitions_P.md#proxy-server)

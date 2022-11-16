@@ -1,4 +1,4 @@
-# Rooms
+# TryHackMe
 
 Links
 - [https://tryhackme.com/room/burpsuitebasics](https://tryhackme.com/room/burpsuitebasics)

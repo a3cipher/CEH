@@ -1,4 +1,4 @@
-# Rooms
+# TryHackMe
 
 Links
 - [https://tryhackme.com/room/owasptop10](https://tryhackme.com/room/owasptop10)

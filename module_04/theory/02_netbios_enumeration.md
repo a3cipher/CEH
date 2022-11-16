@@ -3,4 +3,4 @@
 ## NetBIOS
 NetBIOS
 
-[Definition](../../definitions/definitions_N.md#netbios)
+[Definition](../definitions/definitions_N.md#netbios)

@@ -1,5 +1,11 @@
 # Definitions L
 
+## Lawful Interception
+Lawful interception (LI) refers to the facilities in telecommunications and telephone networks that allow law enforcement agencies with court orders or other legal authorization to selectively wiretap individual subscribers.
+
+Links
+- [https://en.wikipedia.org/wiki/Lawful_interception](https://en.wikipedia.org/wiki/Lawful_interception)
+
 ## Lightweight Directory Access Protocol
 The Lightweight Directory Access Protocol (LDAP /ˈɛldæp/) is an open, vendor-neutral, industry standard application protocol for accessing and maintaining distributed directory information services over an Internet Protocol (IP) network.[1] Directory services play an important role in developing intranet and Internet applications by allowing the sharing of information about users, systems, networks, services, and applications throughout the network.
 

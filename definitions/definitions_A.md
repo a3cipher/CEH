@@ -8,6 +8,12 @@ ARP was defined in 1982 by RFC 826, which is Internet Standard STD 37.
 Links
 - [https://en.wikipedia.org/wiki/Address_Resolution_Protocol](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)
 
+## Address Resolution Protocol Spoofing
+In computer networking, ARP spoofing, ARP cache poisoning, or ARP poison routing, is a technique by which an attacker sends (spoofed) Address Resolution Protocol (ARP) messages onto a local area network.
+
+Links
+- [https://en.wikipedia.org/wiki/ARP_spoofing](https://en.wikipedia.org/wiki/ARP_spoofing)
+
 ## Advanced Persistent Threat
 An advanced persistent threat (APT) is a stealthy threat actor, typically a nation state or state-sponsored group, which gains unauthorized access to a computer network and remains undetected for an extended period.
 In recent times, the term may also refer to non-state-sponsored groups conducting large-scale targeted intrusions for specific goals.

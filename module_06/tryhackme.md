@@ -1,4 +1,4 @@
-# Rooms
+# TryHackMe
 
 Links
 - [https://tryhackme.com/room/introtoshells](https://tryhackme.com/room/introtoshells)

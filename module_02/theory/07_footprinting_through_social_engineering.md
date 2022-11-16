@@ -3,20 +3,20 @@
 ## Social Engineering
 Eavesdropping
 
-[Definition](../../definitions/definitions_E.md#eavesdropping)
+[Definition](../definitions/definitions_E.md#eavesdropping)
 
 Shoulder surfing
 
-[Definition](../../definitions/definitions_S.md#shoulder-surfing)
+[Definition](../definitions/definitions_S.md#shoulder-surfing)
 
 Dumpster diving
 
-[Definition](../../definitions/definitions_D.md#dumpster-diving)
+[Definition](../definitions/definitions_D.md#dumpster-diving)
 
 Impersonation / impersonator
 
-[Definition](../../definitions/definitions_I.md#impersonation)
+[Definition](../definitions/definitions_I.md#impersonation)
 
 OSINT Framework
 
-[Definition](../../definitions/definitions_O.md#osint-framework)
+[Definition](../definitions/definitions_O.md#osint-framework)

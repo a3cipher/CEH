@@ -3,11 +3,11 @@
 ## NTP and NFS
 Network Time Protocol (NTP)
 
-[Definition](../../definitions/definitions_N.md#network-time-protocol)
+[Definition](../definitions/definitions_N.md#network-time-protocol)
 
 NFS
 
-[Definition](../../definitions/definitions_N.md#network-file-system)
+[Definition](../definitions/definitions_N.md#network-file-system)
 
 `ntpdate`
 

@@ -1,3 +1,3 @@
-# Rooms
+# TryHackMe
 
 Links

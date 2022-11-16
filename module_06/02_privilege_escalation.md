@@ -3,7 +3,7 @@
 ## Privilege Escalation
 Privilege escalation
 
-[Definition](../../definitions/definitions_P.md#privilege-escalation)
+[Definition](../definitions/definitions_P.md#privilege-escalation)
 
 There are two types of privilege escalation
 - horizontal privilege escalation
@@ -11,11 +11,11 @@ There are two types of privilege escalation
 
 LinPeas
 
-[Definition](../../definitions/definitions_L.md#linpeas)
+[Definition](../definitions/definitions_L.md#linpeas)
 
 LinEnum
 
-[Definition](../../definitions/definitions_L.md#linenum)
+[Definition](../definitions/definitions_L.md#linenum)
 
 Defenses against privilege escalation
 - Run services using unprivileged accounts.
