@@ -51,6 +51,8 @@ Hydra
 
 Database connection
 
+[Definition](../definitions/definitions_D.md#database-connection)
+
 Metasploit
 
 [Definition](../definitions/definitions_M.md#metasploit)
