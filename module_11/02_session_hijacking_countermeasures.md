@@ -26,6 +26,3 @@ Internet protocol security (IPsec)
 - Encrypt the data in transit between the user and the web server.
 - Regenerate session IDs upon new log ins for users.
 - Use firewalls.
-
-Links
-- [https://en.wikipedia.org/wiki/Security_information_and_event_management](https://en.wikipedia.org/wiki/Security_information_and_event_management)
