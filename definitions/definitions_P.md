@@ -34,6 +34,18 @@ Start a full pentest in minutes with powerful cloud-based tools, plus flexible r
 Links
 - [https://pentest-tools.com](https://pentest-tools.com)
 
+## Phishing
+Phishing is a type of social engineering where an attacker sends a fraudulent (e.g., spoofed, fake, or otherwise deceptive) message designed to trick a person into revealing sensitive information to the attacker or to deploy malicious software on the victim's infrastructure like ransomware.
+
+Links
+- [https://en.wikipedia.org/wiki/Phishing](https://en.wikipedia.org/wiki/Phishing)
+
+## Piggybacking
+In security, piggybacking, similar to tailgating, refers to when a person tags along with another person who is authorized to gain entry into a restricted area, or pass a certain checkpoint.
+
+Links
+- [https://en.wikipedia.org/wiki/Piggybacking_(security)](https://en.wikipedia.org/wiki/Piggybacking_(security))
+
 ## Post Office Protocol
 In computing, the Post Office Protocol (POP) is an application-layer Internet standard protocol used by e-mail clients to retrieve e-mail from a mail server.
 POP version 3 (POP3) is the version in common use, and along with IMAP the most common protocols for email retrieval.
@@ -47,6 +59,12 @@ It is used as a subjective tagging criterion by security and parental control pr
 
 Links
 - [https://en.wikipedia.org/wiki/Potentially_unwanted_program](https://en.wikipedia.org/wiki/Potentially_unwanted_program)
+
+## Pretexting
+Pretexting is a type of social engineering attack that involves a situation, or pretext, created by an attacker in order to lure a victim into a vulnerable situation and to trick them into giving private information, specifically information that the victim would typically not give outside the context of the pretext.
+
+Links
+- [https://en.wikipedia.org/wiki/Pretexting](https://en.wikipedia.org/wiki/Pretexting)
 
 ## Protocol Analyzer
 A protocol analyzer is a tool (hardware or software) used to capture and analyze signals and data traffic over a communication channel.

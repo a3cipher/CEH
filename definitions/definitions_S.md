@@ -65,6 +65,19 @@ Links
 - [https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol)
 - [https://en.wikipedia.org/wiki/Management_information_base](https://en.wikipedia.org/wiki/Management_information_base)
 
+## Social Engineering
+In the context of information security, social engineering is the psychological manipulation of people into performing actions or divulging confidential information.
+This differs from social engineering within the social sciences, which does not concern the divulging of confidential information.
+
+Links
+- [https://en.wikipedia.org/wiki/Social_engineering_(security)](https://en.wikipedia.org/wiki/Social_engineering_(security))
+
+## Spam
+Email spam, also referred to as junk email, spam mail, or simply spam, is unsolicited messages sent in bulk by email (spamming).
+
+Links
+- [https://en.wikipedia.org/wiki/Email_spam](https://en.wikipedia.org/wiki/Email_spam)
+
 ## Source Routing
 In computer networking, source routing, also called path addressing, allows a sender of a packet to partially or completely specify the route the packet takes through the network.
 

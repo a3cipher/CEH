@@ -6,6 +6,9 @@ Eavesdropping is the act of secretly or stealthily listening to the private conv
 Links
 - [https://en.wikipedia.org/wiki/Eavesdropping](https://en.wikipedia.org/wiki/Eavesdropping)
 
+## Elicitation
+An elicitation technique is any of a number of data collection techniques used in anthropology, cognitive science, counseling, education, knowledge engineering, linguistics, management, philosophy, psychology, or other fields to gather knowledge or information from people.
+
 ## Enumeration
 Enumeration is defined as the process of extracting user names, machine names, network resources, shares and services from a system.
 
