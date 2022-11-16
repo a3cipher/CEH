@@ -102,6 +102,16 @@ Links
 ## Internet Protocol Security
 In computing, Internet Protocol Security (IPsec) is a secure network protocol suite that authenticates and encrypts packets of data to provide secure encrypted communication between two computers over an Internet Protocol network. It is used in virtual private networks (VPNs).
 
+### Authentication header
+The Security Authentication Header (AH) was developed at the US Naval Research Laboratory in the early 1990s and is derived in part from previous IETF standards' work for authentication of the Simple Network Management Protocol (SNMP) version 2.
+Authentication Header (AH) is a member of the IPsec protocol suite.
+AH ensures connectionless integrity by using a hash function and a secret shared key in the AH algorithm.
+AH also guarantees the data origin by authenticating IP packets.
+
+### Encapsulation security payload (ESP)
+Encapsulating Security Payload (ESP) is a member of the IPsec protocol suite.
+It provides origin authenticity through source authentication, data integrity through hash functions and confidentiality through encryption protection for IP packets.
+
 Links
 - [https://en.wikipedia.org/wiki/IPsec](https://en.wikipedia.org/wiki/IPsec)
 

@@ -45,6 +45,12 @@ Content Addressable Memory (CAM) table is a system memory construct used by Ethe
 Links
 - [https://en.wikipedia.org/wiki/MAC_address](https://en.wikipedia.org/wiki/MAC_address)
 
+## Cookie
+HTTP cookies (also called web cookies, Internet cookies, browser cookies, or simply cookies) are small blocks of data created by a web server while a user is browsing a website and placed on the user's computer or other device by the user's web browser.
+
+Links
+- [https://en.wikipedia.org/wiki/HTTP_cookie](https://en.wikipedia.org/wiki/HTTP_cookie)
+
 ## Cross Site Request Forgery
 Cross-site request forgery, also known as one-click attack or session riding and abbreviated as CSRF (sometimes pronounced sea-surf) or XSRF, is a type of malicious exploit of a website or web application where unauthorized commands are submitted from a user that the web application trusts.
 
