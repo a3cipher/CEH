@@ -62,9 +62,17 @@ Vulnerabilities can be weaknesses in either the hardware itself, or the software
 Links
 - [https://en.wikipedia.org/wiki/Vulnerability_(computing)](https://en.wikipedia.org/wiki/Vulnerability_(computing))
 
-## Vulnerability Assesment
+## Vulnerability Assessment
 A vulnerability assessment is the process of identifying, quantifying, and prioritizing (or ranking) the vulnerabilities in a system.
 Examples of systems for which vulnerability assessments are performed include, but are not limited to, information technology systems, energy supply systems, water supply systems, transportation systems, and communication systems.
 
 Links
 - [https://en.wikipedia.org/wiki/Vulnerability_assessment](https://en.wikipedia.org/wiki/Vulnerability_assessment)
+
+## Vulnerability Scanner
+A vulnerability scanner is a computer program designed to assess computers, networks or applications for known weaknesses.
+These scanners are used to discover the weaknesses of a given system.
+They are utilized in the identification and detection of vulnerabilities arising from mis-configurations or flawed programming within a network-based asset such as a firewall, router, web server, application server, etc.
+
+Links
+- [https://en.wikipedia.org/wiki/Vulnerability_scanner](https://en.wikipedia.org/wiki/Vulnerability_scanner)

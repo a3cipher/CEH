@@ -52,6 +52,13 @@ HTTP is the foundation of data communication for the World Wide Web, where hyper
 Links
 - [https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
+## Hypertext Transfer Protocol Response Splitting
+HTTP response splitting is a form of web application vulnerability, resulting from the failure of the application or its environment to properly sanitize input values.
+It can be used to perform cross-site scripting attacks, cross-user defacement, web cache poisoning, and similar exploits.
+
+Links
+- [https://en.wikipedia.org/wiki/HTTP_response_splitting](https://en.wikipedia.org/wiki/HTTP_response_splitting)
+
 ## Hypertext Transfer Protocol Secure
 Hypertext Transfer Protocol Secure (HTTPS) is an extension of the Hypertext Transfer Protocol (HTTP).
 It is used for secure communication over a computer network, and is widely used on the Internet.

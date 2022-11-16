@@ -12,6 +12,10 @@ The Data Protection Act 2018 is the UK’s implementation of the General Data Pr
 Links
 - [https://www.gov.uk/data-protection](https://www.gov.uk/data-protection)
 
+## Default Credentials
+A Default Credential vulnerability is a type of vulnerability in a computing device that most commonly affects devices having some pre-set (default) administrative credentials to access all configuration settings.
+The vendor or manufacturer of such devices uses a single pre-defined set of admin credentials to access the device configurations, and any potential hacker can misuse this fact to hack such devices, if those credentials are not changed by consumers.
+
 ## Defense in Depth
 Defense in depth is a concept used in information security in which multiple layers of security controls (defense) are placed throughout an information technology (IT) system.
 Its intent is to provide redundancy in the event a security control fails or a vulnerability is exploited that can cover aspects of personnel, procedural, technical and physical security for the duration of the system's life cycle.
@@ -50,6 +54,13 @@ It criminalizes production and dissemination of technology, devices, or services
 Links
 - [https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)
 
+## Directory Traversal
+A directory traversal (or path traversal) attack exploits insufficient security validation or sanitization of user-supplied file names, such that characters representing "traverse to parent directory" are passed through to the operating system's file system API.
+An affected application can be exploited to gain unauthorized access to the file system.
+
+Links
+- [https://en.wikipedia.org/wiki/Directory_traversal_attack](https://en.wikipedia.org/wiki/Directory_traversal_attack)
+
 ## Distributed Denial of Service Attack
 A distributed denial-of-service (DDoS) attack occurs when multiple systems flood the bandwidth or resources of a targeted system, usually one or more web servers.
 A DDoS attack uses more than one unique IP address or machines, often from thousands of hosts infected with malware.
@@ -68,6 +79,16 @@ The Domain Name System (DNS) is the hierarchical and distributed naming system u
 
 Links
 - [https://en.wikipedia.org/wiki/Domain_Name_System](https://en.wikipedia.org/wiki/Domain_Name_System)
+
+## Domain Name System Amplification
+DNS amplification is a DDoS attack that leverages DNS resolvers to overwhelm a victim with traffic.
+
+## Domain Name System Hijacking
+DNS hijacking, DNS poisoning, or DNS redirection is the practice of subverting the resolution of Domain Name System (DNS) queries.
+This can be achieved by malware that overrides a computer's TCP/IP configuration to point at a rogue DNS server under the control of an attacker, or through modifying the behaviour of a trusted DNS server so that it does not comply with internet standards.
+
+Links
+- [https://en.wikipedia.org/wiki/DNS_hijacking](https://en.wikipedia.org/wiki/DNS_hijacking)
 
 ## Domain Name System Security Extensions
 The Domain Name System Security Extensions (DNSSEC) is a suite of extension specifications by the Internet Engineering Task Force (IETF) for securing data exchanged in the Domain Name System (DNS) in Internet Protocol (IP) networks.
