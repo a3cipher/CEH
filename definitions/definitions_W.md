@@ -14,6 +14,13 @@ Eventually, some member of the targeted group will become infected.
 Links
 - [https://en.wikipedia.org/wiki/Watering_hole_attack](https://en.wikipedia.org/wiki/Watering_hole_attack)
 
+## Webhook
+A webhook in web development is a method of augmenting or altering the behavior of a web page or web application with custom callbacks.
+These callbacks may be maintained, modified, and managed by third-party users and developers who may not necessarily be affiliated with the originating website or application.
+
+Links
+- [https://en.wikipedia.org/wiki/Webhook](https://en.wikipedia.org/wiki/Webhook)
+
 ## Web Application
 A web application (or web app) is application software that is accessed using a web browser.
 Web applications are delivered on the World Wide Web to users with an active network connection.

@@ -52,6 +52,12 @@ A replay attack (also known as a repeat attack or playback attack) is a form of 
 Links
 - [https://en.wikipedia.org/wiki/Replay_attack](https://en.wikipedia.org/wiki/Replay_attack)
 
+## Representational State Transfer
+Representational state transfer (REST) is a software architectural style that describes a uniform interface between physically separate components, often across the Internet in a client-server architecture.
+
+Links
+- [https://en.wikipedia.org/wiki/Representational_state_transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
+
 ## Return Oriented Programming
 Return-oriented programming (ROP) is a computer security exploit technique that allows an attacker to execute code in the presence of security defenses such as executable space protection and code signing.
 
@@ -86,6 +92,13 @@ A risk matrix is a matrix that is used during risk assessment to define the leve
 
 Links
 - [https://en.wikipedia.org/wiki/Risk_matrix](https://en.wikipedia.org/wiki/Risk_matrix)
+
+## Role Based Access Control
+In computer systems security, role-based access control (RBAC) or role-based security is an approach to restricting system access to authorized users.
+It is an approach to implement mandatory access control (MAC) or discretionary access control (DAC).
+
+Links
+- [https://en.wikipedia.org/wiki/Role-based_access_control](https://en.wikipedia.org/wiki/Role-based_access_control)
 
 ## Rootkit
 A rootkit is a collection of computer software, typically malicious, designed to enable access to a computer or an area of its software that is not otherwise allowed (for example, to an unauthorized user) and often masks its existence or the existence of other software.

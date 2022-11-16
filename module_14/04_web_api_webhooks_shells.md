@@ -1,37 +1,39 @@
 # Section 04: Web API, Webhooks, Web Shells
 
 ## Web API
-API (Application programming interface)
+Application programming interface (API)
 
 [Definition](../definitions/definitions_A.md#application-programming-interface)
 
-HTTP (Hypertext transer protocol)
+Hypertext transer protocol (HTTP)
 
 [Definition](../definitions/definitions_H.md#hypertext-transfer-protocol)
 
-SOAP (Simple object access protocol)
+Simple object access protocol (SOAP)
  
 [Definition](../definitions/definitions_S.md#simple-object-access-protocol)
 
-REST (Representational state transfer)
-> Representational state transfer (REST) is a software architectural style that describes a uniform interface between physically separate components, often across the Internet in a client-server architecture.
+Representational state transfer (REST)
+
+[Definition](../definitions/definitions_R.md#representational-state-transfer)
 
 Webhook
-> A webhook in web development is a method of augmenting or altering the behavior of a web page or web application with custom callbacks.
-> These callbacks may be maintained, modified, and managed by third-party users and developers who may not necessarily be affiliated with the originating website or application.
+
+[Definition](../definitions/definitions_W.md#webhook)
 
 OWASP API security project. The top 2019 from the project can be found in the links below.
 
-CORS (Cross origin resource sharing)
-> Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served.
+Cross origin resource sharing (CORS)
+
+[Definition](../definitions/definitions_C.md#cross-origin-resource-sharing)
 
 RBAC (Role based access control)
-> In computer systems security, role-based access control (RBAC) or role-based security is an approach to restricting system access to authorized users.
-> It is an approach to implement mandatory access control (MAC) or discretionary access control (DAC).
 
-SAML (Security assertion markup language)
-> Security Assertion Markup Language (SAML, pronounced SAM-el, /ˈsæməl/)[1] is an open standard for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider.
-> SAML is an XML-based markup language for security assertions (statements that service providers use to make access-control decisions).
+[Definition](../definitions/definitions_R.md#role-based-access-control)
+
+Security assertion markup language (SAML)
+
+[Definition](../definitions/definitions_S.md#security-assertion-markup-language)
 
 OAuth (Open authorization)
 > OAuth (short for "Open Authorization") is an open standard for access delegation, commonly used as a way for internet users to grant websites or applications access to their information on other websites but without giving them the passwords.
@@ -82,11 +84,7 @@ MFA (Multi factor authentication)
 > Multi-factor authentication (MFA; encompassing two-factor authentication, or 2FA, along with similar terms) is an electronic authentication method in which a user is granted access to a website or application only after successfully presenting two or more pieces of evidence (or factors) to an authentication mechanism: knowledge (something only the user knows), possession (something only the user has), and inherence (something only the user is).
  
 Links
-- [https://en.wikipedia.org/wiki/Representational_state_transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
-- [https://en.wikipedia.org/wiki/Webhook](https://en.wikipedia.org/wiki/Webhook)
 - [https://owasp.org/www-project-api-security](https://owasp.org/www-project-api-security)
-- [https://en.wikipedia.org/wiki/Cross-origin_resource_sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
-- [https://en.wikipedia.org/wiki/Role-based_access_control](https://en.wikipedia.org/wiki/Role-based_access_control)
 - [https://en.wikipedia.org/wiki/OAuth](https://en.wikipedia.org/wiki/OAuth)
 - [https://en.wikipedia.org/wiki/Credential_stuffing](https://en.wikipedia.org/wiki/Credential_stuffing)
 - [https://en.wikipedia.org/wiki/Insecure_direct_object_reference](https://en.wikipedia.org/wiki/Insecure_direct_object_reference)
