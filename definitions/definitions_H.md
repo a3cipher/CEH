@@ -38,6 +38,13 @@ Generally, a honeypot consists of data (for example, in a network site) that app
 Links
 - [https://en.wikipedia.org/wiki/Honeypot_(computing)](https://en.wikipedia.org/wiki/Honeypot_(computing))
 
+## Hotfix
+A hotfix or quick-fix engineering update (QFE update) is a single, cumulative package that includes information (often in the form of one or more files) that is used to address a problem in a software product (i.e., a software bug).
+Typically, hotfixes are made to address a specific customer situation.
+
+Links
+- [https://en.wikipedia.org/wiki/Hotfix](https://en.wikipedia.org/wiki/Hotfix)
+
 ## Hping3
 hping3 is a network tool able to send custom ICMP/UDP/TCP packets and to display target replies like ping does with ICMP replies.
 It handles fragmentation and arbitrary packet body and size, and can be used to transfer files under supported protocols.

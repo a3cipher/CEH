@@ -61,6 +61,10 @@ A network interface controller (NIC, also known as a network interface card, net
 Links
 - [https://en.wikipedia.org/wiki/Network_interface_controller](https://en.wikipedia.org/wiki/Network_interface_controller)
 
+## Network Segmentation
+A network segment is a portion of a computer network.
+The nature and extent of a segment depends on the nature of the network and the device or devices used to interconnect end stations.
+
 ## Network Sniffing Attack
 Sniffing attack in context of network security, corresponds to theft or interception of data by capturing the network traffic using a packet sniffer (an application aimed at capturing network packets). When data is transmitted across networks, if the data packets are not encrypted, the data within the network packet can be read using a sniffer.
 
