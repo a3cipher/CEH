@@ -47,3 +47,9 @@ A firewall typically establishes a barrier between a trusted network and an untr
 
 Links
 - [https://en.wikipedia.org/wiki/Firewall_(computing)](https://en.wikipedia.org/wiki/Firewall_(computing))
+
+## Fuzzing
+In programming and software development, fuzzing or fuzz testing is an automated software testing technique that involves providing invalid, unexpected, or random data as inputs to a computer program.
+
+Links
+- [https://en.wikipedia.org/wiki/Fuzzing](https://en.wikipedia.org/wiki/Fuzzing)

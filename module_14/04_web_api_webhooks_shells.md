@@ -2,18 +2,17 @@
 
 ## Web API
 API (Application programming interface)
-> An application programming interface (API) is a way for two or more computer programs to communicate with each other.
-> It is a type of software interface, offering a service to other pieces of software.
-> A document or standard that describes how to build or use such a connection or interface is called an API specification.
+
+[Definition](../definitions/definitions_A.md#application-programming-interface)
 
 HTTP (Hypertext transer protocol)
-> The Hypertext Transfer Protocol (HTTP) is an application layer protocol in the Internet protocol suite model for distributed, collaborative, hypermedia information systems.
-> HTTP is the foundation of data communication for the World Wide Web, where hypertext documents include hyperlinks to other resources that the user can easily access, for example by a mouse click or by tapping the screen in a web browser.
+
+[Definition](../definitions/definitions_H.md#hypertext-transfer-protocol)
 
 SOAP (Simple object access protocol)
-> SOAP (formerly a backronym for Simple Object Access Protocol) is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks.
-> It uses XML Information Set for its message format, and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP), although some legacy systems communicate over Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission.
  
+[Definition](../definitions/definitions_S.md#simple-object-access-protocol)
+
 REST (Representational state transfer)
 > Representational state transfer (REST) is a software architectural style that describes a uniform interface between physically separate components, often across the Internet in a client-server architecture.
 
@@ -38,10 +37,10 @@ OAuth (Open authorization)
 > OAuth (short for "Open Authorization") is an open standard for access delegation, commonly used as a way for internet users to grant websites or applications access to their information on other websites but without giving them the passwords.
 
 Postman 
-> Postman is an API platform for developers to design, build, test and iterate their APIs.
+
+[Definition](../definitions/definitions_P.md#postman)
 
 Fuzzing
-> In programming and software development, fuzzing or fuzz testing is an automated software testing technique that involves providing invalid, unexpected, or random data as inputs to a computer program.
 
 Credential stuffing
 > Credential stuffing is a type of cyberattack in which the attacker collects stolen account credentials, typically consisting of lists of usernames and/or email addresses and the corresponding passwords (often from a data breach), and then uses the credentials to gain unauthorized access to user accounts on other systems through large-scale automated login requests directed against a web application.
@@ -53,13 +52,15 @@ Auth0
 > Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business.
 
 Cross site request forgery
-> Cross-site request forgery, also known as one-click attack or session riding and abbreviated as CSRF (sometimes pronounced sea-surf) or XSRF, is a type of malicious exploit of a website or web application where unauthorized commands are submitted from a user that the web application trusts.
+
+[Definition](../definitions/definitions_C.md#cross-site-request-forgery)
 
 Reverse engineering
 > Reverse engineering (also known as backwards engineering or back engineering) is a process or method through which one attempts to understand through deductive reasoning how a previously made device, process, system, or piece of software accomplishes a task with very little (if any) insight into exactly how it does so.
 
 Replay attack
-> A replay attack (also known as a repeat attack or playback attack) is a form of network attack in which valid data transmission is maliciously or fraudulently repeated or delayed.
+
+[Definition](../definitions/definitions_R.md#replay-attack)
 
 Web shell
 > A web shell is a shell-like interface that enables a web server to be remotely accessed, often for the purposes of cyberattacks.
@@ -81,23 +82,16 @@ MFA (Multi factor authentication)
 > Multi-factor authentication (MFA; encompassing two-factor authentication, or 2FA, along with similar terms) is an electronic authentication method in which a user is granted access to a website or application only after successfully presenting two or more pieces of evidence (or factors) to an authentication mechanism: knowledge (something only the user knows), possession (something only the user has), and inherence (something only the user is).
  
 Links
-- [https://en.wikipedia.org/wiki/API](https://en.wikipedia.org/wiki/API)
-- [https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-- [https://en.wikipedia.org/wiki/SOAP](https://en.wikipedia.org/wiki/SOAP)
 - [https://en.wikipedia.org/wiki/Representational_state_transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
 - [https://en.wikipedia.org/wiki/Webhook](https://en.wikipedia.org/wiki/Webhook)
 - [https://owasp.org/www-project-api-security](https://owasp.org/www-project-api-security)
 - [https://en.wikipedia.org/wiki/Cross-origin_resource_sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
 - [https://en.wikipedia.org/wiki/Role-based_access_control](https://en.wikipedia.org/wiki/Role-based_access_control)
 - [https://en.wikipedia.org/wiki/OAuth](https://en.wikipedia.org/wiki/OAuth)
-- [https://www.postman.com](https://www.postman.com)
-- [https://en.wikipedia.org/wiki/Fuzzing](https://en.wikipedia.org/wiki/Fuzzing)
 - [https://en.wikipedia.org/wiki/Credential_stuffing](https://en.wikipedia.org/wiki/Credential_stuffing)
 - [https://en.wikipedia.org/wiki/Insecure_direct_object_reference](https://en.wikipedia.org/wiki/Insecure_direct_object_reference)
 - [https://auth0.com](https://auth0.com)
-- [https://en.wikipedia.org/wiki/Cross-site_request_forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
 - [https://en.wikipedia.org/wiki/Reverse_engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
-- [https://en.wikipedia.org/wiki/Replay_attack](https://en.wikipedia.org/wiki/Replay_attack)
 - [https://en.wikipedia.org/wiki/Web_shell](https://en.wikipedia.org/wiki/Web_shell)
 - [https://en.wikipedia.org/wiki/Content_management_system](https://en.wikipedia.org/wiki/Content_management_system)
 - [https://en.wikipedia.org/wiki/File_inclusion_vulnerability](https://en.wikipedia.org/wiki/File_inclusion_vulnerability)

@@ -7,4 +7,4 @@ Web application
 
 URL (Uniform resource locator)
 
-[Definition](../definitions/definition_U.md#uniform-resource-locator)
+[Definition](../definitions/definitions_U.md#uniform-resource-locator)

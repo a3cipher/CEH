@@ -53,6 +53,12 @@ In security, piggybacking, similar to tailgating, refers to when a person tags a
 Links
 - [https://en.wikipedia.org/wiki/Piggybacking_(security)](https://en.wikipedia.org/wiki/Piggybacking_(security))
 
+## Postman
+Postman is an API platform for developers to design, build, test and iterate their APIs.
+
+Links
+- [https://www.postman.com](https://www.postman.com)
+
 ## Post Office Protocol
 In computing, the Post Office Protocol (POP) is an application-layer Internet standard protocol used by e-mail clients to retrieve e-mail from a mail server.
 POP version 3 (POP3) is the version in common use, and along with IMAP the most common protocols for email retrieval.

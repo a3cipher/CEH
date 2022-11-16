@@ -37,6 +37,14 @@ Antivirus software (abbreviated to AV software), also known as anti-malware, is 
 Links
 - [https://en.wikipedia.org/wiki/Antivirus_software](https://en.wikipedia.org/wiki/Antivirus_software)
 
+## Application Programming Interface
+An application programming interface (API) is a way for two or more computer programs to communicate with each other.
+It is a type of software interface, offering a service to other pieces of software.
+A document or standard that describes how to build or use such a connection or interface is called an API specification.
+
+Links
+- [https://en.wikipedia.org/wiki/API](https://en.wikipedia.org/wiki/API)
+
 ## Archive Org
 The Internet Archive is an American digital library with the stated mission of "universal access to all knowledge".
 

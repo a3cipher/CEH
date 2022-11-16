@@ -100,6 +100,13 @@ Links
 - [https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol)
 - [https://en.wikipedia.org/wiki/Management_information_base](https://en.wikipedia.org/wiki/Management_information_base)
 
+## Simple Object Access Protocol
+SOAP (formerly a backronym for Simple Object Access Protocol) is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks.
+It uses XML Information Set for its message format, and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP), although some legacy systems communicate over Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission.
+
+Links
+- [https://en.wikipedia.org/wiki/SOAP](https://en.wikipedia.org/wiki/SOAP)
+
 ## Social Engineering
 In the context of information security, social engineering is the psychological manipulation of people into performing actions or divulging confidential information.
 This differs from social engineering within the social sciences, which does not concern the divulging of confidential information.
