@@ -59,6 +59,13 @@ Session identifiers become necessary in cases where the communications infrastru
 Links
 - [https://en.wikipedia.org/wiki/Session_ID](https://en.wikipedia.org/wiki/Session_ID)
 
+## Session Poisoning
+Session poisoning (also referred to as "session data pollution" and "session modification") is a method to exploit insufficient input validation within a server application.
+Typically a server application that is vulnerable to this type of exploit will copy user input into session variables.
+
+Links
+- [https://en.wikipedia.org/wiki/Session_poisoning](https://en.wikipedia.org/wiki/Session_poisoning)
+
 ## Sheep Dip
 In data security, a sheep-dip is the process of using a dedicated computer to test files on removable media for viruses before they are allowed to be used with other computers.
 
@@ -149,6 +156,12 @@ Steganography (/ˌstɛɡəˈnɒɡrəfi/ (listen) STEG-ə-NOG-rə-fee) is the pra
 Links
 - [https://en.wikipedia.org/wiki/Steganography](https://en.wikipedia.org/wiki/Steganography)
 
+## Structured Query Language Injection
+In computing, SQL injection is a code injection technique used to attack data-driven applications, in which malicious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker).
+
+Links
+- [https://en.wikipedia.org/wiki/SQL_injection](https://en.wikipedia.org/wiki/SQL_injection)
+ 
 ## Sublist3r
 Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT.
 

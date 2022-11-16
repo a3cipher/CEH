@@ -15,6 +15,12 @@ For any information system to serve its purpose, the information must be availab
 Links
 - [https://en.wikipedia.org/wiki/Confidentiality](https://en.wikipedia.org/wiki/Confidentiality)
 
+## Clickjacking
+Clickjacking (classified as a user interface redress attack or UI redressing) is a malicious technique of tricking a user into clicking on something different from what the user perceives, thus potentially revealing confidential information or allowing others to take control of their computer while clicking on seemingly innocuous objects, including web pages.
+
+Links
+- [https://en.wikipedia.org/wiki/Clickjacking](https://en.wikipedia.org/wiki/Clickjacking)
+
 ## Common Vulnerabilities and Exposures
 The Common Vulnerabilities and Exposures (CVE) system provides a reference-method for publicly known information-security vulnerabilities and exposures.
 
@@ -32,6 +38,10 @@ The Common Weakness Enumeration (CWE) is a category system for hardware and soft
 
 Links
 - [https://en.wikipedia.org/wiki/Common_Weakness_Enumeration](https://en.wikipedia.org/wiki/Common_Weakness_Enumeration)
+
+## Command Injection
+Command injection is a cyber attack that involves executing arbitrary commands on a host operating system (OS).
+Typically, the threat actor injects the commands by exploiting an application vulnerability, such as insufficient input validation.
 
 ## Competitive Intelligence
 Competitive intelligence (CI) is the process and forward-looking practices used in producing knowledge about the competitive environment to improve organizational performance.

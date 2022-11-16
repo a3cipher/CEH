@@ -7,6 +7,20 @@ Software for wardriving is freely available on the internet.
 Links
 - [https://en.wikipedia.org/wiki/Wardriving](https://en.wikipedia.org/wiki/Wardriving)
 
+## Watering Hole Attack
+Watering hole is a computer attack strategy in which an attacker guesses or observes which websites an organization often uses and infects one or more of them with malware.
+Eventually, some member of the targeted group will become infected.
+
+Links
+- [https://en.wikipedia.org/wiki/Watering_hole_attack](https://en.wikipedia.org/wiki/Watering_hole_attack)
+
+## Web Application
+A web application (or web app) is application software that is accessed using a web browser.
+Web applications are delivered on the World Wide Web to users with an active network connection.
+
+Links
+- [https://en.wikipedia.org/wiki/Web_application](https://en.wikipedia.org/wiki/Web_application)
+
 ## Web Cache Poisoning
 In a vulnerable application, threat actors inject specially crafted data into cache memory, causing the webserver to respond with a malicious HTTP response to the user.
 
