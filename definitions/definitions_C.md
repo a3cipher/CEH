@@ -61,6 +61,12 @@ HTTP cookies (also called web cookies, Internet cookies, browser cookies, or sim
 Links
 - [https://en.wikipedia.org/wiki/HTTP_cookie](https://en.wikipedia.org/wiki/HTTP_cookie)
 
+## Credential Stuffing
+Credential stuffing is a type of cyberattack in which the attacker collects stolen account credentials, typically consisting of lists of usernames and/or email addresses and the corresponding passwords (often from a data breach), and then uses the credentials to gain unauthorized access to user accounts on other systems through large-scale automated login requests directed against a web application.
+
+Links
+- [https://en.wikipedia.org/wiki/Credential_stuffing](https://en.wikipedia.org/wiki/Credential_stuffing)
+
 ## Cross Origin Resource Sharing
 Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served.
 

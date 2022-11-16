@@ -59,3 +59,8 @@ AI research has been defined as the field of study of intelligent agents, which 
 Links
 - [https://en.wikipedia.org/wiki/Artificial_intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
+## Auth0
+Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business.
+
+Links
+- [https://auth0.com](https://auth0.com)

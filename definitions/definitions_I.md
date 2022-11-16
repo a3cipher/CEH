@@ -84,6 +84,12 @@ Examples:
 Links
 - [https://en.wikipedia.org/wiki/Information_warfare](https://en.wikipedia.org/wiki/Information_warfare)
 
+## Insecure Direct Object Reference
+Insecure direct object reference (IDOR) is a type of access control vulnerability in digital security.
+
+Links
+- [https://en.wikipedia.org/wiki/Insecure_direct_object_reference](https://en.wikipedia.org/wiki/Insecure_direct_object_reference)
+
 ## Insider
 An employee that is already inside of the organization.
 

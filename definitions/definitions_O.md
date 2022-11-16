@@ -7,6 +7,12 @@ Like obfuscation in natural language, it may use needlessly roundabout expressio
 Links
 - [https://en.wikipedia.org/wiki/Obfuscation_(software)](https://en.wikipedia.org/wiki/Obfuscation_(software))
 
+## Open Authorization
+OAuth (short for "Open Authorization") is an open standard for access delegation, commonly used as a way for internet users to grant websites or applications access to their information on other websites but without giving them the passwords.
+
+Links
+- [https://en.wikipedia.org/wiki/OAuth](https://en.wikipedia.org/wiki/OAuth)
+
 ## Open Systems Interconnection Model
 The Open Systems Interconnection model (OSI model) is a conceptual model that 'provides a common basis for the coordination of [ISO] standards development for the purpose of systems interconnection'.
 

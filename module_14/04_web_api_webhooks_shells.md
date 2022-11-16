@@ -27,7 +27,7 @@ Cross origin resource sharing (CORS)
 
 [Definition](../definitions/definitions_C.md#cross-origin-resource-sharing)
 
-RBAC (Role based access control)
+Role based access control (RBAC)
 
 [Definition](../definitions/definitions_R.md#role-based-access-control)
 
@@ -35,8 +35,9 @@ Security assertion markup language (SAML)
 
 [Definition](../definitions/definitions_S.md#security-assertion-markup-language)
 
-OAuth (Open authorization)
-> OAuth (short for "Open Authorization") is an open standard for access delegation, commonly used as a way for internet users to grant websites or applications access to their information on other websites but without giving them the passwords.
+Open authorization (OAuth)
+
+[Definition](../definitions/definitions_O.md#open-authorization)
 
 Postman 
 
@@ -44,14 +45,19 @@ Postman
 
 Fuzzing
 
-Credential stuffing
-> Credential stuffing is a type of cyberattack in which the attacker collects stolen account credentials, typically consisting of lists of usernames and/or email addresses and the corresponding passwords (often from a data breach), and then uses the credentials to gain unauthorized access to user accounts on other systems through large-scale automated login requests directed against a web application.
+[Definition](../definitions/definitions_F.md#fuzzing)
 
-IDOR (Insecure direct object reference)
-> Insecure direct object reference (IDOR) is a type of access control vulnerability in digital security.
+Credential stuffing
+
+[Definition](../definitions/definitions_C.md#credential-stuffing)
+
+Insecure direct object reference (IDOR)
+
+[Definition](../definitions/definitions_I.md#insecure-direct-object-reference)
 
 Auth0
-> Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business.
+
+[Definition](../definitions/definitions_A.md#auth0)
 
 Cross site request forgery
 
@@ -85,10 +91,6 @@ MFA (Multi factor authentication)
  
 Links
 - [https://owasp.org/www-project-api-security](https://owasp.org/www-project-api-security)
-- [https://en.wikipedia.org/wiki/OAuth](https://en.wikipedia.org/wiki/OAuth)
-- [https://en.wikipedia.org/wiki/Credential_stuffing](https://en.wikipedia.org/wiki/Credential_stuffing)
-- [https://en.wikipedia.org/wiki/Insecure_direct_object_reference](https://en.wikipedia.org/wiki/Insecure_direct_object_reference)
-- [https://auth0.com](https://auth0.com)
 - [https://en.wikipedia.org/wiki/Reverse_engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
 - [https://en.wikipedia.org/wiki/Web_shell](https://en.wikipedia.org/wiki/Web_shell)
 - [https://en.wikipedia.org/wiki/Content_management_system](https://en.wikipedia.org/wiki/Content_management_system)
