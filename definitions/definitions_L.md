@@ -1,5 +1,12 @@
 # Definitions L
 
+## LAMP Stack
+LAMP (Linux, Apache, MySQL, PHP/Perl/Python) is an acronym denoting one of the most common software stacks for many of the web's most popular applications.
+However, LAMP now refers to a generic software stack model and its components are largely interchangeable.
+
+Links
+- [https://en.wikipedia.org/wiki/LAMP_(software_bundle)](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
+
 ## Lawful Interception
 Lawful interception (LI) refers to the facilities in telecommunications and telephone networks that allow law enforcement agencies with court orders or other legal authorization to selectively wiretap individual subscribers.
 
