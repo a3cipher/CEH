@@ -33,3 +33,10 @@ It does not write any part of its activity to the computer's hard drive, thus in
 
 Links
 - [https://en.wikipedia.org/wiki/Fileless_malware](https://en.wikipedia.org/wiki/Fileless_malware)
+
+## Firewall
+In computing, a firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet.
+
+Links
+- [https://en.wikipedia.org/wiki/Firewall_(computing)](https://en.wikipedia.org/wiki/Firewall_(computing))

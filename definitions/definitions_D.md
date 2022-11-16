@@ -19,6 +19,12 @@ Its intent is to provide redundancy in the event a security control fails or a v
 Links
 - [https://en.wikipedia.org/wiki/Defense_in_depth_(computing)](https://en.wikipedia.org/wiki/Defense_in_depth_(computing))
 
+## Demilitarized Zone
+In computer security, a DMZ or demilitarized zone (sometimes referred to as a perimeter network or screened subnet) is a physical or logical subnetwork that contains and exposes an organization's external-facing services to an untrusted, usually larger, network such as the Internet.
+
+Links
+- [https://en.wikipedia.org/wiki/DMZ_(computing)](https://en.wikipedia.org/wiki/DMZ_(computing))
+
 ## Denial of Service Attack
 In computing, a denial-of-service attack (DoS attack) is a cyber-attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to a network. Denial of service is typically accomplished by flooding the targeted machine or resource with superfluous requests in an attempt to overload systems and prevent some or all legitimate requests from being fulfilled.
 

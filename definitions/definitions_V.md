@@ -29,6 +29,12 @@ The message is usually a chain e-mail that tells the recipients to forward it to
 Links
 - [https://en.wikipedia.org/wiki/Virus_hoax](https://en.wikipedia.org/wiki/Virus_hoax)
 
+## Virtual Private Network
+A virtual private network (VPN) extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
+
+Links
+- [https://en.wikipedia.org/wiki/Virtual_private_network](https://en.wikipedia.org/wiki/Virtual_private_network)
+
 ## VLAN Hopping
 VLAN hopping is a computer security exploit, a method of attacking networked resources on a virtual LAN (VLAN).
 The basic concept behind all VLAN hopping attacks is for an attacking host on a VLAN to gain access to traffic on other VLANs that would normally not be accessible.

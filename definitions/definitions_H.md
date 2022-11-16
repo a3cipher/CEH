@@ -31,6 +31,13 @@ Links
 - [https://www.hhs.gov/hipaa/index.html](https://www.hhs.gov/hipaa/index.html)
 - [https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act)
 
+## Honeypot
+In computer terminology, a honeypot is a computer security mechanism set to detect, deflect, or, in some manner, counteract attempts at unauthorized use of information systems.
+Generally, a honeypot consists of data (for example, in a network site) that appears to be a legitimate part of the site which contains information or resources of value to attackers.
+
+Links
+- [https://en.wikipedia.org/wiki/Honeypot_(computing)](https://en.wikipedia.org/wiki/Honeypot_(computing))
+
 ## Hping3
 hping3 is a network tool able to send custom ICMP/UDP/TCP packets and to display target replies like ping does with ICMP replies.
 It handles fragmentation and arbitrary packet body and size, and can be used to transfer files under supported protocols.

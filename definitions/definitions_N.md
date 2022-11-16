@@ -37,6 +37,18 @@ Links
 - [https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/nbtstat](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/nbtstat)
 - [https://learn.microsoft.com/en-us/sysinternals/downloads/psexec](https://learn.microsoft.com/en-us/sysinternals/downloads/psexec)
 
+## Network Access Control
+Network access control (NAC) is an approach to computer security that attempts to unify endpoint security technology (such as antivirus, host intrusion prevention, and vulnerability assessment), user or system authentication and network security enforcement.
+
+Links
+- [https://en.wikipedia.org/wiki/Network_Access_Control](https://en.wikipedia.org/wiki/Network_Access_Control)
+
+## Network Address Translation
+Network address translation (NAT) is a method of mapping an IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device.
+
+Links
+- [https://en.wikipedia.org/wiki/Network_address_translation](https://en.wikipedia.org/wiki/Network_address_translation)
+
 ## Network File System
 Network File System (NFS) is a distributed file system protocol originally developed by Sun Microsystems (Sun) in 1984,[1] allowing a user on a client computer to access files over a computer network much like local storage is accessed. NFS, like many other protocols, builds on the Open Network Computing Remote Procedure Call (ONC RPC) system.
 
