@@ -34,6 +34,13 @@ It does not write any part of its activity to the computer's hard drive, thus in
 Links
 - [https://en.wikipedia.org/wiki/Fileless_malware](https://en.wikipedia.org/wiki/Fileless_malware)
 
+## Firewalking
+Firewalking is a technique developed by Mike Schiffman and David Goldsmith that utilizes traceroute techniques and TTL values to analyze IP packet responses in order to determine gateway ACL (Access Control List) filters and map networks.
+It is an active reconnaissance network security analysis technique that attempts to determine which layer 4 protocols a specific firewall will allow.
+
+Links
+- [https://en.wikipedia.org/wiki/Firewalk_(computing)](https://en.wikipedia.org/wiki/Firewalk_(computing))
+
 ## Firewall
 In computing, a firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
 A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet.

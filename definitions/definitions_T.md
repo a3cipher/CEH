@@ -91,3 +91,10 @@ The term is derived from the Ancient Greek story of the deceptive Trojan Horse t
 
 Links
 - [https://en.wikipedia.org/wiki/Trojan_horse_(computing)](https://en.wikipedia.org/wiki/Trojan_horse_(computing))
+
+## Tunneling
+In computer networks, a tunneling protocol is a communication protocol which allows for the movement of data from one network to another, by exploiting encapsulation.
+It involves allowing private network communications to be sent across a public network (such as the Internet) through a process called encapsulation.
+
+Links
+- [https://en.wikipedia.org/wiki/Tunneling_protocol](https://en.wikipedia.org/wiki/Tunneling_protocol)

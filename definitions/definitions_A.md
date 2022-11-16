@@ -27,6 +27,10 @@ Adware, often called advertising-supported software by its developers, is softwa
 Links
 - [https://en.wikipedia.org/wiki/Adware](https://en.wikipedia.org/wiki/Adware)
 
+## Anonymous Surfing
+Anonymous surfing allows you to wander the Internet without leaving any track of your computer's IP (Internet Protocol) address.
+This is accomplished via a proxy service.
+
 ## Antivvirus
 Antivirus software (abbreviated to AV software), also known as anti-malware, is a computer program used to prevent, detect, and remove malware.
 

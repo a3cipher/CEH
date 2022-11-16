@@ -1,5 +1,12 @@
 # Definitions O
 
+## Obfuscation
+In software development, obfuscation is the act of creating source or machine code that is difficult for humans or computers to understand.
+Like obfuscation in natural language, it may use needlessly roundabout expressions to compose statements.
+
+Links
+- [https://en.wikipedia.org/wiki/Obfuscation_(software)](https://en.wikipedia.org/wiki/Obfuscation_(software))
+
 ## Open Systems Interconnection Model
 The Open Systems Interconnection model (OSI model) is a conceptual model that 'provides a common basis for the coordination of [ISO] standards development for the purpose of systems interconnection'.
 

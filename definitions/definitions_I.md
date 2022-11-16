@@ -99,6 +99,13 @@ In computer networking, IP address spoofing or IP spoofing is the creation of In
 Links
 - [https://en.wikipedia.org/wiki/IP_address_spoofing](https://en.wikipedia.org/wiki/IP_address_spoofing)
 
+## Internet Protocol Fragmentation
+IP fragmentation is an Internet Protocol (IP) process that breaks packets into smaller pieces (fragments), so that the resulting pieces can pass through a link with a smaller maximum transmission unit (MTU) than the original packet size.
+The fragments are reassembled by the receiving host.
+
+Links
+- [https://en.wikipedia.org/wiki/IP_fragmentation](https://en.wikipedia.org/wiki/IP_fragmentation)
+
 ## Internet Protocol Security
 In computing, Internet Protocol Security (IPsec) is a secure network protocol suite that authenticates and encrypts packets of data to provide secure encrypted communication between two computers over an Internet Protocol network. It is used in virtual private networks (VPNs).
 
