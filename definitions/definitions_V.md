@@ -1,5 +1,11 @@
 # Definitions V
 
+## Virus
+A computer virus is a type of computer program that, when executed, replicates itself by modifying other computer programs and inserting its own code.
+
+Links
+- [https://en.wikipedia.org/wiki/Computer_virus](https://en.wikipedia.org/wiki/Computer_virus)
+
 ## VulDB
 Number one vulnerability management and threat intelligence platform documenting and explaining vulnerabilities since 1970.
 

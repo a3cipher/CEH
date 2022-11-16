@@ -18,6 +18,13 @@ Border Gateway Protocol (BGP) is a standardized exterior gateway protocol design
 Links
 - [https://en.wikipedia.org/wiki/Border_Gateway_Protocol](https://en.wikipedia.org/wiki/Border_Gateway_Protocol)
 
+## Botnet
+> A botnet is a group of Internet-connected devices, each of which runs one or more bots.
+> Botnets can be used to perform Distributed Denial-of-Service (DDoS) attacks, steal data, send spam, and allow the attacker to access the device and its connection.
+
+Links
+- [https://en.wikipedia.org/wiki/Botnet](https://en.wikipedia.org/wiki/Botnet)
+
 ## Brute Force Attack
 In cryptography, a brute-force attack consists of an attacker submitting many passwords or passphrases with the hope of eventually guessing correctly.
 

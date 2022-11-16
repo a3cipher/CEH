@@ -6,6 +6,12 @@ A Web crawler, sometimes called a spider or spiderbot and often shortened to cra
 Links
 - [https://en.wikipedia.org/wiki/Web_crawler](https://en.wikipedia.org/wiki/Web_crawler)
 
+## Whois
+Large database of whois information, DNS, domain names, name servers, IPs, and tools for searching and monitoring domain names.
+
+Links
+- [https://who.is](https://who.is)
+
 ## Wireshark
 Wireshark is the world’s foremost and widely-used network protocol analyzer.
 It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.
@@ -14,9 +20,9 @@ Wireshark development thrives thanks to the volunteer contributions of networkin
 Links
 - [https://www.wireshark.org](https://www.wireshark.org)
 
-
-## Whois
-Large database of whois information, DNS, domain names, name servers, IPs, and tools for searching and monitoring domain names.
+## Worm
+A computer worm is a standalone malware computer program that replicates itself in order to spread to other computers.
+It often uses a computer network to spread itself, relying on security failures on the target computer to access it.
 
 Links
-- [https://who.is](https://who.is)
+- [https://en.wikipedia.org/wiki/Computer_worm](https://en.wikipedia.org/wiki/Computer_worm)

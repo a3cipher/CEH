@@ -8,6 +8,12 @@ ARP was defined in 1982 by RFC 826, which is Internet Standard STD 37.
 Links
 - [https://en.wikipedia.org/wiki/Address_Resolution_Protocol](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)
 
+## Adware
+Adware, often called advertising-supported software by its developers, is software that generates revenue for its developer by automatically generating online advertisements in the user interface of the software or on a screen presented to the user during the installation process.
+
+Links
+- [https://en.wikipedia.org/wiki/Adware](https://en.wikipedia.org/wiki/Adware)
+
 ## Archive Org
 The Internet Archive is an American digital library with the stated mission of "universal access to all knowledge".
 

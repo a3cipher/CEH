@@ -41,6 +41,13 @@ POP version 3 (POP3) is the version in common use, and along with IMAP the most 
 Links
 - [https://en.wikipedia.org/wiki/Post_Office_Protocol](https://en.wikipedia.org/wiki/Post_Office_Protocol)
 
+## Potentially Unwanted Application
+A potentially unwanted program (PUP) or potentially unwanted application (PUA) is software that a user may perceive as unwanted or unnecessary.
+It is used as a subjective tagging criterion by security and parental control products.
+
+Links
+- [https://en.wikipedia.org/wiki/Potentially_unwanted_program](https://en.wikipedia.org/wiki/Potentially_unwanted_program)
+
 ## Proxy Server
 In computer networking, a proxy server is a server application that acts as an intermediary between a client requesting a resource and the server providing that resource.
 

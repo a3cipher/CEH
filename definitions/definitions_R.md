@@ -14,6 +14,12 @@ To protect stored passwords from compromise in case of a data breach, organizati
 Links
 - [https://en.wikipedia.org/wiki/Rainbow_table](https://en.wikipedia.org/wiki/Rainbow_table)
 
+## Ransomware
+Ransomware is a type of malware from cryptovirology that threatens to publish the victim's personal data or permanently block access to it unless a ransom is paid.
+
+Links
+- [https://en.wikipedia.org/wiki/Ransomware](https://en.wikipedia.org/wiki/Ransomware)
+
 ## Recon-ng
 Recon-ng is a Web Reconnaissance tool written in Python.
 It has so many modules, database interaction, built-in convenience functions, interactive help, and command completion, Recon-ng provides a powerful environment in which open source web-based reconnaissance can be conducted, and we can gather all information.
