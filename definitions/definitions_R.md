@@ -77,6 +77,13 @@ Representational state transfer (REST) is a software architectural style that de
 Links
 - [https://en.wikipedia.org/wiki/Representational_state_transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
+## Retinal Scan
+A retinal scan is a biometric technique that uses unique patterns on a person's retina blood vessels.
+It is not to be confused with other ocular-based technologies: iris recognition, commonly called an "iris scan", and eye vein verification that uses scleral veins.
+
+Links
+- [https://en.wikipedia.org/wiki/Retinal_scan](https://en.wikipedia.org/wiki/Retinal_scan)
+ 
 ## Return Oriented Programming
 Return-oriented programming (ROP) is a computer security exploit technique that allows an attacker to execute code in the presence of security defenses such as executable space protection and code signing.
 

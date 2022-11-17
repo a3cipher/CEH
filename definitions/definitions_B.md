@@ -41,6 +41,13 @@ It is a penetration testing tool that focuses on the web browser.
 Links
 - [https://beefproject.com](https://beefproject.com)
 
+## BlueBorne
+BlueBorne is a type of security vulnerability with Bluetooth implementations in Android, iOS, Linux and Windows.
+It affects many electronic devices such as laptops, smart cars, smartphones and wearable gadgets.
+
+Links
+- [https://en.wikipedia.org/wiki/BlueBorne_(security_vulnerability)](https://en.wikipedia.org/wiki/BlueBorne_(security_vulnerability))
+
 ## Border Gateway Protocol
 Border Gateway Protocol (BGP) is a standardized exterior gateway protocol designed to exchange routing and reachability information among autonomous systems (AS) on the Internet.[1] BGP is classified as a path-vector routing protocol,[2] and it makes routing decisions based on paths, network policies, or rule-sets configured by a network administrator.
 

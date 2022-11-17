@@ -30,6 +30,12 @@ Links
 - [https://owasp.org](https://owasp.org)
 - [https://owasp.org/www-project-zap](https://owasp.org/www-project-zap)
 
+## Operational Technology
+Operational technology (OT) is hardware and software that detects or causes a change, through the direct monitoring and/or control of industrial equipment, assets, processes and events.
+
+Links
+- [https://en.wikipedia.org/wiki/Operational_technology](https://en.wikipedia.org/wiki/Operational_technology)
+
 ## Organized Crime
 Organized crime (or organized crime) is a category of transnational, national, or local groupings of highly centralized enterprises run by criminals to engage in illegal activity, most commonly for profit. While organized crime is generally thought of as a form of illegal business, some criminal organizations, such as terrorist groups, rebel forces, and separatists, are politically motivated.
 

@@ -61,8 +61,14 @@ After IoCs have been identified via a process of incident response and computer 
 Links
 - [https://en.wikipedia.org/wiki/Indicator_of_compromise](https://en.wikipedia.org/wiki/Indicator_of_compromise)
 
+## Industrial Control System
+An industrial control system (ICS) is an electronic control system and associated instrumentation used for industrial process control.
+Control systems can range in size from a few modular panel-mounted controllers to large interconnected and interactive distributed control systems (DCSs) with many thousands of field connections.
+
+Links
+- [https://en.wikipedia.org/wiki/Industrial_control_system](https://en.wikipedia.org/wiki/Industrial_control_system)
+
 ## Information Assurance
-Information assurance
 Information assurance (IA) is the practice of assuring information and managing risks related to the use, processing, storage, and transmission of information.
 Information assurance includes protection of the integrity, availability, authenticity, non-repudiation and confidentiality of user data.
 
@@ -116,6 +122,12 @@ Internet Information Services (IIS, formerly Internet Information Server) is an 
 
 Links
 - [https://en.wikipedia.org/wiki/Internet_Information_Services](https://en.wikipedia.org/wiki/Internet_Information_Services)
+
+## Internet of Things
+The Internet of things (IoT) describes physical objects (or groups of such objects) with sensors, processing ability, software, and other technologies that connect and exchange data with other devices and systems over the Internet or other communications networks.
+
+Links
+- [https://en.wikipedia.org/wiki/Internet_of_things](https://en.wikipedia.org/wiki/Internet_of_things)
 
 ## Internet Protocol Address Spoofing
 In computer networking, IP address spoofing or IP spoofing is the creation of Internet Protocol (IP) packets with a false source IP address, for the purpose of impersonating another computing system.

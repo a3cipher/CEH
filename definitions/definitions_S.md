@@ -224,6 +224,9 @@ Sublist3r is a python tool designed to enumerate subdomains of websites using OS
 Links
 - [https://github.com/aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r)
 
+## Supervisory Control and Data Acquisition 
+Supervisory control and data acquisition (SCADA) is a control system architecture comprising computers, networked data communications and graphical user interfaces for high-level supervision of machines and processes. 
+
 ## Switch
 A network switch (also called switching hub, bridging hub, and, by the IEEE, MAC bridge) is networking hardware that connects devices on a computer network by using packet switching to receive and forward data to the destination device.
 
@@ -236,3 +239,4 @@ The server has to spend resources waiting for half-opened connections, which can
 
 Links
 - [https://en.wikipedia.org/wiki/SYN_flood](https://en.wikipedia.org/wiki/SYN_flood)
+- [https://en.wikipedia.org/wiki/SCADA](https://en.wikipedia.org/wiki/SCADA)

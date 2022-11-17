@@ -7,6 +7,9 @@ However, LAMP now refers to a generic software stack model and its components ar
 Links
 - [https://en.wikipedia.org/wiki/LAMP_(software_bundle)](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
 
+## Lateral Movement
+Network Lateral Movement, or simply Lateral Movement, refers to the techniques that cyber attackers, or threat actors, use to progressively move through a network as they search for the key data and assets that are ultimately the target of their attack campaigns.
+
 ## Lawful Interception
 Lawful interception (LI) refers to the facilities in telecommunications and telephone networks that allow law enforcement agencies with court orders or other legal authorization to selectively wiretap individual subscribers.
 

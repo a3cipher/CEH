@@ -31,6 +31,13 @@ Links
 - [https://www.hhs.gov/hipaa/index.html](https://www.hhs.gov/hipaa/index.html)
 - [https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act)
 
+## Heating, Ventilation and Air Conditioning
+Heating, ventilation, and air conditioning (HVAC) is the use of various technologies to control the temperature, humidity, and purity of the air in an enclosed space.
+Its goal is to provide thermal comfort and acceptable indoor air quality.
+
+Links
+- [https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning](https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning)
+
 ## Honeypot
 In computer terminology, a honeypot is a computer security mechanism set to detect, deflect, or, in some manner, counteract attempts at unauthorized use of information systems.
 Generally, a honeypot consists of data (for example, in a network site) that appears to be a legitimate part of the site which contains information or resources of value to attackers.

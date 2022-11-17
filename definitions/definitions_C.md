@@ -45,6 +45,13 @@ The Common Weakness Enumeration (CWE) is a category system for hardware and soft
 Links
 - [https://en.wikipedia.org/wiki/Common_Weakness_Enumeration](https://en.wikipedia.org/wiki/Common_Weakness_Enumeration)
 
+## Command and Control
+This term is also in common use within the computer security industry and in the context of cyberwarfare.
+Here the term refers to the influence an attacker has over a compromised computer system that they control. 
+
+Links
+- [https://en.wikipedia.org/wiki/Command_and_control](https://en.wikipedia.org/wiki/Command_and_control)
+
 ## Command Injection
 Command injection is a cyber attack that involves executing arbitrary commands on a host operating system (OS).
 Typically, the threat actor injects the commands by exploiting an application vulnerability, such as insufficient input validation.
