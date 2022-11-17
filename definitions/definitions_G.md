@@ -15,6 +15,12 @@ Gobuster is a tool used to brute-force URIs including directories and files as w
 Links
 - [https://www.kali.org/tools/gobuster](https://www.kali.org/tools/gobuster)
 
+## Google Cloud Platform
+Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, Google Drive, and YouTube.
+
+Links
+- [https://cloud.google.com](https://cloud.google.com)
+
 ## Google Earth
 > Google Earth is a computer program that renders a 3D representation of Earth based primarily on satellite imagery.
 

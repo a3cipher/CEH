@@ -36,6 +36,13 @@ The message is usually a chain e-mail that tells the recipients to forward it to
 Links
 - [https://en.wikipedia.org/wiki/Virus_hoax](https://en.wikipedia.org/wiki/Virus_hoax)
 
+## Virtual Machine
+In computing, a virtual machine (VM) is the virtualization/emulation of a computer system.
+Virtual machines are based on computer architectures and provide functionality of a physical computer.
+
+Links
+- [https://en.wikipedia.org/wiki/Virtual_machine](https://en.wikipedia.org/wiki/Virtual_machine)
+
 ## Virtual Private Network
 A virtual private network (VPN) extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
 

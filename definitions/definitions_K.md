@@ -17,3 +17,9 @@ KRACK ("Key Reinstallation Attack") is a replay attack (a type of exploitable fl
 
 Links
 - [https://en.wikipedia.org/wiki/KRACK](https://en.wikipedia.org/wiki/KRACK)
+
+## Kubernetes
+Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.
+
+Links
+- [https://kubernetes.io](https://kubernetes.io)

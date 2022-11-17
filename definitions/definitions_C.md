@@ -21,6 +21,34 @@ Clickjacking (classified as a user interface redress attack or UI redressing) is
 Links
 - [https://en.wikipedia.org/wiki/Clickjacking](https://en.wikipedia.org/wiki/Clickjacking)
 
+## Cloud Computing
+Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.
+Large clouds often have functions distributed over multiple locations, each of which is a data center.
+
+### Public cloud 
+Cloud services are considered "public" when they are delivered over the public Internet, and they may be offered as a paid subscription, or free of charge.
+
+### Private cloud
+Private cloud is cloud infrastructure operated solely for a single organization, whether managed internally or by a third party, and hosted either internally or externally.
+
+### Hybrid cloud
+Hybrid cloud is a composition of a public cloud and a private environment, such as a private cloud or on-premises resources,[100][101] that remain distinct entities but are bound together, offering the benefits of multiple deployment models.
+
+### Community cloud
+Community cloud shares infrastructure between several organizations from a specific community with common concerns (security, compliance, jurisdiction, etc.), whether managed internally or by a third-party, and either hosted internally or externally.
+
+### Infrastructure as a service
+"Infrastructure as a service" (IaaS) refers to online services that provide high-level APIs used to abstract various low-level details of underlying network infrastructure like physical computing resources, location, data partitioning, scaling, security, backup, etc.
+
+### Platform as a service
+The capability provided to the consumer is to deploy onto the cloud infrastructure consumer-created or acquired applications created using programming languages, libraries, services, and tools supported by the provider.
+
+### Software as a service
+The capability provided to the consumer is to use the provider's applications running on a cloud infrastructure.
+
+Links
+- [https://en.wikipedia.org/wiki/Cloud_computing](https://en.wikipedia.org/wiki/Cloud_computing)
+
 ## Code Review
 Code review (sometimes referred to as peer review) is a software quality assurance activity in which one or several people check a program mainly by viewing and reading parts of its source code, and they do so after implementation or as an interruption of implementation.
 
@@ -69,6 +97,12 @@ In certain formalisations of concatenation theory, also called string theory, st
 
 Links
 - [https://en.wikipedia.org/wiki/Concatenation](https://en.wikipedia.org/wiki/Concatenation)
+
+## Containerization
+Containerization is operating system-level virtualization or application-level virtualization over multiple network resources so that software applications can run in isolated user spaces called containers in any cloud or non-cloud environment, regardless of type or vendor.
+
+Links
+- [https://en.wikipedia.org/wiki/Containerization_(computing)](https://en.wikipedia.org/wiki/Containerization_(computing))
 
 ## Content Addressable Memory Table
 Content Addressable Memory (CAM) table is a system memory construct used by Ethernet switch logic which stores information such as MAC addresses available on physical ports with their associated VLAN Parameters.

@@ -55,6 +55,12 @@ A firewall typically establishes a barrier between a trusted network and an untr
 Links
 - [https://en.wikipedia.org/wiki/Firewall_(computing)](https://en.wikipedia.org/wiki/Firewall_(computing))
 
+## Fog Computing
+Fog computing or fog networking, also known as fogging, is an architecture that uses edge devices to carry out a substantial amount of computation (edge computing), storage, and communication locally and routed over the Internet backbone.
+
+Links
+- [https://en.wikipedia.org/wiki/Fog_computing](https://en.wikipedia.org/wiki/Fog_computing)
+
 ## Fuzzing
 In programming and software development, fuzzing or fuzz testing is an automated software testing technique that involves providing invalid, unexpected, or random data as inputs to a computer program.
 

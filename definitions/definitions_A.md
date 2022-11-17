@@ -33,6 +33,12 @@ Adware, often called advertising-supported software by its developers, is softwa
 Links
 - [https://en.wikipedia.org/wiki/Adware](https://en.wikipedia.org/wiki/Adware)
 
+## Amazon Web Services
+Amazon Web Services, Inc. is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.
+
+Links
+- [https://aws.amazon.com](https://aws.amazon.com)
+
 ## Android Rooting
 Rooting is the process of allowing users of the Android mobile operating system to attain privileged control (known as root access) over various Android subsystems.
 

@@ -75,6 +75,16 @@ A collaboration between the open source community and Rapid7, Metasploit helps s
 Links
 - [https://www.metasploit.com](https://www.metasploit.com)
 
+## Microsoft Azure
+Microsoft Azure, often referred to as Azure, is a cloud computing platform operated by Microsoft for application management via Microsoft-managed data centers.
+
+### Azure Function
+Azure Functions is a serverless solution that allows you to write less code, maintain less infrastructure, and save on costs.
+
+Links
+- [https://learn.microsoft.com/en-us/azure/azure-functions](https://learn.microsoft.com/en-us/azure/azure-functions)
+- [https://azure.microsoft.com/en-us](https://azure.microsoft.com/en-us)
+
 ## Microsoft Security Response Center
 The Microsoft Security Response Center is part of the defender community and on the front line of security response evolution.
 For over twenty years, we have been engaged with security researchers working to protect customers and the broader ecosystem.

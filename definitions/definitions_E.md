@@ -6,6 +6,13 @@ Eavesdropping is the act of secretly or stealthily listening to the private conv
 Links
 - [https://en.wikipedia.org/wiki/Eavesdropping](https://en.wikipedia.org/wiki/Eavesdropping)
 
+## Edge Computing
+Edge computing is a distributed computing paradigm that brings computation and data storage closer to the sources of data.
+This is expected to improve response times and save bandwidth.
+
+Links
+- [https://en.wikipedia.org/wiki/Edge_computing](https://en.wikipedia.org/wiki/Edge_computing)
+
 ## Elicitation
 An elicitation technique is any of a number of data collection techniques used in anthropology, cognitive science, counseling, education, knowledge engineering, linguistics, management, philosophy, psychology, or other fields to gather knowledge or information from people.
 

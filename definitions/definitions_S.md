@@ -39,6 +39,13 @@ Vendors sell SIEM as software, as appliances, or as managed services; these prod
 Links
 - [https://en.wikipedia.org/wiki/Security_information_and_event_management](https://en.wikipedia.org/wiki/Security_information_and_event_management)
 
+## Serverless
+Serverless computing is a cloud computing execution model in which the cloud provider allocates machine resources on demand, taking care of the servers on behalf of their customers.
+"Serverless" is a misnomer in the sense that servers are still used by cloud service providers to execute code for developers.
+
+Links
+- [https://en.wikipedia.org/wiki/Serverless_computing](https://en.wikipedia.org/wiki/Serverless_computing)
+
 ## Separation of Duties
 Separation of duties (SoD), also known as segregation of duties is the concept of having more than one person required to complete a task.
 It is an administrative control used by organisations to prevent fraud, sabotage, theft, misuse of information, and other security compromises.
