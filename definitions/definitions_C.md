@@ -185,6 +185,29 @@ XSS attacks enable attackers to inject client-side scripts into web pages viewed
 Links
 - [https://en.wikipedia.org/wiki/Cross-site_scripting](https://en.wikipedia.org/wiki/Cross-site_scripting)
 
+## Cryptanalysis
+Cryptanalysis (from the Greek kryptós, "hidden", and analýein, "to analyze") refers to the process of analyzing information systems in order to understand hidden aspects of the systems.
+Cryptanalysis is used to breach cryptographic security systems and gain access to the contents of encrypted messages, even if the cryptographic key is unknown.
+
+### Linear cryptanalysis
+In cryptography, linear cryptanalysis is a general form of cryptanalysis based on finding affine approximations to the action of a cipher.
+Attacks have been developed for block ciphers and stream ciphers.
+Linear cryptanalysis is one of the two most widely used attacks on block ciphers; the other being differential cryptanalysis.
+
+### Differential cryptanalysis
+Differential cryptanalysis is a general form of cryptanalysis applicable primarily to block ciphers, but also to stream ciphers and cryptographic hash functions.
+In the broadest sense, it is the study of how differences in information input can affect the resultant difference at the output.
+
+### Integral cryptanalysis
+In cryptography, integral cryptanalysis is a cryptanalytic attack that is particularly applicable to block ciphers based on substitution–permutation networks.
+It was originally designed by Lars Knudsen as a dedicated attack against Square, so it is commonly known as the Square attack.
+
+Links
+- [https://en.wikipedia.org/wiki/Cryptanalysis](https://en.wikipedia.org/wiki/Cryptanalysis)
+- [https://en.wikipedia.org/wiki/Linear_cryptanalysis](https://en.wikipedia.org/wiki/Linear_cryptanalysis)
+- [https://en.wikipedia.org/wiki/Differential_cryptanalysis](https://en.wikipedia.org/wiki/Differential_cryptanalysis)
+- [https://en.wikipedia.org/wiki/Integral_cryptanalysis](https://en.wikipedia.org/wiki/Integral_cryptanalysis)
+
 ## Cryptography
 Cryptography, or cryptology (from Ancient Greek: κρυπτός, romanized: kryptós "hidden, secret"; and γράφειν graphein, "to write", or -λογία -logia, "study", respectively), is the practice and study of techniques for secure communication in the presence of adversarial behavior.
 

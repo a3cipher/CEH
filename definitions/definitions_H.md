@@ -29,6 +29,10 @@ It had a proprietary code base until 2015, but was then released as open source 
 Links
 - [https://hashcat.net/hashcat](https://hashcat.net/hashcat)
 
+## Hash Collision Attack
+In cryptography, a collision attack on a cryptographic hash tries to find two inputs producing the same hash value, i.e. a hash collision.
+This is in contrast to a preimage attack where a specific target hash value is specified.
+
 ## Health Insurance Portability and Accountability Act
 The Health Insurance Portability and Accountability Act of 1996 (HIPAA or the Kennedy–Kassebaum Act) is a United States Act of Congress enacted by the 104th United States Congress and signed into law by President Bill Clinton on August 21, 1996.
 It modernized the flow of healthcare information, stipulates how personally identifiable information maintained by the healthcare and healthcare insurance industries should be protected from fraud and theft, and addressed some limitations on healthcare insurance coverage.

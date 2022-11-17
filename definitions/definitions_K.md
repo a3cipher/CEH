@@ -24,6 +24,12 @@ KRACK ("Key Reinstallation Attack") is a replay attack (a type of exploitable fl
 Links
 - [https://en.wikipedia.org/wiki/KRACK](https://en.wikipedia.org/wiki/KRACK)
 
+## Key Stretching
+In cryptography, key stretching techniques are used to make a possibly weak key, typically a password or passphrase, more secure against a brute-force attack by increasing the resources (time and possibly space) it takes to test each possible key.
+
+Links
+- [https://en.wikipedia.org/wiki/Key_stretching](https://en.wikipedia.org/wiki/Key_stretching)
+
 ## Kubernetes
 Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.
 

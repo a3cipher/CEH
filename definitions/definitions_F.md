@@ -61,6 +61,13 @@ Fog computing or fog networking, also known as fogging, is an architecture that 
 Links
 - [https://en.wikipedia.org/wiki/Fog_computing](https://en.wikipedia.org/wiki/Fog_computing)
 
+## Frequency Analysis
+In cryptanalysis, frequency analysis (also known as counting letters) is the study of the frequency of letters or groups of letters in a ciphertext.
+The method is used as an aid to breaking classical ciphers.
+
+Links
+- [https://en.wikipedia.org/wiki/Frequency_analysis](https://en.wikipedia.org/wiki/Frequency_analysis)
+
 ## Fuzzing
 In programming and software development, fuzzing or fuzz testing is an automated software testing technique that involves providing invalid, unexpected, or random data as inputs to a computer program.
 

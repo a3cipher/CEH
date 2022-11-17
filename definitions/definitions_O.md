@@ -7,6 +7,13 @@ Like obfuscation in natural language, it may use needlessly roundabout expressio
 Links
 - [https://en.wikipedia.org/wiki/Obfuscation_(software)](https://en.wikipedia.org/wiki/Obfuscation_(software))
 
+## One Time Pad
+In cryptography, the one-time pad (OTP) is an encryption technique that cannot be cracked, but requires the use of a single-use pre-shared key that is not smaller than the message being sent.
+In this technique, a plaintext is paired with a random secret key (also referred to as a one-time pad).
+
+Links
+- [https://en.wikipedia.org/wiki/One-time_pad](https://en.wikipedia.org/wiki/One-time_pad)
+
 ## Open Authorization
 OAuth (short for "Open Authorization") is an open standard for access delegation, commonly used as a way for internet users to grant websites or applications access to their information on other websites but without giving them the passwords.
 

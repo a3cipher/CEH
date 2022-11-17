@@ -41,6 +41,14 @@ It is a penetration testing tool that focuses on the web browser.
 Links
 - [https://beefproject.com](https://beefproject.com)
 
+## Birthday Attack
+A birthday attack is a type of cryptographic attack that exploits the mathematics behind the birthday problem in probability theory.
+This attack can be used to abuse communication between two or more parties.
+The attack depends on the higher likelihood of collisions found between random attack attempts and a fixed degree of permutations (pigeonholes).
+
+Links
+- [https://en.wikipedia.org/wiki/Birthday_attack](https://en.wikipedia.org/wiki/Birthday_attack)
+
 ## Block Chain
 A blockchain is a type of distributed ledger technology (DLT) that consists of growing list of records, called blocks, that are securely linked together using cryptography.
 
