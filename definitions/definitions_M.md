@@ -89,6 +89,20 @@ The ATT&CK knowledge base is used as a foundation for the development of specifi
 Links
 - [https://attack.mitre.org/](https://attack.mitre.org/)
 
+## Mobile Device Management
+Mobile device management (MDM) is the administration of mobile devices, such as smartphones, tablet computers, and laptops.
+MDM is usually implemented with the use of a third-party product that has management features for particular vendors of mobile devices.
+
+### Personally Owned, Corporate Enabled
+A personally owned device is any technology device that was purchased by an individual and was not issued by the agency. A personal device includes any portable technology such as cameras, USB flash drives, mobile wireless devices, tablets, laptops or personal desktop computers.
+
+### Coorperate Owned, Personally Enabled
+As part of enterprise mobility, an alternative approach are corporate-owned, personally enabled devices (COPE). Under such policies, the company purchases and provides devices to their employees, but the functionality of a private device is enabled to allow personal usage.
+
+Links
+- [https://en.wikipedia.org/wiki/Mobile_device_management](https://en.wikipedia.org/wiki/Mobile_device_management)
+- [https://en.wikipedia.org/wiki/Bring_your_own_device](https://en.wikipedia.org/wiki/Bring_your_own_device)
+
 ## Multi Factor Authentication
 Multi-factor authentication (MFA; encompassing two-factor authentication, or 2FA, along with similar terms) is an electronic authentication method in which a user is granted access to a website or application only after successfully presenting two or more pieces of evidence (or factors) to an authentication mechanism: knowledge (something only the user knows), possession (something only the user has), and inherence (something only the user is).
 

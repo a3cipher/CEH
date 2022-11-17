@@ -159,6 +159,13 @@ An intrusion detection system (IDS; also intrusion prevention system or IPS) is 
 Links
 - [https://en.wikipedia.org/wiki/Intrusion_detection_system](https://en.wikipedia.org/wiki/Intrusion_detection_system)
 
+## IOS Jailbreaking
+On Apple devices running iOS and iOS-based operating systems, jailbreaking is the use of a privilege escalation exploit to remove software restrictions imposed by the manufacturer.
+Typically it is done through a series of kernel patches.
+
+Links
+- [https://en.wikipedia.org/wiki/IOS_jailbreaking](https://en.wikipedia.org/wiki/IOS_jailbreaking)
+
 ## ISO 27001
 ISO/IEC 27001 is an international standard on how to manage information security.
 The standard was originally published jointly by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) in 2005 and then revised in 2013.

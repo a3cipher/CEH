@@ -133,6 +133,9 @@ In the United States, a Social Security number (SSN) is a nine-digit number issu
 Links
 - [https://en.wikipedia.org/wiki/Social_Security_number](https://en.wikipedia.org/wiki/Social_Security_number)
 
+## Smishing
+Smishing is a form of phishing that utilizes our mobile phones as the attack platform to solicit our personal details like SSN or credit card number.
+
 ## Spam
 Email spam, also referred to as junk email, spam mail, or simply spam, is unsolicited messages sent in bulk by email (spamming).
 

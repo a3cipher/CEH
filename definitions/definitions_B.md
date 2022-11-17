@@ -54,6 +54,12 @@ Links
 Links
 - [https://en.wikipedia.org/wiki/Botnet](https://en.wikipedia.org/wiki/Botnet)
 
+## Bring Your Own Device
+Bring your own device (BYOD /ˌbiː waɪ oʊ ˈdiː/)—also called bring your own technology (BYOT), bring your own phone (BYOP), and bring your own personal computer (BYOPC)—refers to being allowed to use one's personally owned device, rather than being required to use an officially provided device.
+
+Links
+- [https://en.wikipedia.org/wiki/Bring_your_own_device](https://en.wikipedia.org/wiki/Bring_your_own_device)
+
 ## Brute Force Attack
 In cryptography, a brute-force attack consists of an attacker submitting many passwords or passphrases with the hope of eventually guessing correctly.
 

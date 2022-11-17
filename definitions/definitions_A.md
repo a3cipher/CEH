@@ -33,6 +33,12 @@ Adware, often called advertising-supported software by its developers, is softwa
 Links
 - [https://en.wikipedia.org/wiki/Adware](https://en.wikipedia.org/wiki/Adware)
 
+## Android Rooting
+Rooting is the process of allowing users of the Android mobile operating system to attain privileged control (known as root access) over various Android subsystems.
+
+Links
+- [https://en.wikipedia.org/wiki/Rooting_(Android)](https://en.wikipedia.org/wiki/Rooting_(Android))
+
 ## Anonymous Surfing
 Anonymous surfing allows you to wander the Internet without leaving any track of your computer's IP (Internet Protocol) address.
 This is accomplished via a proxy service.

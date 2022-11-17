@@ -14,21 +14,18 @@ OWASP mobile top 10
 - [M9: Reverse engineering](https://owasp.org/www-project-mobile-top-10/2016-risks/m9-reverse-engineering)
 - [M10: Extraneous functionality](https://owasp.org/www-project-mobile-top-10/2016-risks/m10-extraneous-functionality)
 
-BYOD (Bring your own device)
-> Bring your own device (BYOD /ˌbiː waɪ oʊ ˈdiː/)—also called bring your own technology (BYOT), bring your own phone (BYOP), and bring your own personal computer (BYOPC)—refers to being allowed to use one's personally owned device, rather than being required to use an officially provided device.
+Bring your own device (BYOD)
+
+[Definition](../definitions/definitions_B.md#bring-your-own-device)
 
 Smsishing
-> Smishing is a form of phishing that utilizes our mobile phones as the attack platform to solicit our personal details like SSN or credit card number.
+
+[Definition](../definitions/definitions_S.md#smishing)
 
 iOS jailbreaking
-> On Apple devices running iOS and iOS-based operating systems, jailbreaking is the use of a privilege escalation exploit to remove software restrictions imposed by the manufacturer.
-> Typically it is done through a series of kernel patches.
 
-Andriod rooting
-> Rooting is the process of allowing users of the Android mobile operating system to attain privileged control (known as root access) over various Android subsystems.
+[Definition](../definitions/definitions_I.md#ios-jailbreaking)
 
-Links
-- [https://owasp.org/www-project-mobile-top-10/](https://owasp.org/www-project-mobile-top-10/)
-- [https://en.wikipedia.org/wiki/Bring_your_own_device](https://en.wikipedia.org/wiki/Bring_your_own_device)
-- [https://en.wikipedia.org/wiki/IOS_jailbreaking](https://en.wikipedia.org/wiki/IOS_jailbreaking)
-- [https://en.wikipedia.org/wiki/Rooting_(Android)](https://en.wikipedia.org/wiki/Rooting_(Android))
+Android rooting
+
+[Definition](../definitions/definitions_A.md#android-rooting)
