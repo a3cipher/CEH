@@ -100,3 +100,10 @@ Privilege escalation is the act of exploiting a bug, a design flaw, or a configu
 
 Links
 - [https://en.wikipedia.org/wiki/Privilege_escalation](https://en.wikipedia.org/wiki/Privilege_escalation)
+
+## Public Key Infrastructure
+A public key infrastructure (PKI) is a set of roles, policies, hardware, software and procedures needed to create, manage, distribute, use, store and revoke digital certificates and manage public-key encryption.
+
+Links
+- [https://en.wikipedia.org/wiki/Public_key_infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
+ 

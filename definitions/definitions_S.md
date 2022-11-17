@@ -39,6 +39,14 @@ Vendors sell SIEM as software, as appliances, or as managed services; these prod
 Links
 - [https://en.wikipedia.org/wiki/Security_information_and_event_management](https://en.wikipedia.org/wiki/Security_information_and_event_management)
 
+## Self Signed Certificate
+In cryptography and computer security, self-signed certificates are public key certificates that are not issued by a certificate authority (CA).
+These self-signed certificates are easy to make and do not cost money.
+However, they do not provide any trust value.
+
+Links
+- [https://en.wikipedia.org/wiki/Self-signed_certificate](https://en.wikipedia.org/wiki/Self-signed_certificate)
+
 ## Serverless
 Serverless computing is a cloud computing execution model in which the cloud provider allocates machine resources on demand, taking care of the servers on behalf of their customers.
 "Serverless" is a misnomer in the sense that servers are still used by cloud service providers to execute code for developers.

@@ -1,5 +1,13 @@
 # Definitions C
 
+## Certificate Authority
+In cryptography, a certificate authority or certification authority (CA) is an entity that stores, signs, and issues digital certificates.
+A digital certificate certifies the ownership of a public key by the named subject of the certificate.
+This allows others (relying parties) to rely upon signatures or on assertions made about the private key that corresponds to the certified public key.
+
+Links
+- [https://en.wikipedia.org/wiki/Certificate_authority](https://en.wikipedia.org/wiki/Certificate_authority)
+
 ## CIA Triad
 Information security's primary focus is the balanced protection of the confidentiality, integrity, and availability of data (also known as the CIA triad) while maintaining a focus on efficient policy implementation, all without hampering organization productivity.
 

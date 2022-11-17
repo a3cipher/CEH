@@ -40,6 +40,13 @@ It has so many modules, database interaction, built-in convenience functions, in
 Links
 - [https://github.com/lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng)
 
+## Registration Authority
+Registration authorities exist for many standards organizations, such as ANNA (Association of National Numbering Agencies for ISIN), the Object Management Group, W3C, IEEE and others.
+In general, registration authorities all perform a similar function, in promoting the use of a particular standard through facilitating its use.
+
+Links
+- [https://en.wikipedia.org/wiki/Registration_authority](https://en.wikipedia.org/wiki/Registration_authority)
+
 ## Remote Access Trojan
 A RAT (remote access Trojan) is malware an attacker uses to gain full administrative privileges and remote control of a target computer.
 

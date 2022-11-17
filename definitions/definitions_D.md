@@ -54,6 +54,13 @@ Links
 ## Dig
 Extensive web interface to dig for doing online dns lookup / nameserver query.
 
+## Digicert
+DigiCert, Inc. is an American digital security company headquartered in Lehi, Utah, with offices in Australia, Ireland, Japan, India, France,South Africa, Switzerland and United Kingdom.
+As a certificate authority (CA) and trusted third party, DigiCert provides the public key infrastructure (PKI) and validation required for issuing digital certificates or TLS/SSL certificates.
+
+Links
+- [https://en.wikipedia.org/wiki/DigiCert](https://en.wikipedia.org/wiki/DigiCert)
+
 ## Digital Millennium Copyright Act
 The Digital Millennium Copyright Act (DMCA) is a 1998 United States copyright law that implements two 1996 treaties of the World Intellectual Property Organization (WIPO).
 It criminalizes production and dissemination of technology, devices, or services intended to circumvent measures that control access to copyrighted works (commonly known as digital rights management or DRM).
