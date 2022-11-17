@@ -79,6 +79,13 @@ Links
 - [https://en.wikipedia.org/wiki/Transmission_Control_Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 - [https://en.wikipedia.org/wiki/Handshake_(computing)](https://en.wikipedia.org/wiki/Handshake_(computing))
 
+## Transport Layer Security
+Transport Layer Security (TLS) is a cryptographic protocol designed to provide communications security over a computer network.
+The protocol is widely used in applications such as email, instant messaging, and voice over IP, but its use in securing HTTPS remains the most publicly visible.
+
+Links
+- [https://en.wikipedia.org/wiki/Transport_Layer_Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+
 ## Trivial File Transfer Protocol
 Trivial File Transfer Protocol (TFTP) is a simple lockstep File Transfer Protocol which allows a client to get a file from or put a file onto a remote host. One of its primary uses is in the early stages of nodes booting from a local area network.
 

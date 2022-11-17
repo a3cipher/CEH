@@ -68,6 +68,13 @@ It criminalizes production and dissemination of technology, devices, or services
 Links
 - [https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)
 
+## Digital Signature
+A digital signature is a mathematical scheme for verifying the authenticity of digital messages or documents.
+A valid digital signature, where the prerequisites are satisfied, gives a recipient very high confidence that the message was created by a known sender (authenticity), and that the message was not altered in transit (integrity).
+
+Links
+- [https://en.wikipedia.org/wiki/Digital_signature](https://en.wikipedia.org/wiki/Digital_signature)
+
 ## Directory Traversal
 A directory traversal (or path traversal) attack exploits insufficient security validation or sanitization of user-supplied file names, such that characters representing "traverse to parent directory" are passed through to the operating system's file system API.
 An affected application can be exploited to gain unauthorized access to the file system.

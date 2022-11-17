@@ -30,6 +30,13 @@ Links
 - [https://owasp.org](https://owasp.org)
 - [https://owasp.org/www-project-zap](https://owasp.org/www-project-zap)
 
+## Openssl
+OpenSSL is a software library for applications that secure communications over computer networks against eavesdropping or need to identify the party at the other end.
+It is widely used by Internet servers, including the majority of HTTPS websites.
+
+Links
+- [https://www.openssl.org](https://www.openssl.org)
+
 ## Operational Technology
 Operational technology (OT) is hardware and software that detects or causes a change, through the direct monitoring and/or control of industrial equipment, assets, processes and events.
 

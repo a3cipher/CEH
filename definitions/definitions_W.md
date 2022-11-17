@@ -38,6 +38,12 @@ Links
 ## Web Cache Poisoning
 In a vulnerable application, threat actors inject specially crafted data into cache memory, causing the webserver to respond with a malicious HTTP response to the user.
 
+## Web of Trust
+In cryptography, a web of trust is a concept used in PGP, GnuPG, and other OpenPGP-compatible systems to establish the authenticity of the binding between a public key and its owner.
+
+Links
+- [https://en.wikipedia.org/wiki/Web_of_trust](https://en.wikipedia.org/wiki/Web_of_trust)
+
 ## Web Server
 A web server is computer software and underlying hardware that accepts requests via HTTP (the network protocol created to distribute web content) or its secure variant HTTPS.
 A user agent, commonly a web browser or web crawler, initiates communication by making a request for a web page or other resource using HTTP, and the server responds with the content of that resource or an error message.

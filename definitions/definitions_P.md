@@ -79,6 +79,13 @@ Pretexting is a type of social engineering attack that involves a situation, or 
 Links
 - [https://en.wikipedia.org/wiki/Pretexting](https://en.wikipedia.org/wiki/Pretexting)
 
+## Pretty Good Privacy
+Pretty Good Privacy (PGP) is an encryption program that provides cryptographic privacy and authentication for data communication.
+PGP is used for signing, encrypting, and decrypting texts, e-mails, files, directories, and whole disk partitions and to increase the security of e-mail communications.
+
+Links
+- [https://en.wikipedia.org/wiki/Pretty_Good_Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
+
 ## Protocol Analyzer
 A protocol analyzer is a tool (hardware or software) used to capture and analyze signals and data traffic over a communication channel.
 Such a channel varies from a local computer bus to a satellite link, that provides a means of communication using a standard communication protocol (networked or point-to-point).

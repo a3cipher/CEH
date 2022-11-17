@@ -9,6 +9,14 @@ The GDPR will levy harsh fines against those who violate its privacy and securit
 Links
 - [https://gdpr.eu](https://gdpr.eu)
 
+## GNU Privacy Guard
+GNU Privacy Guard (GnuPG or GPG) is a free-software replacement for Symantec's PGP cryptographic software suite.
+The software is compliant with RFC 4880, the IETF standards-track specification of OpenPGP.
+Modern versions of PGP are interoperable with GnuPG and other OpenPGP-compliant systems.
+
+Links
+- [https://en.wikipedia.org/wiki/GNU_Privacy_Guard](https://en.wikipedia.org/wiki/GNU_Privacy_Guard)
+
 ## Gobuster
 Gobuster is a tool used to brute-force URIs including directories and files as well as DNS subdomains.
 

@@ -18,6 +18,20 @@ A script kiddie, kiddie, or skid is a relatively unskilled individual who uses s
 Links
 - [https://en.wikipedia.org/wiki/Script_kiddie](https://en.wikipedia.org/wiki/Script_kiddie)
 
+## Secure Multipurpose Internet Mail Extensions
+S/MIME (Secure/Multipurpose Internet Mail Extensions) is a standard for public key encryption and signing of MIME data.
+S/MIME is on an IETF standards track and defined in a number of documents, most importantly RFC 3369, 3370, 3850 and 3851.
+
+Links
+- [https://en.wikipedia.org/wiki/S/MIME](https://en.wikipedia.org/wiki/S/MIME)
+ 
+## Secure Sockets Layer
+Netscape developed the original SSL protocols, and Taher Elgamal, chief scientist at Netscape Communications from 1995 to 1998, has been described as the "father of SSL".
+SSL version 1.0 was never publicly released because of serious security flaws in the protocol.
+
+Links
+- [https://en.wikipedia.org/wiki/Transport_Layer_Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+
 ## Security Account Manager Database
 The Security Account Manager (SAM) is a database file in Windows XP, Windows Vista, Windows 7, 8.1, 10 and 11 that stores users' passwords.
 
