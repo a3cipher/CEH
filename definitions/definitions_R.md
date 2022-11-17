@@ -118,6 +118,12 @@ A risk matrix is a matrix that is used during risk assessment to define the leve
 Links
 - [https://en.wikipedia.org/wiki/Risk_matrix](https://en.wikipedia.org/wiki/Risk_matrix)
 
+## Rogue Access Point
+A rogue access point is a wireless access point that has been installed on a secure network without explicit authorization from a local network administrator,[1] whether added by a well-meaning employee or by a malicious attacker.
+
+Links
+- [https://en.wikipedia.org/wiki/Rogue_access_point](https://en.wikipedia.org/wiki/Rogue_access_point)
+
 ## Role Based Access Control
 In computer systems security, role-based access control (RBAC) or role-based security is an approach to restricting system access to authorized users.
 It is an approach to implement mandatory access control (MAC) or discretionary access control (DAC).

@@ -26,6 +26,13 @@ Links
 ## Enumeration
 Enumeration is defined as the process of extracting user names, machine names, network resources, shares and services from a system.
 
+## Evil Twin
+An evil twin is a fraudulent Wi-Fi access point that appears to be legitimate but is set up to eavesdrop on wireless communications.
+The evil twin is the wireless LAN equivalent of the phishing scam.
+
+Links
+- [https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks)](https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks))
+
 ## Exiftool
 ExifTool is a free and open-source software program for reading, writing, and manipulating image, audio, video, and PDF metadata.
 It is platform independent, available as both a Perl library (Image::ExifTool) and command-line application.

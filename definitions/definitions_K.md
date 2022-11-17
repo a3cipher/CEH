@@ -11,3 +11,9 @@ Keystroke logging, often referred to as keylogging or keyboard capturing, is the
 
 Links
 - [https://en.wikipedia.org/wiki/Keystroke_logging](https://en.wikipedia.org/wiki/Keystroke_logging)
+
+## Key Reinstallation Attack
+KRACK ("Key Reinstallation Attack") is a replay attack (a type of exploitable flaw) on the Wi-Fi Protected Access protocol that secures Wi-Fi connections.
+
+Links
+- [https://en.wikipedia.org/wiki/KRACK](https://en.wikipedia.org/wiki/KRACK)

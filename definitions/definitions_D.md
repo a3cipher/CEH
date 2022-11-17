@@ -68,6 +68,12 @@ An affected application can be exploited to gain unauthorized access to the file
 Links
 - [https://en.wikipedia.org/wiki/Directory_traversal_attack](https://en.wikipedia.org/wiki/Directory_traversal_attack)
 
+## Disassociation Attack
+A Wi-Fi deauthentication attack is a type of denial-of-service attack that targets communication between a user and a Wi-Fi wireless access point.
+
+Links
+- [https://en.wikipedia.org/wiki/Wi-Fi_deauthentication_attack](https://en.wikipedia.org/wiki/Wi-Fi_deauthentication_attack)
+
 ## Distributed Denial of Service Attack
 A distributed denial-of-service (DDoS) attack occurs when multiple systems flood the bandwidth or resources of a targeted system, usually one or more web servers.
 A DDoS attack uses more than one unique IP address or machines, often from thousands of hosts infected with malware.
