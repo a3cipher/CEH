@@ -12,6 +12,12 @@ Keystroke logging, often referred to as keylogging or keyboard capturing, is the
 Links
 - [https://en.wikipedia.org/wiki/Keystroke_logging](https://en.wikipedia.org/wiki/Keystroke_logging)
 
+## Key Disclosure Laws
+Key disclosure laws, also known as mandatory key disclosure, is legislation that requires individuals to surrender cryptographic keys to law enforcement.
+
+Links
+- [https://en.wikipedia.org/wiki/Key_disclosure_law](https://en.wikipedia.org/wiki/Key_disclosure_law)
+
 ## Key Reinstallation Attack
 KRACK ("Key Reinstallation Attack") is a replay attack (a type of exploitable flaw) on the Wi-Fi Protected Access protocol that secures Wi-Fi connections.
 

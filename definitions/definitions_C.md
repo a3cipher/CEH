@@ -148,6 +148,12 @@ XSS attacks enable attackers to inject client-side scripts into web pages viewed
 Links
 - [https://en.wikipedia.org/wiki/Cross-site_scripting](https://en.wikipedia.org/wiki/Cross-site_scripting)
 
+## Cryptography
+Cryptography, or cryptology (from Ancient Greek: κρυπτός, romanized: kryptós "hidden, secret"; and γράφειν graphein, "to write", or -λογία -logia, "study", respectively), is the practice and study of techniques for secure communication in the presence of adversarial behavior.
+
+Links
+- [https://en.wikipedia.org/wiki/Cryptography](https://en.wikipedia.org/wiki/Cryptography)
+
 ## Cyber Kill Chain
 Developed by Lockheed Martin, the Cyber Kill Chain® framework is part of the Intelligence Driven Defense® model for identification and prevention of cyber intrusions activity.
 The model identifies what the adversaries must complete in order to achieve their objective.
