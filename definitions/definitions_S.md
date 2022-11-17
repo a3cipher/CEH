@@ -52,6 +52,12 @@ Server Message Block (SMB) is a communication protocol[1] originally developed i
 Links
 - [https://en.wikipedia.org/wiki/Server_Message_Block](https://en.wikipedia.org/wiki/Server_Message_Block)
 
+## Service Set Identifier
+In IEEE 802.11 wireless local area networking standards (including Wi-Fi), a service set is a group of wireless network devices which share a service set identifier (SSID)—typically the natural language label that users see as a network name.
+
+Links
+- [https://en.wikipedia.org/wiki/Service_set_(802.11_network)](https://en.wikipedia.org/wiki/Service_set_(802.11_network))
+
 ## Session Hijacking
 In computer science, session hijacking, sometimes also known as cookie hijacking, is the exploitation of a valid computer session—sometimes also called a session key—to gain unauthorized access to information or services in a computer system.
 In particular, it is used to refer to the theft of a magic cookie used to authenticate a user to a remote server.

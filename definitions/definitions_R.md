@@ -7,6 +7,12 @@ It becomes a bug when one or more of the possible behaviors is undesirable.
 Links
 - [https://en.wikipedia.org/wiki/Race_condition](https://en.wikipedia.org/wiki/Race_condition)
 
+## RADIUS
+Remote Authentication Dial-In User Service (RADIUS) is a networking protocol that provides centralized authentication, authorization, and accounting (AAA) management for users who connect and use a network service.
+
+Links
+- [https://en.wikipedia.org/wiki/RADIUS](https://en.wikipedia.org/wiki/RADIUS)
+
 ## Rainbow Table
 A rainbow table is an efficient way to store data that has been computed in advance to facilitate cracking passwords.
 To protect stored passwords from compromise in case of a data breach, organizations avoid storing them directly, instead transforming them using a scrambling function – typically a cryptographic hash.

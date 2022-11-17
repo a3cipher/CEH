@@ -12,6 +12,13 @@ A background check is a process a person or company uses to verify that an indiv
 Links
 - [https://en.wikipedia.org/wiki/Background_check](https://en.wikipedia.org/wiki/Background_check)
 
+## Bandwith
+In computing, bandwidth is the maximum rate of data transfer across a given path.
+Bandwidth may be characterized as network bandwidth, data bandwidth, or digital bandwidth.
+
+Links
+- [https://en.wikipedia.org/wiki/Bandwidth_(computing)](https://en.wikipedia.org/wiki/Bandwidth_(computing))
+
 ## Bandwith Throttling
 Bandwidth throttling consists in the intentional limitation of the communication speed (bytes or kilobytes per second) of the ingoing (received) data and/or in the limitation of the speed of outgoing (sent) data in a network node or in a network device.
 

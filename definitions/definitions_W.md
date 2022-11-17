@@ -79,6 +79,19 @@ Large database of whois information, DNS, domain names, name servers, IPs, and t
 Links
 - [https://who.is](https://who.is)
 
+## Wireless
+Wireless communication (or just wireless, when the context allows) is the transfer of information between two or more points without the use of an electrical conductor, optical fiber or other continuous guided medium for the transfer.
+
+Links
+- [https://en.wikipedia.org/wiki/Wireless](https://en.wikipedia.org/wiki/Wireless)
+
+## Wireless Access Point
+In computer networking, a wireless access point (WAP), or more generally just access point (AP), is a networking hardware device that allows other Wi-Fi devices to connect to a wired network.
+As a standalone device, the AP may have a wired connection to a router, but, in a wireless router, it can also be an integral component of the router itself.
+
+Links
+- [https://en.wikipedia.org/wiki/Wireless_access_point](https://en.wikipedia.org/wiki/Wireless_access_point)
+
 ## Wireshark
 Wireshark is the world’s foremost and widely-used network protocol analyzer.
 It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.

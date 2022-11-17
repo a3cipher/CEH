@@ -20,6 +20,12 @@ A variation of identity theft that has recently become more common is synthetic 
 Links
 - [https://en.wikipedia.org/wiki/Identity_theft](https://en.wikipedia.org/wiki/Identity_theft)
 
+## IEEE 802.11
+IEEE 802.11 is part of the IEEE 802 set of local area network (LAN) technical standards, and specifies the set of media access control (MAC) and physical layer (PHY) protocols for implementing wireless local area network (WLAN) computer communication.
+
+Links
+- [https://en.wikipedia.org/wiki/IEEE_802.11](https://en.wikipedia.org/wiki/IEEE_802.11)
+
 ## Impersonation
 An impersonator is someone who imitates or copies the behavior or actions of another.
 
