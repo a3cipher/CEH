@@ -55,6 +55,14 @@ Competitive intelligence (CI) is the process and forward-looking practices used 
 Links
 - [https://en.wikipedia.org/wiki/Competitive_intelligence](https://en.wikipedia.org/wiki/Competitive_intelligence)
 
+## Concatenation
+In formal language theory and computer programming, string concatenation is the operation of joining character strings end-to-end.
+For example, the concatenation of "snow" and "ball" is "snowball".
+In certain formalisations of concatenation theory, also called string theory, string concatenation is a primitive notion.
+
+Links
+- [https://en.wikipedia.org/wiki/Concatenation](https://en.wikipedia.org/wiki/Concatenation)
+
 ## Content Addressable Memory Table
 Content Addressable Memory (CAM) table is a system memory construct used by Ethernet switch logic which stores information such as MAC addresses available on physical ports with their associated VLAN Parameters.
 

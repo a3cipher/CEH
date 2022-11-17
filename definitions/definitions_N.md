@@ -112,3 +112,12 @@ Links
 
 Links
 - [https://en.wikipedia.org/wiki/Nslookup](https://en.wikipedia.org/wiki/Nslookup)
+
+## Null Byte
+The null character (also null terminator) is a control character with the value zero.
+It is present in many character sets, including those defined by the Baudot and ITA2 codes, ISO/IEC 646 (or ASCII), the C0 control code, the Universal Coded Character Set (or Unicode), and EBCDIC.
+It is available in nearly all mainstream programming languages. 
+A null character can be placed in a URL with the percent code %00.
+
+Links
+- [https://en.wikipedia.org/wiki/Null_character](https://en.wikipedia.org/wiki/Null_character)

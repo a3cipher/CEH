@@ -52,6 +52,13 @@ A replay attack (also known as a repeat attack or playback attack) is a form of 
 Links
 - [https://en.wikipedia.org/wiki/Replay_attack](https://en.wikipedia.org/wiki/Replay_attack)
 
+## Remote Code Execution
+In computer security, arbitrary code execution (ACE) is an attacker's ability to run any commands or code of the attacker's choice on a target machine or in a target process.
+An arbitrary code execution vulnerability is a security flaw in software or hardware allowing arbitrary code execution.
+
+Links
+- [https://en.wikipedia.org/wiki/Arbitrary_code_execution](https://en.wikipedia.org/wiki/Arbitrary_code_execution)
+
 ## Remote File Inclusion
 Remote file inclusion (RFI) occurs when the web application downloads and executes a remote file. These remote files are usually obtained in the form of an HTTP or FTP URI as a user-supplied parameter to the web application.
 
