@@ -41,6 +41,30 @@ It is a penetration testing tool that focuses on the web browser.
 Links
 - [https://beefproject.com](https://beefproject.com)
 
+## Block Chain
+A blockchain is a type of distributed ledger technology (DLT) that consists of growing list of records, called blocks, that are securely linked together using cryptography.
+
+## Block Cipher Mode of Operation
+In cryptography, a block cipher mode of operation is an algorithm that uses a block cipher to provide information security such as confidentiality or authenticity.
+
+### Electronic code book mode
+The simplest (and not to be used anymore) of the encryption modes is the electronic codebook (ECB) mode (named after conventional physical codebooks).
+The message is divided into blocks, and each block is encrypted separately.
+
+### Public blockchain
+A public blockchain has absolutely no access restrictions.
+Anyone with an Internet connection can send transactions to it as well as become a validator (i.e., participate in the execution of a consensus protocol).
+Usually, such networks offer economic incentives for those who secure them and utilize some type of a Proof of Stake or Proof of Work algorithm.
+
+### Private blockchain
+A private blockchain is permissioned.
+One cannot join it unless invited by the network administrators.
+Participant and validator access is restricted.
+To distinguish between open blockchains and other peer-to-peer decentralized database applications that are not open ad-hoc compute clusters, the terminology Distributed Ledger (DLT) is normally used for private blockchains.
+
+Links
+- [https://en.wikipedia.org/wiki/Blockchain](https://en.wikipedia.org/wiki/Blockchain)
+
 ## BlueBorne
 BlueBorne is a type of security vulnerability with Bluetooth implementations in Android, iOS, Linux and Windows.
 It affects many electronic devices such as laptops, smart cars, smartphones and wearable gadgets.

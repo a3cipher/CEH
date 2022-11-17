@@ -15,6 +15,35 @@ For any information system to serve its purpose, the information must be availab
 Links
 - [https://en.wikipedia.org/wiki/Confidentiality](https://en.wikipedia.org/wiki/Confidentiality)
 
+## Cipher
+In cryptography, a cipher (or cypher) is an algorithm for performing encryption or decryption—a series of well-defined steps that can be followed as a procedure.
+
+### Substitution cipher
+In cryptography, a substitution cipher is a method of encrypting in which units of plaintext are replaced with the ciphertext, in a defined manner, with the help of a key; the "units" may be single letters (the most common), pairs of letters, triplets of letters, mixtures of the above, and so forth. The receiver deciphers the text by performing the inverse substitution process to extract the original message.
+
+An example of a substitution cipher is the Caesar cipher.
+
+### Transposition cipher
+In cryptography, a transposition cipher is a method of encryption which scrambles the positions of characters (transposition) without changing the characters themselves.
+
+### Block cipher
+In cryptography, a block cipher is a deterministic algorithm operating on fixed-length groups of bits, called blocks. They are specified elementary components in the design of many cryptographic protocols and are widely used to encrypt large amounts of data, including in data exchange protocols. It uses blocks as an unvarying transformation.
+
+### Stream cipher
+A stream cipher is a symmetric key cipher where plaintext digits are combined with a pseudorandom cipher digit stream (keystream).
+
+Links
+- [https://en.wikipedia.org/wiki/Cipher](https://en.wikipedia.org/wiki/Cipher)
+- [https://en.wikipedia.org/wiki/Substitution_cipher](https://en.wikipedia.org/wiki/Substitution_cipher)
+- [https://en.wikipedia.org/wiki/Caesar_cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
+- [https://en.wikipedia.org/wiki/Transposition_cipher](https://en.wikipedia.org/wiki/Transposition_cipher)
+- [https://en.wikipedia.org/wiki/Stream_cipher](https://en.wikipedia.org/wiki/Stream_cipher)
+
+## Cipher Block Chaining
+Ehrsam, Meyer, Smith and Tuchman invented the cipher block chaining (CBC) mode of operation in 1976.
+In CBC mode, each block of plaintext is XORed with the previous ciphertext block before being encrypted.
+This way, each ciphertext block depends on all plaintext blocks processed up to that point.
+
 ## Clickjacking
 Clickjacking (classified as a user interface redress attack or UI redressing) is a malicious technique of tricking a user into clicking on something different from what the user perceives, thus potentially revealing confidential information or allowing others to take control of their computer while clicking on seemingly innocuous objects, including web pages.
 
@@ -150,6 +179,14 @@ Links
 
 ## Cryptography
 Cryptography, or cryptology (from Ancient Greek: κρυπτός, romanized: kryptós "hidden, secret"; and γράφειν graphein, "to write", or -λογία -logia, "study", respectively), is the practice and study of techniques for secure communication in the presence of adversarial behavior.
+
+### Elliptic-curve cryptography
+Elliptic-curve cryptography (ECC) is an approach to public-key cryptography based on the algebraic structure of elliptic curves over finite fields.
+ECC allows smaller keys compared to non-EC cryptography (based on plain Galois fields) to provide equivalent security.
+
+### Quantum cryptography
+Quantum cryptography is the science of exploiting quantum mechanical properties to perform cryptographic tasks.
+The best known example of quantum cryptography is quantum key distribution which offers an information-theoretically secure solution to the key exchange problem.
 
 Links
 - [https://en.wikipedia.org/wiki/Cryptography](https://en.wikipedia.org/wiki/Cryptography)

@@ -62,6 +62,8 @@ In computer science, a memory leak is a type of resource leak that occurs when a
 Links
 - [https://en.wikipedia.org/wiki/Memory_leak](https://en.wikipedia.org/wiki/Memory_leak)
 
+## Message Authentication Code
+
 ## Metasearch Engine
 A metasearch engine (or search aggregator) is an online information retrieval tool that uses the data of a web search engine to produce its own results.
 

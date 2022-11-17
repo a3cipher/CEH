@@ -92,6 +92,12 @@ The term is derived from the Ancient Greek story of the deceptive Trojan Horse t
 Links
 - [https://en.wikipedia.org/wiki/Trojan_horse_(computing)](https://en.wikipedia.org/wiki/Trojan_horse_(computing))
 
+## Trusted Platform Module
+Trusted Platform Module (TPM, also known as ISO/IEC 11889) is an international standard for a secure cryptoprocessor, a dedicated microcontroller designed to secure hardware through integrated cryptographic keys.
+
+Links
+- [https://en.wikipedia.org/wiki/Trusted_Platform_Module](https://en.wikipedia.org/wiki/Trusted_Platform_Module)
+
 ## Tunneling
 In computer networks, a tunneling protocol is a communication protocol which allows for the movement of data from one network to another, by exploiting encapsulation.
 It involves allowing private network communications to be sent across a public network (such as the Internet) through a process called encapsulation.

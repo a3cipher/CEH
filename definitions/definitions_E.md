@@ -30,13 +30,17 @@ Ideally, only authorized parties can decipher a ciphertext back to plaintext and
 ### Symmetric encryption
 Symmetric-key algorithms are algorithms for cryptography that use the same cryptographic keys for both the encryption of plaintext and the decryption of ciphertext.
  
-### Assymetrics encryption
+### Assymetric encryption
 Public-key cryptography, or asymmetric cryptography, is the field of cryptographic systems that use pairs of related keys.
 Each key pair consists of a public key and a corresponding private key.
+
+### Homomorphic encryption
+Homomorphic encryption is a form of encryption that permits users to perform computations on its encrypted data without first decrypting it.
 
 Links
 - [https://en.wikipedia.org/wiki/Encryption](https://en.wikipedia.org/wiki/Encryption)
 - [https://en.wikipedia.org/wiki/Symmetric-key_algorithm](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
+- [https://en.wikipedia.org/wiki/Homomorphic_encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption)
 
 ## Enumeration
 Enumeration is defined as the process of extracting user names, machine names, network resources, shares and services from a system.
