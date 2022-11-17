@@ -9,26 +9,26 @@ Cipher
 
 [Definition](../definitions/definitions_C.md#cipher)
 
-### DES (Data encryption standard)
+### Data encryption standard (DES)
 The Data Encryption Standard (DES /ˌdiːˌiːˈɛs, dɛz/) is a symmetric-key algorithm for the encryption of digital data.
 Although its short key length of 56 bits makes it too insecure for modern applications, it has been highly influential in the advancement of cryptography.
 
-### 3DES (Triple DES)
+### Triple DES (3DES)
 In cryptography, Triple DES (3DES or TDES), officially the Triple Data Encryption Algorithm (TDEA or Triple DEA), is a symmetric-key block cipher, which applies the DES cipher algorithm three times to each data block.
 
 ### Advanced encryption standard (AES)
 The Advanced Encryption Standard (AES), also known by its original name Rijndael (Dutch pronunciation: [ˈrɛindaːl]), is a specification for the encryption of electronic data established by the U.S. National Institute of Standards and Technology (NIST) in 2001.
 
-### RC4 (Rivest cipher 4)
+### Rivest cipher 4 (RC4)
 In cryptography, RC4 (Rivest Cipher 4, also known as ARC4 or ARCFOUR, meaning Alleged RC4, see below) is a stream cipher.
 While it is remarkable for its simplicity and speed in software, multiple vulnerabilities have been discovered in RC4, rendering it insecure.
 
-### RC5 (Rivest cipher 5)
+### Rivest cipher 5 (RC5)
 In cryptography, RC5 is a symmetric-key block cipher notable for its simplicity.
 Designed by Ronald Rivest in 1994, RC stands for "Rivest Cipher", or alternatively, "Ron's Code" (compare RC2 and RC4).
 The Advanced Encryption Standard (AES) candidate RC6 was based on RC5.
 
-### RC6 (Rivest cipher 6)
+### Rivest cipher 6 (RC6)
 In cryptography, RC6 (Rivest cipher 6) is a symmetric key block cipher derived from RC5.
 It was designed by Ron Rivest, Matt Robshaw, Ray Sidney, and Yiqun Lisa Yin to meet the requirements of the Advanced Encryption Standard (AES) competition.
 
@@ -47,11 +47,11 @@ Threefish is a symmetric-key tweakable block cipher designed as part of the Skei
 Serpent is a symmetric key block cipher that was a finalist in the Advanced Encryption Standard (AES) contest, where it was ranked second to Rijndael.
 Serpent was designed by Ross Anderson, Eli Biham, and Lars Knudsen.
 
-### TEA (Tiny encryption algorithm)
+### Tiny encryption algorithm (TEA)
 In cryptography, the Tiny Encryption Algorithm (TEA) is a block cipher notable for its simplicity of description and implementation, typically a few lines of code.
 It was designed by David Wheeler and Roger Needham of the Cambridge Computer Laboratory; it was first presented at the Fast Software Encryption workshop in Leuven in 1994, and first published in the proceedings of that workshop.
 
-### RSA (Rivest shamir adleman)
+### Rivest shamir adleman (RSA)
 RSA (Rivest–Shamir–Adleman) is a public-key cryptosystem that is widely used for secure data transmission.
 It is also one of the oldest.
 The acronym "RSA" comes from the surnames of Ron Rivest, Adi Shamir and Leonard Adleman, who publicly described the algorithm in 1977.
@@ -59,10 +59,10 @@ The acronym "RSA" comes from the surnames of Ron Rivest, Adi Shamir and Leonard 
 ### Diffie Hellman
 Diffie–Hellman key exchange[nb 1] is a method of securely exchanging cryptographic keys over a public channel and was one of the first public-key protocols as conceived by Ralph Merkle and named after Whitfield Diffie and Martin Hellman.
 
-### MD5 (Message digest 5)
+### Message digest 5 (MD5)
 The MD5 message-digest algorithm is a cryptographically broken but still widely used hash function producing a 128-bit hash value. Although MD5 was initially designed to be used as a cryptographic hash function, it has been found to suffer from extensive vulnerabilities.
 
-### SHA (Secure hash algorithm)
+### Secure hash algorithm (SHA)
 The Secure Hash Algorithms are a family of cryptographic hash functions published by the National Institute of Standards and Technology (NIST) as a U.S. Federal Information Processing Standard (FIPS), including SHA-0, SHA-1, SHA-2 and SHA-3.
 
 ### HMAC

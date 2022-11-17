@@ -1,11 +1,11 @@
 # Section 05: Web Application Security
 
 ## Web Application Security
-SAST (Static application security testing)
+Static application security testing (SAST)
 
 [Definition](../definitions/definitions_S.md#static-application-security-testing)
 
-DAST (Dynamic application security testing)
+Dynamic application security testing (DAST)
 
 [Definition](../definitions/definitions_D.md#dynamic-application-security-testing)
 

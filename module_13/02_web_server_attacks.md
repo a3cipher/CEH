@@ -5,7 +5,7 @@ Distributed denial of service
 
 [Definition](../definitions/definitions_D.md#distributed-denial-of-service-attack)
 
-DNS (Domain name system) hijacking
+Domain name system (DNS) hijacking
 
 [Definition](../definitions/definitions_D.md#domain-name-system-hijacking)
 
@@ -17,7 +17,7 @@ Directory traversal
 
 [Definition](../definitions/definitions_D.md#directory-traversal)
 
-MiTM (Man in the middle Attack)
+Man in the middle Attack (MiTM)
 
 [Definition](../definitions/definitions_M.md#man-in-the-middle-attack)
 
@@ -25,7 +25,7 @@ Phishing
 
 [Definition](../definitions/definitions_P.md#phishing)
 
-HTTP response splitting
+Hypertext transfer protocol response splitting
 
 [Definition](../definitions/definitions_H.md#hypertext-transfer-protocol-response-splitting)
 

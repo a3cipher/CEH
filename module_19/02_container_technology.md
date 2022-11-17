@@ -13,6 +13,6 @@ Kubernetes
 
 [Definition](../definitions/definitions_K.md#kubernetes)
 
-Virtual machine
+Virtual machine (VM)
 
 [Definition](../definitions/definitions_V.md#virtual-machine)

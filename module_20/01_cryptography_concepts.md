@@ -13,6 +13,6 @@ Encryption
 
 [Definition](../definitions/definitions_E.md#encryption)
 
-GAK (Government access to keys) / Key disclosure law
+Key disclosure law / Government access to keys (GAK)
 
 [Definition](../definitions/definitions_K.md#key-disclosure-laws)

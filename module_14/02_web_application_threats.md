@@ -36,7 +36,7 @@ Cross site request forgery
 
 [Definition](../definitions/definitions_C.md#cross-site-request-forgery)
 
-XML (extensible markup language)
+extensible markup language (XML)
 
 [Definition](../definitions/definitions_E.md#extensible-markup-language)
 

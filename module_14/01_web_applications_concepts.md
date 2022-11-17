@@ -5,6 +5,6 @@ Web application
 
 [Definition](../definitions/definitions_W.md#web-application)
 
-URL (Uniform resource locator)
+Uniform resource locator (URL)
 
 [Definition](../definitions/definitions_U.md#uniform-resource-locator)

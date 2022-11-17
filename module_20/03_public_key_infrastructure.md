@@ -5,11 +5,11 @@ Public key infrastructure (PKI)
 
 [Definition](../definitions/definitions_P.md#public-key-infrastructure)
 
-CA (Certificate authority)
+Certificate authority (CA)
 
 [Definition](../definitions/definitions_C.md#certificate-authority)
 
-RA (Registration authority)
+Registration authority (RA)
 
 [Definition](../definitions/definitions_R.md#registration-authority)
 

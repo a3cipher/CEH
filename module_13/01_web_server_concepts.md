@@ -3,7 +3,7 @@
 ## Web Server Concepts
 Web server
 
-HTTP (Hypertext transer protocol)
+Hypertext transer protocol (HTTP)
 
 [Definition](../definitions/definitions_H.md#hypertext-transfer-protocol)
 
@@ -15,7 +15,7 @@ LAMP (Linux Apache MySQL PHP) stack
 
 [Definition](../definitions/definitions_L.md#lamp-stack)
 
-IIS (Internet information services)
+Internet information services (IIS)
 
 [Definition](../definitions/definitions_I.md#internet-information-services)
 

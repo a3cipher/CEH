@@ -5,7 +5,7 @@ Operational technology (OT)
 
 [Definition](../definitions/definitions_O.md#operational-technology)
 
-ICS (Industrial control system)
+Industrial control system (ICS)
 
 [Definition](../definitions/definitions_I.md#industrial-control-system)
 

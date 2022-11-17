@@ -1,7 +1,7 @@
 # Section 03: Evading Techniques
 
 ## Evading Techniques
-IDS (Intrusion detection system)
+Intrusion detection system (IDS)
 
 [Definition](../definitions/definitions_I.md#intrusion-detection-system)
 

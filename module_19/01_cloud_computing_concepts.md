@@ -19,6 +19,6 @@ Microsoft azure
 
 [Definition](../definitions/definitions_M.md#microsoft-azure)
 
-GCP (Google cloud platform)
+Google cloud platform (GCP)
 
 [Definition](../definitions/definitions_G.md#google-cloud-platform)
