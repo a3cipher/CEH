@@ -28,7 +28,7 @@ Command injection
 
 [Definition](../definitions/definitions_C.md#command-injection)
 
-XSS (Cross site scripting)
+Cross site scripting (XSS)
 
 [Definition](../definitions/definitions_C.md#cross-site-scripting)
 

@@ -3,11 +3,11 @@
 ## Countermeasures
 Hypertext transfer protocol secure
 
-IDS (Intrusion detection system)
+Intrusion detection system (IDS)
 
 [Definition](../definitions/definitions_I.md#intrusion-detection-system)
 
-HTTP cookie
+Hyptertext transfer protocol cookie
 
 [Definition](../definitions/definitions_C.md#cookie)
 

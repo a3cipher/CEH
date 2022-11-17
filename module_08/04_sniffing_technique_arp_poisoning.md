@@ -1,10 +1,10 @@
 # Section 04: ARP poisoning
 
 ## ARP poisoning
-ARP (Address resolution protocol)
+Address resolution protocol (ARP)
 
 [Definition](../definitions/definitions_A.md#address-resolution-protocol)
 
-ARP (Address resolution protocol) spoofing
+Address resolution protocol (ARP) spoofing
 
 [Definition](../definitions/definitions_A.md#address-resolution-protocol-spoofing)

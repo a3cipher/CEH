@@ -16,7 +16,7 @@ Although its short key length of 56 bits makes it too insecure for modern applic
 ### 3DES (Triple DES)
 In cryptography, Triple DES (3DES or TDES), officially the Triple Data Encryption Algorithm (TDEA or Triple DEA), is a symmetric-key block cipher, which applies the DES cipher algorithm three times to each data block.
 
-### AES (Advanced encryption standard)
+### Advanced encryption standard (AES)
 The Advanced Encryption Standard (AES), also known by its original name Rijndael (Dutch pronunciation: [ˈrɛindaːl]), is a specification for the encryption of electronic data established by the U.S. National Institute of Standards and Technology (NIST) in 2001.
 
 ### RC4 (Rivest cipher 4)

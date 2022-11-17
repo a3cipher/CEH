@@ -1,5 +1,5 @@
 # Section 02: APT Concepts
 
-## APT (Advanced Persistent Threats)
+## Advanced Persistent Threats (APT)
 
 [Definition](../definitions/definitions_A.md#advanced-persistent-threat)

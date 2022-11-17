@@ -13,6 +13,6 @@ Wi-fi protected access (WPA)
 
 [Definition](../definitions/definitions_W.md#wi-fi-protected-access)
 
-AES (Advanced encryption standard)
+Advanced encryption standard (AES)
 
 [Definition](../definitions/definitions_A.md#advanced-encryption-standard)

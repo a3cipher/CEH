@@ -1,7 +1,7 @@
 # Section 06: DNS poisoning
 
 ## DNS poisoning
-DNS (Domain name system)
+Domain name system (DNS)
 
 [Definition](../definitions/definitions_D.md#domain-name-system)
 

@@ -11,6 +11,7 @@ Domain name system (DNS)
 [Definition](../definitions/definitions_D.md#domain-name-system)
 
 Dig
+
 [Definition](../definitions/definitions_D.md#dig)
 
 Nslookup

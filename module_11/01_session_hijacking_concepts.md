@@ -14,7 +14,7 @@ Brute Force Attack
 
 [Definition](../definitions/definitions_B.md#brute-force-attack)
 
-XSS (Cross site scripting)
+Cross site scripting (XSS)
  
 [Definition](../definitions/definitions_C.md#cross-site-scripting)
 
@@ -27,7 +27,7 @@ Replay attack
 [Definition](../definitions/definitions_R.md#replay-attack)
 
 ## Network Level Session Hijacking
-TCP (Transmission control protocol) handshake
+Transmission control protocol (TCP) handshake
 
 [Definition](../definitions/definitions_T.md#transmission-control-protocol-handshake)
 
