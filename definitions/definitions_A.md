@@ -14,6 +14,12 @@ In computer networking, ARP spoofing, ARP cache poisoning, or ARP poison routing
 Links
 - [https://en.wikipedia.org/wiki/ARP_spoofing](https://en.wikipedia.org/wiki/ARP_spoofing)
 
+## Advanced Encryption Standard
+The Advanced Encryption Standard (AES), also known by its original name Rijndael (Dutch pronunciation: [ˈrɛindaːl]),[5] is a specification for the encryption of electronic data established by the U.S. National Institute of Standards and Technology (NIST) in 2001.
+
+Links
+- [https://en.wikipedia.org/wiki/Advanced_Encryption_Standard](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
+
 ## Advanced Persistent Threat
 An advanced persistent threat (APT) is a stealthy threat actor, typically a nation state or state-sponsored group, which gains unauthorized access to a computer network and remains undetected for an extended period.
 In recent times, the term may also refer to non-state-sponsored groups conducting large-scale targeted intrusions for specific goals.

@@ -47,6 +47,12 @@ Links
 - [https://github.com/offensive-security/exploitdb](https://github.com/offensive-security/exploitdb)
 - [https://www.exploit-db.com](https://www.exploit-db.com)
 
+## Extensible Authentication Protocol
+Extensible Authentication Protocol (EAP) is an authentication framework frequently used in network and internet connections.
+
+Links
+- [https://en.wikipedia.org/wiki/Extensible_Authentication_Protocol](https://en.wikipedia.org/wiki/Extensible_Authentication_Protocol)
+
 ## Extensible Markup Language
 Extensible Markup Language (XML) is a markup language and file format for storing, transmitting, and reconstructing arbitrary data.
 It defines a set of rules for encoding documents in a format that is both human-readable and machine-readable
