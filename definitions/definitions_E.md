@@ -60,7 +60,7 @@ Links
 - [https://exiftool.org](https://exiftool.org)
 - [https://en.wikipedia.org/wiki/ExifTool](https://en.wikipedia.org/wiki/ExifTool)
 
-## Expliot
+## Exploit
 An exploit (from the English verb to exploit, meaning "to use something to one’s own advantage") is a piece of software, a chunk of data, or a sequence of commands that takes advantage of a bug or vulnerability to cause unintended or unanticipated behavior to occur on computer software, hardware, or something electronic (usually computerized).
 
 Links
