@@ -14,7 +14,7 @@ The CEH hacking methodology consists of the following phases:
 
 Exploit
 
-[Definition](../definitions/definitions_E.md#expliot)
+[Definition](../definitions/definitions_E.md#exploit)
 
 Footprinting
 
