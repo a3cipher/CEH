@@ -7,7 +7,7 @@ Links
 - [https://en.wikipedia.org/wiki/Salt_(cryptography)](https://en.wikipedia.org/wiki/Salt_(cryptography))
 
 ## Sarbanes–Oxley Act
-> The Sarbanes–Oxley Act of 2002 is a United States federal law that mandates certain practices in financial record keeping and reporting for corporations.
+The Sarbanes–Oxley Act of 2002 is a United States federal law that mandates certain practices in financial record keeping and reporting for corporations. The law was enacted as a reaction to a number of major corporate and accounting scandals, including Enron and WorldCom. The sections of the bill cover responsibilities of a public corporation's board of directors, add criminal penalties for certain misconduct, and require the Securities and Exchange Commission to create regulations to define how public corporations are to comply with the law.
 
 Links
 - [https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
