@@ -44,6 +44,8 @@ Links
 
 ## Diamond Model of Intrusion Analysis
 The diamond model of intrusion analysis is a model used by information security professionals to authenticate and track cyber threats.
+It contains 4 parts - adversary, infrastructure, capability, and target.
+It gives analysts a comprehensive view of cyber attacks.
 
 ## Dictionary Attack
 In cryptanalysis and computer security, a dictionary attack is an attack using a restricted subset of a keyspace to defeat a cipher or authentication mechanism by trying to determine its decryption key or passphrase, sometimes trying thousands or millions of likely possibilities often obtained from lists of past security breaches.
