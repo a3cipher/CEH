@@ -80,10 +80,11 @@ Links
 - [https://en.wikipedia.org/wiki/Mirror_site](https://en.wikipedia.org/wiki/Mirror_site)
 
 ## Whois
-Large database of whois information, DNS, domain names, name servers, IPs, and tools for searching and monitoring domain names.
+WHOIS is a query and response protocol that is widely used for querying databases that store the registered users or assignees of an Internet resource, such as a domain name, an IP address block or an autonomous system, but is also used for a wider range of other information.
 
 Links
 - [https://who.is](https://who.is)
+- [https://en.wikipedia.org/wiki/WHOIS](https://en.wikipedia.org/wiki/WHOIS)
 
 ## Wi-fi Protected Access
 Wi-Fi Protected Access (WPA), Wi-Fi Protected Access II (WPA2), and Wi-Fi Protected Access 3 (WPA3) are the three security and security certification programs developed after 2000 by the Wi-Fi Alliance to secure wireless computer networks.
