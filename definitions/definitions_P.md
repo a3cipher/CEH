@@ -105,6 +105,13 @@ PGP is used for signing, encrypting, and decrypting texts, e-mails, files, direc
 Links
 - [https://en.wikipedia.org/wiki/Pretty_Good_Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
 
+## Programmable Logic Controller
+A programmable logic controller (PLC) or programmable controller is an industrial computer that has been ruggedized and adapted for the control of manufacturing processes, such as assembly lines, machines, robotic devices, or any activity that requires high reliability, ease of programming, and process fault diagnosis.
+Dick Morley is considered as the father of PLC as he had invented the first PLC, the Modicon 084, for General Motors in 1968.
+
+Links
+- [https://en.wikipedia.org/wiki/Programmable_logic_controller](https://en.wikipedia.org/wiki/Programmable_logic_controller)
+ 
 ## Protected Health Information
 Protected health information (PHI) under the U.S. law is any information about health status, provision of health care, or payment for health care that is created or collected by a Covered Entity (or a Business Associate of a Covered Entity), and can be linked to a specific individual.
 This is interpreted rather broadly and includes any part of a patient's medical record or payment history.

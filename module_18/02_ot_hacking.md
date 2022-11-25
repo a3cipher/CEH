@@ -13,6 +13,18 @@ Supervisory control and data acquisition (SCADA)
 
 [Definition](../definitions/definitions_S.md#supervisory-control-and-data-acquisition)
 
+Remote terminal unit
+
+[Definition](../definitions/definitions_R.md#remote-terminal-unit)
+
+Programmable logic controller
+
+[Definition](../definitions/definitions_P.md#programmable-logic-controller)
+
+Distributed control system
+
+[Definition](../definitions/definitions_D.md#distributed-control-system)
+
 MITRE ATT&CK for ICS
 > ATT&CK for ICS is a knowledge base useful for describing the actions an adversary may take while operating within an ICS network.
 > The knowledge base can be used to better characterize and describe post-compromise adversary behavior.

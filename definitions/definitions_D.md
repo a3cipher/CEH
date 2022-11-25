@@ -90,6 +90,13 @@ A Wi-Fi deauthentication attack is a type of denial-of-service attack that targe
 Links
 - [https://en.wikipedia.org/wiki/Wi-Fi_deauthentication_attack](https://en.wikipedia.org/wiki/Wi-Fi_deauthentication_attack)
 
+## Distributed Control System
+A distributed control system (DCS) is a computerised control system for a process or plant usually with many control loops, in which autonomous controllers are distributed throughout the system, but there is no central operator supervisory control.
+This is in contrast to systems that use centralized controllers; either discrete controllers located at a central control room or within a central computer.
+
+Links
+- [https://en.wikipedia.org/wiki/Distributed_control_system](https://en.wikipedia.org/wiki/Distributed_control_system)
+ 
 ## Distributed Denial of Service Attack
 A distributed denial-of-service (DDoS) attack occurs when multiple systems flood the bandwidth or resources of a targeted system, usually one or more web servers.
 A DDoS attack uses more than one unique IP address or machines, often from thousands of hosts infected with malware.

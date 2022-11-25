@@ -59,6 +59,13 @@ Microsoft RPC (Microsoft Remote Procedure Call) is a modified version of DCE/RPC
 Links
 - [https://en.wikipedia.org/wiki/Microsoft_RPC](https://en.wikipedia.org/wiki/Microsoft_RPC)
 
+## Remote Terminal Unit
+A remote terminal unit(RTU) is a microprocessor-controlled electronic device that interfaces objects in the physical world to a distributed control system or SCADA (supervisory control and data acquisition) system by transmitting telemetry data to a master system, and by using messages from the master supervisory system to control connected objects.
+Other terms that may be used for RTU are remote telemetry unit and remote telecontrol unit.
+
+Links
+- [https://en.wikipedia.org/wiki/Remote_terminal_unit](https://en.wikipedia.org/wiki/Remote_terminal_unit)
+ 
 ## Replay Attack
 A replay attack (also known as a repeat attack or playback attack) is a form of network attack in which valid data transmission is maliciously or fraudulently repeated or delayed.
 
