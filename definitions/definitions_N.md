@@ -1,5 +1,12 @@
 # Defintions N
 
+## National Institute of Standards and Technology
+The National Institute of Standards and Technology (NIST) is an agency of the United States Department of Commerce whose mission is to promote American innovation and industrial competitiveness.
+NIST's activities are organized into physical science laboratory programs that include nanoscale science and technology, engineering, information technology, neutron research, material measurement, and physical measurement.
+
+Links
+- [https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology](https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology)
+
 ## National Vulnerability Database (NVD)
 The NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP).
 This data enables automation of vulnerability management, security measurement, and compliance.
@@ -79,7 +86,10 @@ Links
 - [https://en.wikipedia.org/wiki/Sniffing_attack](https://en.wikipedia.org/wiki/Sniffing_attack)
 
 ## Network Time Protocol
-The Network Time Protocol (NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks. In operation since before 1985, NTP is one of the oldest Internet protocols in current use. NTP was designed by David L. Mills of the University of Delaware.
+The Network Time Protocol (NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks.
+In operation since before 1985, NTP is one of the oldest Internet protocols in current use.
+NTP was designed by David L. Mills of the University of Delaware.
+Implementations send and receive timestamps using the User Datagram Protocol (UDP) on port number 123.
 
 Links
 - [https://en.wikipedia.org/wiki/Network_Time_Protocol](https://en.wikipedia.org/wiki/Network_Time_Protocol)

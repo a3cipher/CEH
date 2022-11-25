@@ -44,6 +44,9 @@ Links
 ## Google Hacking
 Google hacking, also named Google dorking, is a hacker technique that uses Google Search and other Google applications to find security holes in the configuration and computer code that websites are using.
 
+Note that for google dorking, it's important to now some of the URL encodings liks
+- %3A is :
+
 Links
 - [https://en.wikipedia.org/wiki/Google_hacking](https://en.wikipedia.org/wiki/Google_hacking)
 

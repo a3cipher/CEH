@@ -66,6 +66,12 @@ In security, piggybacking, similar to tailgating, refers to when a person tags a
 Links
 - [https://en.wikipedia.org/wiki/Piggybacking_(security)](https://en.wikipedia.org/wiki/Piggybacking_(security))
 
+## Point of Sale Malware
+Point-of-sale malware (POS malware) is usually a type of malicious software (malware) that is used by cybercriminals to target point of sale (POS) and payment terminals with the intent to obtain credit card and debit card information, a card's track 1 or track 2 data and even the CVV code, by various man-in-the-middle attacks, that is the interception of the processing at the retail checkout point of sale system.
+
+Links
+- [https://en.wikipedia.org/wiki/Point-of-sale_malware](https://en.wikipedia.org/wiki/Point-of-sale_malware)
+ 
 ## Postman
 Postman is an API platform for developers to design, build, test and iterate their APIs.
 

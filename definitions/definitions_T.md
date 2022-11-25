@@ -87,7 +87,10 @@ Links
 - [https://en.wikipedia.org/wiki/Transport_Layer_Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 
 ## Trivial File Transfer Protocol
-Trivial File Transfer Protocol (TFTP) is a simple lockstep File Transfer Protocol which allows a client to get a file from or put a file onto a remote host. One of its primary uses is in the early stages of nodes booting from a local area network.
+Trivial File Transfer Protocol (TFTP) is a simple lockstep File Transfer Protocol which allows a client to get a file from or put a file onto a remote host.
+One of its primary uses is in the early stages of nodes booting from a local area network.
+TFTP uses UDP as its transport protocol.
+A transfer request is always initiated targeting port 69, but the data transfer ports are chosen independently by the sender and receiver during the transfer initialization.
 
 Links
 - [https://en.wikipedia.org/wiki/Trivial_File_Transfer_Protocol](https://en.wikipedia.org/wiki/Trivial_File_Transfer_Protocol)

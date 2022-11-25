@@ -138,6 +138,13 @@ This results in traffic being diverted to the attacker's computer (or any other 
 Links
 - [https://en.wikipedia.org/wiki/Domain_Name_System](https://en.wikipedia.org/wiki/Domain_Name_System)
 
+## Domain Name System Zone Transfer
+DNS zone transfer, also sometimes known by the inducing DNS query type AXFR, is a type of DNS transaction.
+It is one of the many mechanisms available for administrators to replicate DNS databases across a set of DNS servers.
+
+Links
+- [https://en.wikipedia.org/wiki/DNS_zone_transfer](https://en.wikipedia.org/wiki/DNS_zone_transfer)
+ 
 ## Dynamic Host Configuration Protocol
 The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on Internet Protocol (IP) networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client–server architecture.
 
