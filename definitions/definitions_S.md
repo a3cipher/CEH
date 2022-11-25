@@ -6,6 +6,12 @@ In cryptography, a salt is random data that is used as an additional input to a 
 Links
 - [https://en.wikipedia.org/wiki/Salt_(cryptography)](https://en.wikipedia.org/wiki/Salt_(cryptography))
 
+## SANS Institute
+The SANS Institute (officially the Escal Institute of Advanced Technologies) is a private U.S. for-profit company[1] founded in 1989 that specializes in information security, cybersecurity training, and selling certificates.
+
+Links
+- [https://en.wikipedia.org/wiki/SANS_Institute](https://en.wikipedia.org/wiki/SANS_Institute)
+
 ## Sarbanes–Oxley Act
 The Sarbanes–Oxley Act of 2002 is a United States federal law that mandates certain practices in financial record keeping and reporting for corporations. The law was enacted as a reaction to a number of major corporate and accounting scandals, including Enron and WorldCom. The sections of the bill cover responsibilities of a public corporation's board of directors, add criminal penalties for certain misconduct, and require the Securities and Exchange Commission to create regulations to define how public corporations are to comply with the law.
 
@@ -17,6 +23,12 @@ A script kiddie, kiddie, or skid is a relatively unskilled individual who uses s
 
 Links
 - [https://en.wikipedia.org/wiki/Script_kiddie](https://en.wikipedia.org/wiki/Script_kiddie)
+
+## Secure Hash Algorithms
+The Secure Hash Algorithms are a family of cryptographic hash functions published by the National Institute of Standards and Technology (NIST) as a U.S. Federal Information Processing Standard (FIPS), including SHA-1, SHA-1, SHA-2 and SHA-3.
+
+Links
+- [https://en.wikipedia.org/wiki/Secure_Hash_Algorithms](https://en.wikipedia.org/wiki/Secure_Hash_Algorithms)
 
 ## Secure Multipurpose Internet Mail Extensions
 S/MIME (Secure/Multipurpose Internet Mail Extensions) is a standard for public key encryption and signing of MIME data.

@@ -142,6 +142,13 @@ The fragments are reassembled by the receiving host.
 Links
 - [https://en.wikipedia.org/wiki/IP_fragmentation](https://en.wikipedia.org/wiki/IP_fragmentation)
 
+## Internet Protocol Fragmentation Attack
+IP fragmentation attacks are a kind of computer security attack based on how the Internet Protocol (IP) requires data to be transmitted and processed.
+Specifically, it invokes IP fragmentation, a process used to partition messages (the service data unit (SDU); typically a packet) from one layer of a network into multiple smaller payloads that can fit within the lower layer's protocol data unit (PDU).
+
+Links
+- [https://en.wikipedia.org/wiki/IP_fragmentation_attack](https://en.wikipedia.org/wiki/IP_fragmentation_attack)
+ 
 ## Internet Protocol Security
 In computing, Internet Protocol Security (IPsec) is a secure network protocol suite that authenticates and encrypts packets of data to provide secure encrypted communication between two computers over an Internet Protocol network. It is used in virtual private networks (VPNs).
 

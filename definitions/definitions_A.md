@@ -47,6 +47,13 @@ Amazon Web Services, Inc. is a subsidiary of Amazon that provides on-demand clou
 Links
 - [https://aws.amazon.com](https://aws.amazon.com)
 
+## Android Package Kit
+The Android Package with the file extension apk is the file format used by the Android operating system, and a number of other Android-based operating systems for distribution and installation of mobile apps, mobile games and middleware.
+It can be written in either Java or Kotlin.
+
+Links
+- [https://en.wikipedia.org/wiki/Apk_(file_format)](https://en.wikipedia.org/wiki/Apk_(file_format))
+ 
 ## Android Rooting
 Rooting is the process of allowing users of the Android mobile operating system to attain privileged control (known as root access) over various Android subsystems.
 

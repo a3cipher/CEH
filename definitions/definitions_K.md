@@ -1,5 +1,12 @@
 # Definitions K
 
+## KARMA Attack
+In information security, KARMA is an attack that exploits a behaviour of some Wi-Fi devices, combined with the lack of access point authentication in numerous WiFi protocols.
+It is a variant of the evil twin attack.
+
+Links
+- [https://en.wikipedia.org/wiki/KARMA_attack](https://en.wikipedia.org/wiki/KARMA_attack)
+ 
 ## Kerberos
 Kerberos (/ˈkɜːrbərɒs/) is a computer-network authentication protocol that works on the basis of tickets to allow nodes communicating over a non-secure network to prove their identity to one another in a secure manner.
 
