@@ -48,6 +48,12 @@ Start a full pentest in minutes with powerful cloud-based tools, plus flexible r
 Links
 - [https://pentest-tools.com](https://pentest-tools.com)
 
+## Personally Identifiable Information
+Personal data, also known as personal information or personally identifiable information (PII), is any information related to an identifiable person.
+
+Links
+- [https://en.wikipedia.org/wiki/Personal_data](https://en.wikipedia.org/wiki/Personal_data)
+ 
 ## Phishing
 Phishing is a type of social engineering where an attacker sends a fraudulent (e.g., spoofed, fake, or otherwise deceptive) message designed to trick a person into revealing sensitive information to the attacker or to deploy malicious software on the victim's infrastructure like ransomware.
 
@@ -92,6 +98,13 @@ PGP is used for signing, encrypting, and decrypting texts, e-mails, files, direc
 
 Links
 - [https://en.wikipedia.org/wiki/Pretty_Good_Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
+
+## Protected Health Information
+Protected health information (PHI) under the U.S. law is any information about health status, provision of health care, or payment for health care that is created or collected by a Covered Entity (or a Business Associate of a Covered Entity), and can be linked to a specific individual.
+This is interpreted rather broadly and includes any part of a patient's medical record or payment history.
+
+Links
+- [https://en.wikipedia.org/wiki/Protected_health_information](https://en.wikipedia.org/wiki/Protected_health_information)
 
 ## Protocol Analyzer
 A protocol analyzer is a tool (hardware or software) used to capture and analyze signals and data traffic over a communication channel.

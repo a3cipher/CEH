@@ -1,5 +1,13 @@
 # Definitions A
 
+## Acceptable Use Policy
+An acceptable use policy (AUP), acceptable usage policy or fair use policy is a set of rules applied by the owner, creator or administrator of a computer network website, or service.
+That restricts the ways in which the network, website or system may be used and sets guidelines as to how it should be used.
+AUP documents are written for corporations, businesses, universities, schools, internet service providers (ISPs),[4] and website owners,[5] often to reduce the potential for legal action that may be taken by a user, and often with little prospect of enforcement.
+
+Links
+- [https://en.wikipedia.org/wiki/Acceptable_use_policy](https://en.wikipedia.org/wiki/Acceptable_use_policy)
+ 
 ## Address Resolution Protocol
 The Address Resolution Protocol (ARP) is a communication protocol used for discovering the link layer address, such as a MAC address, associated with a given internet layer address, typically an IPv4 address.
 This mapping is a critical function in the Internet protocol suite.
