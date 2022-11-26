@@ -44,6 +44,12 @@ It is widely used by Internet servers, including the majority of HTTPS websites.
 Links
 - [https://www.openssl.org](https://www.openssl.org)
 
+## Open Vulnerability Assessment System
+OpenVAS (Open Vulnerability Assessment System, originally known as GNessUs) is the scanner component of Greenbone Vulnerability Manager (GVM), a software framework of several services and tools offering vulnerability scanning and vulnerability management.
+
+Links
+- [https://en.wikipedia.org/wiki/OpenVAS](https://en.wikipedia.org/wiki/OpenVAS)
+
 ## Operational Technology
 Operational technology (OT) is hardware and software that detects or causes a change, through the direct monitoring and/or control of industrial equipment, assets, processes and events.
 

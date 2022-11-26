@@ -30,7 +30,7 @@ Links
 - [https://cloud.google.com](https://cloud.google.com)
 
 ## Google Earth
-> Google Earth is a computer program that renders a 3D representation of Earth based primarily on satellite imagery.
+Google Earth is a computer program that renders a 3D representation of Earth based primarily on satellite imagery.
 
 Links
 - [https://earth.google.com/web](https://earth.google.com/web)
@@ -46,6 +46,8 @@ Google hacking, also named Google dorking, is a hacker technique that uses Googl
 
 Note that for google dorking, it's important to now some of the URL encodings liks
 - %3A is :
+- %40 is @
+ 
 
 Links
 - [https://en.wikipedia.org/wiki/Google_hacking](https://en.wikipedia.org/wiki/Google_hacking)
