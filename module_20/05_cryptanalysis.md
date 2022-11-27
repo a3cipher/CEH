@@ -36,3 +36,7 @@ Padding oracle attack
 Key stretching
 
 [Definition](../definitions/definitions_K.md#key-stretching)
+
+Rubber hose cryptanalysis
+
+[Definition](../definitions/definitions_R.md#rubber-hose-cryptanalysis)

@@ -157,3 +157,9 @@ A rootkit is a collection of computer software, typically malicious, designed to
 
 Links
 - [https://en.wikipedia.org/wiki/Rootkit](https://en.wikipedia.org/wiki/Rootkit)
+
+## Rubber Hose Cryptanalysis
+In cryptography, rubber-hose cryptanalysis is a euphemism for the extraction of cryptographic secrets (e.g. the password to an encrypted file) from a person by coercion or torture[1]—such as beating that person with a rubber hose, hence the name—in contrast to a mathematical or technical cryptanalytic attack.
+
+Links
+- [https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis](https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis)
