@@ -23,6 +23,15 @@ For any information system to serve its purpose, the information must be availab
 Links
 - [https://en.wikipedia.org/wiki/Confidentiality](https://en.wikipedia.org/wiki/Confidentiality)
 
+## Ciphertext Only Attack
+In cryptography, a ciphertext-only attack (COA) or known ciphertext attack is an attack model for cryptanalysis where the attacker is assumed to have access only to a set of ciphertexts.
+While the attacker has no channel providing access to the plaintext prior to encryption, in all practical ciphertext-only attacks, the attacker still has some knowledge of the plaintext.
+For instance, the attacker might know the language in which the plaintext is written or the expected statistical distribution of characters in the plaintext.
+Standard protocol data and messages are commonly part of the plaintext in many deployed systems and can usually be guessed or known efficiently as part of a ciphertext-only attack on these systems.
+
+Links
+- [https://en.wikipedia.org/wiki/Ciphertext-only_attack](https://en.wikipedia.org/wiki/Ciphertext-only_attack)
+
 ## Cipher
 In cryptography, a cipher (or cypher) is an algorithm for performing encryption or decryption—a series of well-defined steps that can be followed as a procedure.
 

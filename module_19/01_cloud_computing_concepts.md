@@ -10,6 +10,8 @@ Fog computing
 [Definition](../definitions/definitions_F.md#fog-computing)
 
 Edge computing
+
+[Definition](../definitions/definitions_E.md#edge-computing)
  
 Amazon web services (AWS)
 
