@@ -62,6 +62,13 @@ However, many drivers allow the MAC address to be changed.
 Links
 - [https://en.wikipedia.org/wiki/MAC_spoofing](https://en.wikipedia.org/wiki/MAC_spoofing)
 
+## Meet in the Middle Attack
+The meet-in-the-middle attack (MITM), a known plaintext attack, is a generic space–time tradeoff cryptographic attack against encryption schemes that rely on performing multiple encryption operations in sequence.
+The MITM attack is the primary reason why Double DES is not used and why a Triple DES key (168-bit) can be brute-forced by an attacker with 256 space and 2112 operations.
+
+Links
+- [https://en.wikipedia.org/wiki/Meet-in-the-middle_attack](https://en.wikipedia.org/wiki/Meet-in-the-middle_attack)
+
 ## Memory Leak
 In computer science, a memory leak is a type of resource leak that occurs when a computer program incorrectly manages memory allocations[1] in a way that memory which is no longer needed is not released. A memory leak may also happen when an object is stored in memory but cannot be accessed by the running code (i.e. unreachable memory).[2] A memory leak has symptoms similar to a number of other problems and generally can only be diagnosed by a programmer with access to the program's source code.
 
@@ -69,7 +76,13 @@ Links
 - [https://en.wikipedia.org/wiki/Memory_leak](https://en.wikipedia.org/wiki/Memory_leak)
 
 ## Message Authentication Code
+In cryptography, a message authentication code (MAC), sometimes known as a tag, is a short piece of information used for authenticating a message.
+In other words, to confirm that the message came from the stated sender (its authenticity) and has not been changed.
+The MAC value protects a message's data integrity, as well as its authenticity, by allowing verifiers (who also possess the secret key) to detect any changes to the message content.
 
+Links
+- [https://en.wikipedia.org/wiki/Message_authentication_code](https://en.wikipedia.org/wiki/Message_authentication_code)
+ 
 ## Metasearch Engine
 A metasearch engine (or search aggregator) is an online information retrieval tool that uses the data of a web search engine to produce its own results.
 
