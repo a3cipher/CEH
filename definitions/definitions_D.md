@@ -169,6 +169,17 @@ A dynamic application security testing (DAST) is a non functional testing proces
 Links
 - [https://en.wikipedia.org/wiki/Dynamic_application_security_testing](https://en.wikipedia.org/wiki/Dynamic_application_security_testing)
 
+## Dynamic ARP Inspection
+Dynamic ARP inspection (DAI) is a security feature that rejects invalid and malicious ARP packets.
+The feature prevents a class of man-in-the-middle attacks, where an unfriendly station intercepts traffic for other stations by poisoning the ARP caches of its unsuspecting neighbors.
+The miscreant sends ARP requests or responses mapping another station’s IP address to its own MAC address.
+
+DAI relies on DHCP snooping.
+DHCP snooping listens to DHCP message exchanges and builds a bindings database of valid tuples (MAC address, IP address, VLAN interface).
+
+Links
+- [https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst4500/12-2/25ew/configuration/guide/conf/dynarp.html](https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst4500/12-2/25ew/configuration/guide/conf/dynarp.html)
+
 ## Dynamic Link Library
 Dynamic-link library (DLL) is Microsoft's implementation of the shared library concept in the Microsoft Windows and OS/2 operating systems
 
@@ -180,4 +191,3 @@ Dumpster diving (also totting, skipping, skip diving or skip salvage) is salvagi
 
 Links
 - [https://en.wikipedia.org/wiki/Dumpster_diving](https://en.wikipedia.org/wiki/Dumpster_diving)
-

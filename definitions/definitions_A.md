@@ -41,6 +41,12 @@ Adware, often called advertising-supported software by its developers, is softwa
 Links
 - [https://en.wikipedia.org/wiki/Adware](https://en.wikipedia.org/wiki/Adware)
 
+## ALTEr Attack
+In aLTEr attack, an attacker pretends to be a real cell tower to the victim, while at the same time also pretending to be the victim to the real network, and then intercepts the communications between the victim and the real network.
+
+Links
+- [https://alter-attack.net](https://alter-attack.net)
+
 ## Amazon Web Services
 Amazon Web Services, Inc. is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.
 
