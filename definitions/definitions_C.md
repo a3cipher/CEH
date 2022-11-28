@@ -175,6 +175,14 @@ Credential stuffing is a type of cyberattack in which the attacker collects stol
 Links
 - [https://en.wikipedia.org/wiki/Credential_stuffing](https://en.wikipedia.org/wiki/Credential_stuffing)
 
+## CRLF Injection
+The term CRLF refers to Carriage Return (ASCII 13, \r) Line Feed (ASCII 10, \n). They’re used to note the termination of a line, however, dealt with differently in today’s popular Operating Systems.
+
+A CRLF Injection attack occurs when a user manages to submit a CRLF into an application. This is most commonly done by modifying an HTTP parameter or URL.
+
+Links
+- [https://owasp.org/www-community/vulnerabilities/CRLF_Injection](https://owasp.org/www-community/vulnerabilities/CRLF_Injection)
+ 
 ## Cross Origin Resource Sharing
 Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served.
 

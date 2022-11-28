@@ -102,6 +102,10 @@ Insecure direct object reference (IDOR) is a type of access control vulnerabilit
 Links
 - [https://en.wikipedia.org/wiki/Insecure_direct_object_reference](https://en.wikipedia.org/wiki/Insecure_direct_object_reference)
 
+## Insertion Attack
+An attacker can exploit this condition by sending packets to an end-system that it will reject, but that the IDS will think are valid.
+In doing this, the attacker is ``inserting'' data into the IDS --- no other system on the network cares about the bad packets.
+
 ## Insider
 An employee that is already inside of the organization.
 
