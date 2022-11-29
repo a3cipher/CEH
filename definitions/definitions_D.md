@@ -135,6 +135,8 @@ Links
 ## Domain Name System Security Extensions
 The Domain Name System Security Extensions (DNSSEC) is a suite of extension specifications by the Internet Engineering Task Force (IETF) for securing data exchanged in the Domain Name System (DNS) in Internet Protocol (IP) networks.
 
+The original design of the Domain Name System did not include any security features. It was conceived only as a scalable distributed system. The Domain Name System Security Extensions (DNSSEC) attempt to add security, while maintaining backward compatibility. Request for Comments 3833 documents some of the known threats to the DNS, and their solutions in DNSSEC.
+
 Links
 - [https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions)
 
