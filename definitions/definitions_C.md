@@ -8,6 +8,13 @@ This allows others (relying parties) to rely upon signatures or on assertions ma
 Links
 - [https://en.wikipedia.org/wiki/Certificate_authority](https://en.wikipedia.org/wiki/Certificate_authority)
 
+## Chosen Plaintext Attack
+A chosen-plaintext attack (CPA) is an attack model for cryptanalysis which presumes that the attacker can obtain the ciphertexts for arbitrary plaintexts.
+The goal of the attack is to gain information that reduces the security of the encryption scheme.
+
+Links
+- [https://en.wikipedia.org/wiki/Chosen-plaintext_attack](https://en.wikipedia.org/wiki/Chosen-plaintext_attack)
+ 
 ## CIA Triad
 Information security's primary focus is the balanced protection of the confidentiality, integrity, and availability of data (also known as the CIA triad) while maintaining a focus on efficient policy implementation, all without hampering organization productivity.
 

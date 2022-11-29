@@ -40,3 +40,15 @@ Key stretching
 Rubber hose cryptanalysis
 
 [Definition](../definitions/definitions_R.md#rubber-hose-cryptanalysis)
+
+Known plaintext attack
+
+[Definition](../definitions/definitions_K.md#known-plaintext-attack)
+
+Chosen plaintext attack
+
+[Definition](../definitions/definitions_C.md#chosen-plaintext-attack)
+
+Ciphertext only attack
+
+[Definition](../definitions/definitions_C.md#ciphertext-only-attack)

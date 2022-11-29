@@ -37,6 +37,12 @@ In cryptography, key stretching techniques are used to make a possibly weak key,
 Links
 - [https://en.wikipedia.org/wiki/Key_stretching](https://en.wikipedia.org/wiki/Key_stretching)
 
+## Known Plaintext Attack
+The known-plaintext attack (KPA) is an attack model for cryptanalysis where the attacker has access to both the plaintext (called a crib), and its encrypted version (ciphertext).
+
+Links
+- [https://en.wikipedia.org/wiki/Known-plaintext_attack](https://en.wikipedia.org/wiki/Known-plaintext_attack)
+
 ## Kubernetes
 Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.
 
