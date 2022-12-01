@@ -205,3 +205,10 @@ Dynamic-link library (DLL) is Microsoft's implementation of the shared library c
 
 Links
 - [https://en.wikipedia.org/wiki/Dynamic-link_library](https://en.wikipedia.org/wiki/Dynamic-link_library)
+
+## Dumpster Diving
+Dumpster diving (also totting, skipping, skip diving or skip salvage) is salvaging from large commercial, residential, industrial and construction containers for unused items discarded by their owners but deemed useful to the picker.
+
+Links
+- [https://en.wikipedia.org/wiki/Dumpster_diving](https://en.wikipedia.org/wiki/Dumpster_diving)
+
