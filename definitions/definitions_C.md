@@ -74,6 +74,9 @@ Clickjacking (classified as a user interface redress attack or UI redressing) is
 Links
 - [https://en.wikipedia.org/wiki/Clickjacking](https://en.wikipedia.org/wiki/Clickjacking)
 
+## Cloudborne Attack
+Researchers detected a new vulnerability dubbed ‘Cloudborne’ that could allow attackers to implant backdoor in the firmware or BMC of bare metal servers causing a variety of attack situations.
+
 ## Cloud Computing
 Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.
 Large clouds often have functions distributed over multiple locations, each of which is a data center.
@@ -101,6 +104,11 @@ The capability provided to the consumer is to use the provider's applications ru
 
 Links
 - [https://en.wikipedia.org/wiki/Cloud_computing](https://en.wikipedia.org/wiki/Cloud_computing)
+
+## Cloud Hopper Attack
+Cloud Hopper, the hacking campaign suspected to be orchestrated by government-sponsored Chinese operatives (affectionately known as "APT10”), ran from 2014 through at least 2017, and impacted multiple Western companies in a range of industries.
+
+Cloud Hopper achieved its now well-known name due to the attackers’ compromise of the victims’ managed service providers (MSP), leveraging these to "hop" from the MSPs’ "cloud" to the target enterprises’ networks.
 
 ## Code Review
 Code review (sometimes referred to as peer review) is a software quality assurance activity in which one or several people check a program mainly by viewing and reading parts of its source code, and they do so after implementation or as an interruption of implementation.

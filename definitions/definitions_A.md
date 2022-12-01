@@ -53,6 +53,13 @@ Amazon Web Services, Inc. is a subsidiary of Amazon that provides on-demand clou
 Links
 - [https://aws.amazon.com](https://aws.amazon.com)
 
+## American Registry for Internet Numbers
+The American Registry for Internet Numbers is the regional Internet registry for Canada, the United States, and many Caribbean and North Atlantic islands.
+ARIN manages the distribution of Internet number resources, including IPv4 and IPv6 address space and AS numbers.
+
+Links
+- [https://en.wikipedia.org/wiki/American_Registry_for_Internet_Numbers](https://en.wikipedia.org/wiki/American_Registry_for_Internet_Numbers)
+
 ## Android Package Kit
 The Android Package with the file extension apk is the file format used by the Android operating system, and a number of other Android-based operating systems for distribution and installation of mobile apps, mobile games and middleware.
 It can be written in either Java or Kotlin.

@@ -154,6 +154,12 @@ It is one of the many mechanisms available for administrators to replicate DNS d
 Links
 - [https://en.wikipedia.org/wiki/DNS_zone_transfer](https://en.wikipedia.org/wiki/DNS_zone_transfer)
  
+## DROWN Attack
+The DROWN (Decrypting RSA with Obsolete and Weakened eNcryption) attack is a cross-protocol security bug that attacks servers supporting modern SSLv3/TLS protocol suites by using their support for the obsolete, insecure, SSL v2 protocol to leverage an attack on connections using up-to-date protocols that would otherwise be secure.
+
+Links
+- [https://en.wikipedia.org/wiki/DROWN_attack](https://en.wikipedia.org/wiki/DROWN_attack)
+ 
 ## Dynamic Host Configuration Protocol
 The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on Internet Protocol (IP) networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client–server architecture.
 
