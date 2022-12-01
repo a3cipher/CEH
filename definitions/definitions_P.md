@@ -112,6 +112,13 @@ Dick Morley is considered as the father of PLC as he had invented the first PLC,
 Links
 - [https://en.wikipedia.org/wiki/Programmable_logic_controller](https://en.wikipedia.org/wiki/Programmable_logic_controller)
  
+## Promiscuous Mode
+In computer networking, promiscuous mode is a mode for a wired network interface controller (NIC) or wireless network interface controller (WNIC) that causes the controller to pass all traffic it receives to the central processing unit (CPU) rather than passing only the frames that the controller is specifically programmed to receive.
+This mode is normally used for packet sniffing that takes place on a router or on a computer connected to a wired network or one being part of a wireless LAN.
+
+Links
+- [https://en.wikipedia.org/wiki/Promiscuous_mode](https://en.wikipedia.org/wiki/Promiscuous_mode)
+
 ## Protected Health Information
 Protected health information (PHI) under the U.S. law is any information about health status, provision of health care, or payment for health care that is created or collected by a Covered Entity (or a Business Associate of a Covered Entity), and can be linked to a specific individual.
 This is interpreted rather broadly and includes any part of a patient's medical record or payment history.

@@ -104,6 +104,13 @@ Links
 - [https://archive.org](https://archive.org)
 - [https://en.wikipedia.org/wiki/Internet_Archive](https://en.wikipedia.org/wiki/Internet_Archive)
 
+## Armitage
+Armitage is a graphical cyber attack management tool for the Metasploit Project that visualizes targets and recommends exploits.
+It is a free and open source network security tool notable for its contributions to red team collaboration allowing for: shared sessions, data, and communication through a single Metasploit instance.
+
+Links
+- [https://en.wikipedia.org/wiki/Armitage_(computing)](https://en.wikipedia.org/wiki/Armitage_(computing))
+ 
 ## Artificial Intelligence
 Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals and humans.
 AI research has been defined as the field of study of intelligent agents, which refers to any system that perceives its environment and takes actions that maximize its chance of achieving its goals.
