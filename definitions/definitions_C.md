@@ -1,5 +1,11 @@
 # Definitions C
 
+## Carrier Cloud
+In cloud computing a carrier cloud is a class of cloud that integrates wide area networks (WAN) and other attributes of communications service providers’ carrier grade networks to enable the deployment of highly complex applications in the cloud.
+
+Links
+- [https://en.wikipedia.org/wiki/Carrier_cloud](https://en.wikipedia.org/wiki/Carrier_cloud)
+ 
 ## Certificate Authority
 In cryptography, a certificate authority or certification authority (CA) is an entity that stores, signs, and issues digital certificates.
 A digital certificate certifies the ownership of a public key by the named subject of the certificate.

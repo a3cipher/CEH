@@ -134,6 +134,14 @@ Links
 - [https://en.wikipedia.org/wiki/Mobile_device_management](https://en.wikipedia.org/wiki/Mobile_device_management)
 - [https://en.wikipedia.org/wiki/Bring_your_own_device](https://en.wikipedia.org/wiki/Bring_your_own_device)
 
+## Msfencode
+MSFencode is another great little tool in the framework’s arsenal when it comes to exploit development.
+Most of the time, one cannot simply use shellcode generated straight out of msfpayload.
+It needs to be encoded to suit the target in order to function properly.
+
+Links
+- [https://www.offensive-security.com/metasploit-unleashed/msfencode](https://www.offensive-security.com/metasploit-unleashed/msfencode)
+ 
 ## Multi Factor Authentication
 Multi-factor authentication (MFA; encompassing two-factor authentication, or 2FA, along with similar terms) is an electronic authentication method in which a user is granted access to a website or application only after successfully presenting two or more pieces of evidence (or factors) to an authentication mechanism: knowledge (something only the user knows), possession (something only the user has), and inherence (something only the user is).
 

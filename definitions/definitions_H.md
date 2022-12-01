@@ -55,6 +55,12 @@ Generally, a honeypot consists of data (for example, in a network site) that app
 Links
 - [https://en.wikipedia.org/wiki/Honeypot_(computing)](https://en.wikipedia.org/wiki/Honeypot_(computing))
 
+## Honey Trapping
+Honey trapping is an investigative practice involving the use of romantic or sexual relationships for interpersonal, political (including state espionage), or monetary purpose
+
+Links
+- [https://en.wikipedia.org/wiki/Honey_trapping](https://en.wikipedia.org/wiki/Honey_trapping)
+ 
 ## Hotfix
 A hotfix or quick-fix engineering update (QFE update) is a single, cumulative package that includes information (often in the form of one or more files) that is used to address a problem in a software product (i.e., a software bug).
 Typically, hotfixes are made to address a specific customer situation.

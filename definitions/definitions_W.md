@@ -21,6 +21,21 @@ These callbacks may be maintained, modified, and managed by third-party users an
 Links
 - [https://en.wikipedia.org/wiki/Webhook](https://en.wikipedia.org/wiki/Webhook)
 
+## Website Defacement
+Website defacement is an attack on a website that changes the visual appearance of a website or a web page.
+These are typically the work of defacers, who break into a web server and replace the hosted website with one of their own.
+
+Links
+- [https://en.wikipedia.org/wiki/Website_defacement](https://en.wikipedia.org/wiki/Website_defacement)
+
+## Website Mirroring
+Mirror sites or mirrors are replicas of other websites or any network node.
+The concept of mirroring applies to network services accessible through any protocol, such as HTTP or FTP.
+Such sites have different URLs than the original site, but host identical or near-identical content.
+
+Links
+- [https://en.wikipedia.org/wiki/Mirror_site](https://en.wikipedia.org/wiki/Mirror_site)
+
 ## Web Application
 A web application (or web app) is application software that is accessed using a web browser.
 Web applications are delivered on the World Wide Web to users with an active network connection.
@@ -64,20 +79,13 @@ A Web crawler, sometimes called a spider or spiderbot and often shortened to cra
 Links
 - [https://en.wikipedia.org/wiki/Web_crawler](https://en.wikipedia.org/wiki/Web_crawler)
 
-## Website Defacement
-Website defacement is an attack on a website that changes the visual appearance of a website or a web page.
-These are typically the work of defacers, who break into a web server and replace the hosted website with one of their own.
+## Web Stat
+Monitor individual visitors using your website in real-time.
+Understand & grow your traffic with free, live analytics.
+Add to your site in minutes!
 
 Links
-- [https://en.wikipedia.org/wiki/Website_defacement](https://en.wikipedia.org/wiki/Website_defacement)
-
-## Website Mirroring
-Mirror sites or mirrors are replicas of other websites or any network node.
-The concept of mirroring applies to network services accessible through any protocol, such as HTTP or FTP.
-Such sites have different URLs than the original site, but host identical or near-identical content.
-
-Links
-- [https://en.wikipedia.org/wiki/Mirror_site](https://en.wikipedia.org/wiki/Mirror_site)
+- [https://www.web-stat.com](https://www.web-stat.com)
 
 ## Whois
 WHOIS is a query and response protocol that is widely used for querying databases that store the registered users or assignees of an Internet resource, such as a domain name, an IP address block or an autonomous system, but is also used for a wider range of other information.

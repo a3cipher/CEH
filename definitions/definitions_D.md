@@ -154,12 +154,24 @@ It is one of the many mechanisms available for administrators to replicate DNS d
 Links
 - [https://en.wikipedia.org/wiki/DNS_zone_transfer](https://en.wikipedia.org/wiki/DNS_zone_transfer)
  
+## Dragonblood
+In April 2019, serious design flaws in WPA3 were found which allow attackers to perform downgrade attacks and side-channel attacks, enabling brute-forcing the passphrase, as well as launching denial-of-service attacks on Wi-Fi base stations.
+
+Links
+- [https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access#Dragonblood_attack](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access#Dragonblood_attack)
+ 
 ## DROWN Attack
 The DROWN (Decrypting RSA with Obsolete and Weakened eNcryption) attack is a cross-protocol security bug that attacks servers supporting modern SSLv3/TLS protocol suites by using their support for the obsolete, insecure, SSL v2 protocol to leverage an attack on connections using up-to-date protocols that would otherwise be secure.
 
 Links
 - [https://en.wikipedia.org/wiki/DROWN_attack](https://en.wikipedia.org/wiki/DROWN_attack)
  
+## Dumpster Diving
+Dumpster diving (also totting, skipping, skip diving or skip salvage) is salvaging from large commercial, residential, industrial and construction containers for unused items discarded by their owners but deemed useful to the picker.
+
+Links
+- [https://en.wikipedia.org/wiki/Dumpster_diving](https://en.wikipedia.org/wiki/Dumpster_diving)
+
 ## Dynamic Host Configuration Protocol
 The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on Internet Protocol (IP) networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client–server architecture.
 
@@ -193,9 +205,3 @@ Dynamic-link library (DLL) is Microsoft's implementation of the shared library c
 
 Links
 - [https://en.wikipedia.org/wiki/Dynamic-link_library](https://en.wikipedia.org/wiki/Dynamic-link_library)
-
-## Dumpster Diving
-Dumpster diving (also totting, skipping, skip diving or skip salvage) is salvaging from large commercial, residential, industrial and construction containers for unused items discarded by their owners but deemed useful to the picker.
-
-Links
-- [https://en.wikipedia.org/wiki/Dumpster_diving](https://en.wikipedia.org/wiki/Dumpster_diving)

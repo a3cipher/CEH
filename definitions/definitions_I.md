@@ -68,6 +68,12 @@ Control systems can range in size from a few modular panel-mounted controllers t
 Links
 - [https://en.wikipedia.org/wiki/Industrial_control_system](https://en.wikipedia.org/wiki/Industrial_control_system)
 
+## Infoga
+Infoga is a tool gathering email accounts informations (ip,hostname,country,...) from different public source (search engines, pgp key servers and shodan) and check if emails was leaked using haveibeenpwned.com API.
+
+Links
+- [https://github.com/m4ll0k/Infoga](https://github.com/m4ll0k/Infoga)
+
 ## Information Assurance
 Information assurance (IA) is the practice of assuring information and managing risks related to the use, processing, storage, and transmission of information.
 Information assurance includes protection of the integrity, availability, authenticity, non-repudiation and confidentiality of user data.

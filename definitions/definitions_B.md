@@ -86,6 +86,12 @@ It affects many electronic devices such as laptops, smart cars, smartphones and 
 Links
 - [https://en.wikipedia.org/wiki/BlueBorne_(security_vulnerability)](https://en.wikipedia.org/wiki/BlueBorne_(security_vulnerability))
 
+## Bluto
+Bluto is a Python-based tool for DNS recon, DNS zone transfer testing, DNS wild card checks, DNS brute forcing, e-mail enumeration and more.
+
+Links
+- [https://github.com/darryllane/Bluto](https://github.com/darryllane/Bluto)
+ 
 ## Border Gateway Protocol
 Border Gateway Protocol (BGP) is a standardized exterior gateway protocol designed to exchange routing and reachability information among autonomous systems (AS) on the Internet.[1] BGP is classified as a path-vector routing protocol,[2] and it makes routing decisions based on paths, network policies, or rule-sets configured by a network administrator.
 

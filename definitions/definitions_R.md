@@ -47,6 +47,13 @@ In general, registration authorities all perform a similar function, in promotin
 Links
 - [https://en.wikipedia.org/wiki/Registration_authority](https://en.wikipedia.org/wiki/Registration_authority)
 
+## Remote Access Policy
+Remote access policy is a document which outlines and defines acceptable methods of remotely connecting to the internal network.
+It is essential in large organization where networks are geographically dispersed and extend into insecure network locations such as public networks or unmanaged home networks.
+
+Links
+- [https://en.wikipedia.org/wiki/Remote_access_policy](https://en.wikipedia.org/wiki/Remote_access_policy)
+ 
 ## Remote Access Trojan
 A RAT (remote access Trojan) is malware an attacker uses to gain full administrative privileges and remote control of a target computer.
 
