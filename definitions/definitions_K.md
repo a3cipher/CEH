@@ -25,6 +25,12 @@ Key disclosure laws, also known as mandatory key disclosure, is legislation that
 Links
 - [https://en.wikipedia.org/wiki/Key_disclosure_law](https://en.wikipedia.org/wiki/Key_disclosure_law)
 
+## Key Escrow
+Key escrow (also known as a "fair" cryptosystem) is an arrangement in which the keys needed to decrypt encrypted data are held in escrow so that, under certain circumstances, an authorized third party may gain access to those keys.
+
+Links
+- [https://en.wikipedia.org/wiki/Key_escrow](https://en.wikipedia.org/wiki/Key_escrow)
+
 ## Key Reinstallation Attack
 KRACK ("Key Reinstallation Attack") is a replay attack (a type of exploitable flaw) on the Wi-Fi Protected Access protocol that secures Wi-Fi connections.
 
