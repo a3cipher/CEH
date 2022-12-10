@@ -66,6 +66,13 @@ In security, piggybacking, similar to tailgating, refers to when a person tags a
 Links
 - [https://en.wikipedia.org/wiki/Piggybacking_(security)](https://en.wikipedia.org/wiki/Piggybacking_(security))
 
+## Ping of death
+A ping of death is a type of attack on a computer system that involves sending a malformed or otherwise malicious ping to a computer.
+A correctly formed ping packet is typically 56 bytes in size, or 64 bytes when the Internet Control Message Protocol (ICMP) header is considered, and 84 bytes including Internet Protocol (IP) version 4 header.
+
+Links
+- [https://en.wikipedia.org/wiki/Ping_of_death](https://en.wikipedia.org/wiki/Ping_of_death)
+ 
 ## Point of Sale Malware
 Point-of-sale malware (POS malware) is usually a type of malicious software (malware) that is used by cybercriminals to target point of sale (POS) and payment terminals with the intent to obtain credit card and debit card information, a card's track 1 or track 2 data and even the CVV code, by various man-in-the-middle attacks, that is the interception of the processing at the retail checkout point of sale system.
 

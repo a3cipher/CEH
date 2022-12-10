@@ -14,6 +14,13 @@ This allows others (relying parties) to rely upon signatures or on assertions ma
 Links
 - [https://en.wikipedia.org/wiki/Certificate_authority](https://en.wikipedia.org/wiki/Certificate_authority)
 
+## Chain Letter
+A chain letter is a message that attempts to convince the recipient to make a number of copies and pass them on to a certain number of recipients.
+The "chain" is an exponentially growing pyramid (a tree graph) that cannot be sustained indefinitely.
+
+Links
+- [https://en.wikipedia.org/wiki/Chain_letter](https://en.wikipedia.org/wiki/Chain_letter)
+ 
 ## Chosen Plaintext Attack
 A chosen-plaintext attack (CPA) is an attack model for cryptanalysis which presumes that the attacker can obtain the ciphertexts for arbitrary plaintexts.
 The goal of the attack is to gain information that reduces the security of the encryption scheme.
