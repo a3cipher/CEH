@@ -54,7 +54,8 @@ Links
 In a vulnerable application, threat actors inject specially crafted data into cache memory, causing the webserver to respond with a malicious HTTP response to the user.
 
 ## Web of Trust
-In cryptography, a web of trust is a concept used in PGP, GnuPG, and other OpenPGP-compatible systems to establish the authenticity of the binding between a public key and its owner.
+n cryptography, a web of trust is a concept used in PGP, GnuPG, and other OpenPGP-compatible systems to establish the authenticity of the binding between a public key and its owner.
+Its decentralized trust model is an alternative to the centralized trust model of a public key infrastructure (PKI), which relies exclusively on a certificate authority (or a hierarchy of such).
 
 Links
 - [https://en.wikipedia.org/wiki/Web_of_trust](https://en.wikipedia.org/wiki/Web_of_trust)

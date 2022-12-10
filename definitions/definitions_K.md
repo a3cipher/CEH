@@ -19,6 +19,12 @@ Keystroke logging, often referred to as keylogging or keyboard capturing, is the
 Links
 - [https://en.wikipedia.org/wiki/Keystroke_logging](https://en.wikipedia.org/wiki/Keystroke_logging)
 
+## Key Derivation Function
+In cryptography, a key derivation function (KDF) is a cryptographic algorithm that derives one or more secret keys from a secret value such as a master key, a password, or a passphrase using a pseudorandom function (which typically uses a cryptographic hash function or block cipher).
+
+Links
+- [https://en.wikipedia.org/wiki/Key_derivation_function](https://en.wikipedia.org/wiki/Key_derivation_function)
+
 ## Key Disclosure Laws
 Key disclosure laws, also known as mandatory key disclosure, is legislation that requires individuals to surrender cryptographic keys to law enforcement.
 
