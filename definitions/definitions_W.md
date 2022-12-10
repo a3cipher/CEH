@@ -87,6 +87,9 @@ Add to your site in minutes!
 Links
 - [https://www.web-stat.com](https://www.web-stat.com)
 
+## Whitelist Validation
+Whitelist validation is the practice of only accepting input that is known to be good.
+
 ## Whois
 WHOIS is a query and response protocol that is widely used for querying databases that store the registered users or assignees of an Internet resource, such as a domain name, an IP address block or an autonomous system, but is also used for a wider range of other information.
 

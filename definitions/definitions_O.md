@@ -30,6 +30,12 @@ Links
 The Open Web Application Security Project® (OWASP) is a nonprofit foundation that works to improve the security of software.
 Through community-led open-source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web.
 
+## Ophcrack
+Ophcrack is a free open-source (GPL licensed) program that cracks Windows log-in passwords by using LM hashes through rainbow tables. The program includes the ability to import the hashes from a variety of formats, including dumping directly from the SAM files of Windows.
+
+Links
+- [https://en.wikipedia.org/wiki/Ophcrack](https://en.wikipedia.org/wiki/Ophcrack)
+ 
 ### OWASP Zap
 The OWASP Zed Attack Proxy (ZAP) is one of the world's most popular free security tools and is actively maintained by a dedicated international team of volunteers.
 
