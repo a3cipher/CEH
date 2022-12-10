@@ -3,8 +3,6 @@
 ## About
 - :notebook: Study notes for the EC-Council Certified Ethical Hacker (C|EH) v12 exam by [@a3cipher](https://github.com/a3cipher).
 
-- :rocket: These notes are published using GitBook at [https://ceh.a3cipher.com](https://ceh.a3cipher.com).
-
 - :information_source: These notes contain references to external sources as well as relevant labs to reinforce the learning concepts of the modules.
 
 ## Thank you!
